@@ -7,3 +7,10 @@ understand. In other words: the contents of the files are either *very different
 material or *essentially the same and don't provide anything new*, depending on how you want to
 look at it. No claims are made and no guarantees are given; these are simply my personal notes and
 they are arranged and edited in a way that is convenient for me.
+
+## Contents
+
+* `big_summary_penguin_punct.md` contains a summary to *The Penguin Guide to Punctuation* by R.L.
+  Trask. This summary goes through the whole book and is, unavoidably, quite large. (Trask's work
+  is great and worth reading and noting in detail.) [In the future I will upload a small summary
+  with just the bullet points.]
