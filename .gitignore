@@ -2,7 +2,7 @@
 *.pdf
 *.xlsx
 *.xls
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.log

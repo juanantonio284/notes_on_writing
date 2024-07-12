@@ -19,8 +19,7 @@ they are arranged and edited in a way that is convenient for me.
   this is "neither a dictionary nor an encyclopedia, but something in between". And its value comes
   from the *study* of language being much more akin to algebra than to the *usage* of language:
   there is little room for ambiguity, and the precise definition of several elements and their
-  relationships is required to even begin a statement. (All credit goes to the original authors for
-  their tremendous work.) I can't say that I've tried to keep the summary as short as possible, or
-  that it's a "practical" guide; but I've certainly tried to build the summary around the terms
-  that I've found are essential to know.
+  relationships is required to even begin a statement. I can't say that I've tried to keep the
+  summary as short as possible, or that it's a "practical" guide; but I've certainly tried to build
+  the summary around the terms that I've found are essential to know.
   

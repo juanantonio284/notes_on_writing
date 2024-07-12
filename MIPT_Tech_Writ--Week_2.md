@@ -1,7 +1,9 @@
-# Week 2, Lesson 1: Technical Writing Overview
+# MIPT - Technical Writing
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
+
+# Week 2, Lesson 1: Technical Writing Overview
 
 ## 2.1 - What's In A Name?
 
