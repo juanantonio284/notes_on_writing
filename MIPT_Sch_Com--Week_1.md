@@ -46,8 +46,7 @@ present information in the written text.
 <!-- Kaplan, R. B. (1966). Cultural Thought Patterns in Intercultural Education. Language Learning, 16(1-2), 1-20. -->
 
 <!-- Kaplan, R. B. (1972). The Anatomy of Rhetoric: Prolegomena -->
-
-![](/home/juanantonio/Development/notes_on_writing/Discourse-thought-patterns-Kaplan-1972-p64.png)
+![](https://github.com/juanantonio284/notes_on_writing/blob/main/Discourse-thought-patterns-Kaplan-1972-p64.png)
 
 * **Semitic pattern**: characterized by parallel constructions and comparisons. Long sentences and
     the use of conjunctions are typical features of this discourse pattern.
