@@ -20,4 +20,5 @@
 *.o
 *.so
 *.dll
+* .Rhistory
 srcs/*
