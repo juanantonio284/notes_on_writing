@@ -22,4 +22,12 @@ they are arranged and edited in a way that is convenient for me.
   relationships is required to even begin a statement. I can't say that I've tried to keep the
   summary as short as possible, or that it's a "practical" guide; but I've certainly tried to build
   the summary around the terms that I've found are essential to know.
+
+* `MIPT_Sch_Com-- ... .md` a great summary of ideas on clear communication (most notably about the
+  differences between the rhetorical styles of native English speaker and non-native English
+  speakers.)
   
+* `MIPT_Tech_Writ--Week_2.md` introduces the basics of technical writing.
+
+* `oxford_abbreviations.md` contains a summary from *New Hart's Rules*/*Oxford Style Manual* on the
+  usage `e.g.`, `i.e.`, `viz.`, and `etc.`.
