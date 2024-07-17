@@ -1,4 +1,4 @@
-# MIPT - Scholarly Communication
+# MIPT - Scholarly Communication - Week I: Science Writing
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
@@ -178,7 +178,7 @@ writing.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 # Week 1, Part 2: Clarity of Thought
 
-## 1.4 - Clarity Precision Accuracy
+## 1.4 - Clarity, Precision, Accuracy
 
 > "State your facts as simply as possible, even boldly. No one wants flowers of eloquence or
    literary ornaments in a research title." — R.B. McKerrow.

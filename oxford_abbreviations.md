@@ -1,6 +1,6 @@
 # Style rules for common abbreviations
 
-[From New Hart's Rules/Oxford Style Manual]
+[From *New Hart's Rules*/*Oxford Style Manual*]
 
 <!-- page 182 -->
 

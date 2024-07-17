@@ -1024,7 +1024,7 @@ Here are some examples:
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Chapter 9: Miscellaneous
 
-[It's probably better to look in *Oxford Style Manual*/*New Hart's Rules* for most topics that would
+[It's probably better to look in *New Hart's Rules*/*Oxford Style Manual* for most topics that would
 fall in this section]
 
 ### Priority Among Punctuation Marks
