@@ -490,7 +490,7 @@ Social Scientists, Revised Edition. https://nataliereid.com/book/read-about/
 * revising and (re)submitting: creating a publishable paper
  -->
 
-## SUPPLEMENTARY VIDEOS
+## Supplementary Videos
 
 1. [Steven Pinker on writing about science][link_1]
 2. [Bill Bryson, Science is fundamentally amazing][link_2]
