@@ -574,8 +574,8 @@ Oxford: Oxford University Press
 
 ## Supplementary Videos
 
-1. [How to start a research paper][link_4]
-2. [How to write a great research paper][link_5]
+1. [How to start a research paper][vl_4]
+2. [How to write a great research paper][vl_5]
 
-[link_4]: http://www.youtube.com/watch?v=5vjGUkcnTg0
-[link_5]: http://www.youtube.com/watch?v=g3dkRsTqdDA
+[vl_4]: http://www.youtube.com/watch?v=5vjGUkcnTg0
+[vl_5]: http://www.youtube.com/watch?v=g3dkRsTqdDA

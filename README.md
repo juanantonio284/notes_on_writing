@@ -20,12 +20,13 @@ way that is convenient for me; no claims are made and no guarantees are given.
   value of something like this comes from the *study* of language being akin to algebra: there is
   little room for ambiguity, and the precise definition of several elements and their relationships
   is required to even begin a statement   
-
-* `MIPT_Sch_Com-- ... .md` a great summary of ideas on clear communication (most notably about the
-  differences between the rhetorical styles of native English speaker and non-native English
-  speakers)
   
 * `MIPT_Tech_Writ--Week_2.md` introduces the basics of technical writing
 
 * `oxford_abbreviations.md` contains a summary from *New Hart's Rules*/*Oxford Style Manual* on the
   usage `e.g.`, `i.e.`, `viz.`, and `etc.`
+
+* `MIPT_Sch_Com` contains class notes with interesting ideas on clear communication (most notably
+  about the differences between the rhetorical styles of native English speaker and non-native
+  English speakers)
+  

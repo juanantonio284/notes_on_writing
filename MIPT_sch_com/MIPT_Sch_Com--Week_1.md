@@ -36,10 +36,15 @@ her writing in a second language. Robert Kaplan argues that text for production 
 organization are related. *Contrastive rhetoric hypothesis* assumes that the culture, ethnicity,
 language, and nation are mapped onto one another in a monolithic, heterogeneous and mutually
 determining kind of way. Thus the Japanese, the Arabs, the Spanish, the Russians, whoever, write
-the way they do because they think this way and this way is different from English. 
+the way they do because they think the way they do—and this way is different from English. 
 
-These are five cultural specific discourse patterns. These are the ways how different cultures
+These are five cultural-specific discourse patterns; these are the ways how different cultures
 present information in the written text.
+
+Kaplan published the results of his analysis of about 600 paragraphs of expository English essays
+written by speakers of Arabic, Korean, Chinese, French, Spanish and Russian which showed
+considerable difference of discourse patterns, determined by cultural specificity. He summed up the
+results of his comparative analysis in the following figure:
 
 <!-- https://www.researchgate.net/publication/343401994/figure/fig1/AS:920497554464771@1596475127497/Discourse-thought-patterns-Kaplan-1972-p64.ppm -->
 
@@ -492,10 +497,10 @@ Social Scientists, Revised Edition. https://nataliereid.com/book/read-about/
 
 ## Supplementary Videos
 
-1. [Steven Pinker on writing about science][link_1]
-2. [Bill Bryson, Science is fundamentally amazing][link_2]
-3. [The Sense of Style:The Thinking Person's Guide to Writing in the 21st Century][link_3]
+1. [Steven Pinker on writing about science][vl_1]
+2. [Bill Bryson, Science is fundamentally amazing][vl_2]
+3. [The Sense of Style:The Thinking Person's Guide to Writing in the 21st Century][vl_3]
 
-[link_1]: http://bigthink.com/videos/steven-pinker-on-writing-about-science
-[link_2]: http://www.theguardian.com/science/video/2013/mar/25/bill-bryson-science-amazing-video
-[link_3]: http://www.youtube.com/watch?v=x0eQYLao4i0
+[vl_1]: http://bigthink.com/videos/steven-pinker-on-writing-about-science
+[vl_2]: http://www.theguardian.com/science/video/2013/mar/25/bill-bryson-science-amazing-video
+[vl_3]: http://www.youtube.com/watch?v=x0eQYLao4i0
