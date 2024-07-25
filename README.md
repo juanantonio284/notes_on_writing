@@ -10,6 +10,9 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ## Contents
 
+* `analysis_public_speaking_thesis.md` analyses Emily Johnston's Three Minute Thesis University of
+  South Australia Grand Final winning presentation
+
 * `big_summary_penguin_punct.md` contains a summary to *The Penguin Guide to Punctuation* by R.L.
   Trask
   
