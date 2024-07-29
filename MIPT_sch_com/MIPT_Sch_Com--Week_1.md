@@ -3,6 +3,11 @@
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
 
+The module covers issues relating to writing strategies, style, hedging, clear meaning,
+organization, and choice of first-person pronouns. The focus is on improving your ability to write
+academic English appropriate to a research article.
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 # Week 1, Part 1: Conventions
 
 ## 1.1 - Writing in English

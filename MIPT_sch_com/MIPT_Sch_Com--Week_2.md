@@ -3,6 +3,19 @@
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
 
+This module covers issues relating to the internal text structures intrinsic to a research article. 
+
+Topics: 
+
+* the Anglo-American style of outlining, paragraphing, and argumentation to make the reading process
+  easier for the reader
+* developing an awareness of the process of journal analysis
+* strategies to avoid obvious negation
+* creating stronger academic writing by choosing the right verb form used either in the active or
+  passive voice
+* clarifying the usage of three major types of modifiers (squinting, misplaced, and dangling)
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 # Week 2, Part 1: Pet Peeves
 
 ## 2.1 Wayward Modifiers
