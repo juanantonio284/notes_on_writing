@@ -273,7 +273,7 @@ that contain over 2000 or 3000 words which can be much longer than the paper its
    Science Council of Japan
 
 Graduate students and all those who embark on a career of a scientist may do well to consult
-[*On Being a Scientist: Responsible Conduct in Research*][link_1]
+[*On Being a Scientist: Responsible Conduct in Research*][link_3]
 
 The most important rules of scientific responsible conduct? Authenticity, accuracy, and
 originality.
@@ -332,10 +332,6 @@ follow the rules of ethical scientific conduct.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## 4.5 Self Promotion
-
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- %     Continue here --------------------------------------- -->
-<!-- %     Continue here --------------------------------------- -->
 
 > "In most, if not all, scientific careers, success is wrapped up in people knowing who we are, in
    getting our name out and infiltrating the circles that can help us reach that next goal." — A
@@ -410,7 +406,7 @@ notice you from the very start of your academic career.
 ## Readings
 
 1. Schimel, J. (2012). Writing science: How to write papers that get cited and proposals that get
-funded. Oxford [England: Oxford University Press.
+funded. Oxford University Press.
 
 2. Hambleton, V., & Greenwood, C. (2012). So, you want to be a writer?: How to write, get published,
 and maybe even make it big! New York, NY: Aladdin
@@ -418,8 +414,7 @@ and maybe even make it big! New York, NY: Aladdin
 3. Davis, M. (2005). Scientific papers and presentations (Rev. ed.). Burlington, Mass.: Academic
 Press.
 
-4. Blum, D. (2006). A field guide for science writers (2nd ed.). Oxford [England: Oxford University
-Press.
+4. Blum, D. (2006). A field guide for science writers (2nd ed.). Oxford University Press
 
 5. Hancock, E. (2003). Ideas into words: Mastering the craft of science writing. Baltimore: Johns
 Hopkins University Press
@@ -434,18 +429,16 @@ Williams and Wilkins.
 
 ## Other
 
-[The European Code of Conduct for Research Integrity][link_2]
+1. [The European Code of Conduct for Research Integrity][link_4]
+2. [Elsevier "bite-sized" tutorials: "How to Get Published"][link_5]
+3. [Elsevier Early Career Resources -- How to chart a successful research career][vl_11]
+4. [A conversation with Dr. Steven Pinker about the future of writing][vl_13]
+5. [Albert Rothenberg tells young scientists what they need to know about scientific creativity][vl_12]
 
-[Elsevier "bite-sized" tutorials: "How to Get Published"][link_3]
+[link_3]: https://www.nap.edu/read/4917/chapter/1
+[link_5]: https://www.elsevier.com/connect/videos/tutorials
+[link_4]: http://www.esf.org/fileadmin/Public_documents/Publications/Code_Conduct_ResearchIntegrity.pdf
 
-[Elsevier Early Career Resources -- How to chart a successful research career][vl_11]
-
-[Albert Rothenberg tells young scientists what they need to know about scientific creativity][vl_12]
-
-A conversation with Dr. Steven Pinker about the future of writing [no link]
-
-[link_1]: https://www.nap.edu/read/4917/chapter/1
-[link_2]: http://www.esf.org/fileadmin/Public_documents/Publications/Code_Conduct_ResearchIntegrity.pdf
-[link_3]: https://www.elsevier.com/connect/videos/tutorials
 [vl_11]: http://www.youtube.com/watch?v=Cweui1-TXEk
 [vl_12]: http://www.youtube.com/watch?v=ItSEQOlIWNs
+[vl_13]: https://www.youtube.com/watch?v=qSDL1rjEH5g

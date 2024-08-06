@@ -579,11 +579,7 @@ Washington, DC: American Psychological Association
 7. Ritter, R. (2005). New Hart's rules: Adapted from The Oxford guide to style by R.M. Ritter.
 Oxford: Oxford University Press
 
-8. [The Canadian style][]: a guide to writing and editing 
-
-[The Chicago Manual of Style Online]:  http://www.chicagomanualofstyle.org/home.html
-
-[The Canadian style]: http://publications.gc.ca/site/eng/68599/publication.html
+8. [The Canadian style][]: a guide to writing and editing ju
 
 ## Supplementary Videos
 
@@ -592,3 +588,6 @@ Oxford: Oxford University Press
 
 [vl_4]: http://www.youtube.com/watch?v=5vjGUkcnTg0
 [vl_5]: http://www.youtube.com/watch?v=g3dkRsTqdDA
+
+[The Chicago Manual of Style Online]:  http://www.chicagomanualofstyle.org/home.html
+[The Canadian style]: http://publications.gc.ca/site/eng/68599/publication.html

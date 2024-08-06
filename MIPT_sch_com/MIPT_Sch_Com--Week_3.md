@@ -105,8 +105,6 @@ when by some reason the paper is returned to you and you need to review it and t
 > "This so-called IMRaD structure is not an arbitrary publication format, but rather a direct
    reflection of the process of scientific discovery." — [Edanz][] (English editing company)
 
-[Edanz]: https://www.edanzediting.com
-
 IMRaD: Introduction, Methods, Results, and Discussion
 
 Papers that report experimental work are often structured chronologically in five sections:
@@ -605,13 +603,11 @@ The Cambridge Press.
 
 6. Senturia, S. (2003.). Guest editorial how to avoid the reviewer's axe: One editor's view. Journal
 of Microelectromechanical Systems J. Microelectromech. Syst., 229-232. Retrieved December 6, 2015,
-from http://tid.uio.no/kurs/fys4260/How_to_avoid_the_reviewer's_axe.pdf
+from [link to pdf download][]
 
 7. Scientific style and format: The CSE manual for authors, editors, and publishers (7th ed.).
 (2006). Reston, VA: Council of Science Editors in cooperation with the Rockefeller University
 Press.
-
-[Elsevier Research Platforms]: https://www.elsevier.com/research-platforms
 
 ## Supplementary Videos
 
@@ -626,3 +622,7 @@ Press.
 [vl_8]: http://www.youtube.com/watch?v=_Fx7QtSjmY0
 [vl_9]: http://www.youtube.com/watch?v=tLvF-zSmepE
 [vl_10]: http://www.youtube.com/watch?v=oHBtEb_gzjQ
+
+[link to pdf download]: http://tid.uio.no/kurs/fys4260/How_to_avoid_the_reviewer's_axe.pdf
+[Elsevier Research Platforms]: https://www.elsevier.com/research-platforms
+[Edanz]: https://www.edanzediting.com

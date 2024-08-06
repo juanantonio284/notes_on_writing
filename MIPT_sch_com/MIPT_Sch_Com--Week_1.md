@@ -485,20 +485,28 @@ Washington, DC: American Psychological Association.
 6. Rogers, S.M. (2007). Mastering scientific and medical writing: A self-help guide. N.Y.
 
 7. Martínez, I. (2005). Native and non-native writers' use of first person pronouns in the different
-sections of biology research articles in English. Journal of Second Language Writing, 174-190.
-https://www.sciencedirect.com/science/article/abs/pii/S1060374305000214
+sections of biology research articles in English. Journal of Second Language Writing, 174-190. 
+[link][link_1]
+
 
 8. Natalie Reid (2008). Getting Published in International Journals: Writing Strategies for European
-Social Scientists, Revised Edition. https://nataliereid.com/book/read-about/
+Social Scientists, Revised Edition. [link][link_2]
 
-<!-- gives its readers the analytical, contextual, structural, and stylistic writing tools for competing with native speakers of English for limited space in international journals. The book reveals the unwritten rules of English academic rhetoric and discusses them within the context of the different and unconscious expectations accorded both readers and writers with the English linguistic community. Author Natalie Reid presents five major strategies for maximizing the academic writer's chances of publication in the top journals in his or her field. These strategies are: -->
 <!-- 
+
+gives its readers the analytical, contextual, structural, and stylistic writing tools for competing
+with native speakers of English for limited space in international journals. The book reveals the
+unwritten rules of English academic rhetoric and discusses them within the context of the different
+and unconscious expectations accorded both readers and writers with the English linguistic
+community. Author Natalie Reid presents five major strategies for maximizing the academic writer's
+chances of publication in the top journals in his or her field. These strategies are:
 * editing for strength: less is more
 * editing for clarity: the writer's obligation
 * organizing and arguing, Anglo-American style
 * analyzing journals for elimination and submission
 * revising and (re)submitting: creating a publishable paper
- -->
+
+-->
 
 ## Supplementary Videos
 
@@ -509,3 +517,6 @@ Social Scientists, Revised Edition. https://nataliereid.com/book/read-about/
 [vl_1]: http://bigthink.com/videos/steven-pinker-on-writing-about-science
 [vl_2]: http://www.theguardian.com/science/video/2013/mar/25/bill-bryson-science-amazing-video
 [vl_3]: http://www.youtube.com/watch?v=x0eQYLao4i0
+
+[link_1]: https://www.sciencedirect.com/science/article/abs/pii/S1060374305000214
+[link_2]: https://nataliereid.com/book/read-about/
