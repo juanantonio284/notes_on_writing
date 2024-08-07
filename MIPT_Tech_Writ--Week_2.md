@@ -1,8 +1,30 @@
-# MIPT - Technical Writing
+# MIPT - Technical Writing - Week 2: From Start to Finish
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
 
+This module covers:
+
+* acquiring knowledge about technical writing, which deals with complex topics in precise ways
+* issues related to workplace research that you will have to conduct as a technical writer
+  (your challenge will be to sort the relevant information from the irrelevant, and the accurate
+  from the bogus)
+* audience, purpose, and measures of excellence in technical documents
+* what it means to be a good technical communicator
+ 
+Learning Objectives:
+
+* Discover what it means to be a successful technical writer and identify characteristics of
+  technical documentation
+* Differentiate between technical writing and other types of writing
+* Identify a range of skills technical writers need to acquire to communicate complex information to
+  those who need it to accomplish some task or goal
+* Distinguish three types of knowledge every technical writer needs to gain to succeed
+* Develop a greater understanding of collaborative writing
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # Week 2, Lesson 1: Technical Writing Overview
 
 ## 2.1 - What's In A Name?
