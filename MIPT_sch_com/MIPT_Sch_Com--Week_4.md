@@ -1,4 +1,4 @@
-# MIPT - Scholarly Communication - Week IV: SCIENTIFIC COMMUNICATION 
+# MIPT - Scholarly Communication - Week 4: SCIENTIFIC COMMUNICATION 
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]

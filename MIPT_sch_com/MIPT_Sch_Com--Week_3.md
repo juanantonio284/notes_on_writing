@@ -1,4 +1,4 @@
-# MIPT - Scholarly Communication - Week III: The Manuscript
+# MIPT - Scholarly Communication - Week 3: The Manuscript
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
