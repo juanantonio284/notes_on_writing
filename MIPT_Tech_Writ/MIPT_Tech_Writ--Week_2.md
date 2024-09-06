@@ -1,4 +1,4 @@
-# MIPT - Technical Writing - Week 2: From Start to Finish
+# MIPT - Technical Writing - Week 2: "From Start to Finish"
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
