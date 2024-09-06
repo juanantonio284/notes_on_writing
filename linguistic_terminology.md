@@ -1,8 +1,9 @@
-# Some linguistic terminology
+# Some Linguistic Terminology
+
+[Source: Trask/Stockwell, *Language And Linguistics: The Key Concepts* (2nd edn)]  
 
 **Notes**
 
-* Source: Trask/Stockwell, *Language And Linguistics: The Key Concepts* (2nd edn)  
 * In the examples, each clause is marked off by brackets.  
 * Cross-references to other entries are given in **bold face** on first mention.  
 * Terms which are explained in context but which do not merit their own entry are marked
