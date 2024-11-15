@@ -472,4 +472,149 @@ with compression.
  point the cycle is complete and the process repeats."
 ```
 
-<!-- need to add week 3 lesson 6 and maybe more-->
+
+<!-- need to finish adding week 3 lesson 6 and maybe more-->
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+# Week 3, Lesson 6: Report Structure
+
+## Planning stage
+
+The planning stage of technical report writing is the most time consuming. Here is a suggested set
+of guidelines for effectively planning your report:
+
+**Step 1**: Define the problem and the purpose of the report
+
+* What will the report investigate? 
+* What is the scope of your investigation?
+* What are the limitations of your investigations? 
+* What method will you use to conduct your investigation? 
+* What is the significance of this investigation? 
+
+**Step 2**: Define the audience
+
+At university, it is relatively easy to define your audience (usually a lecturer or tutor). In the
+workplace, this process may require further analysis and will impact on the scope and style of your
+report in terms of issues such as the degree of technicality required.
+
+**Step 3**: Define the ideas you're planning to include
+
+It is important to establish the ideas or topics you need to address. Make a list of all the
+potential topics and sections of the report. From those you can draw up a preliminary outline of
+headings, this step will greatly assist in collecting the information you need to write the
+report.
+
+**Step 4**: Collect information
+
+There are two main categories of information used in report writing. Primary: interviews with
+people, conversations and so on. Secondary: published materials, previous reports, statistics. Make
+sure that your sources are reliable.
+
+**Step 5**: Sorting and evaluating the information gathered
+
+As you review, highlight key terms and ideas that relate to the purpose of the report. This
+highlighted material may make up the finding section of the report. Place this in the file and put
+any irrelevant material into a background file. Do not discard any information until the report is
+complete. Circumstances can change and you will save time if you need to make any major changes or
+the purpose of the report changes.
+
+**Step 6**: Organizing the information
+
+Going back to the preliminary headings you drew up, begin to sort your information under these
+headings, if they're still appropriate. This step is very important, because you must ensure that
+you have a suitable structure or outline of their report, keep the big picture in mind. How do the
+ideas link together? Are there any gaps in the information? What headings or issues are the most
+important, and what sub-headings might come under them? You may need to revise your headings or
+outline during this process and add new topics or remove redundant or irrelevant ones. Categorize
+your information under the headings and then plan sub headings. Having done this ensure that your
+sequence of headings and sub headings is logical and appropriate.
+
+**Step 7**: Prepare the outline
+
+The order of the information is closely linked with the purpose of the report. There are different
+ways to provide a logical order of information:
+
+* Chronological sequence
+* Order of importance most important to least important, or vice versa
+* Deductive order, from the general to the specific
+* Inductive order, from the specific to the general
+* Problem solving order
+* Scientific report structure or order. 
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Report Structure: Part 1
+
+An important consideration when preparing a technical report is the audience and the purpose of the report.
+
+<!-- Report aims to inform, brief managers or to provide technical background information for lay people associated with the project or to make recommendations to technical supervisors. -->
+
+<!-- Reports utilize headings to divide information into sections. The headings help the reader to locate relevant information quickly. -->
+
+In this slide you can find some guidelines for structuring your report.
+
+### Structuring your report
+
+```
+
+Title Page         |Report title
+                   |Your name
+                   |submission date
+
+Executive Summary  |overview of subject matter
+                   |methods of analysis
+                   |findings
+
+Table of Contents  |list of numbered sections in report and their page numbers
+
+Introduction       |terms of reference
+                   |outline of report's structure
+
+```
+
+### Abstract (or executive summary)
+
+Provides a summary of the report's essential information; is usually about 100 to 200 words in and
+it's usually presented on a separate page.
+
+The abstract, or executive summary should summarize: 
+
+* the background to the problem
+* the purpose of the report
+* the goal of the work reported on the scientific or commercial objective
+* brief details of the approach, procedure, and methods
+* important results and findings
+* conclusions
+* recommendations
+
+The information included in the abstract or executive summary will, however, depend largely on the
+information that has been included in the report. For example if the report does not provide
+recommendations, no recommendations will be outlined in the abstract or executive summary.
+
+### Table of contents
+
+In a report longer than several pages, a table of contents should be included as it assists the
+reader to locate information quickly. It also gives the reader a schematic overview of the
+structure and contents of the report. **A table of contents should include all section headings and
+subheadings, worded and numbered exactly as they appear in the report.** The table of contents
+should be on its own page.
+
+### Optional sections
+
+(Each section should be on a separate page)
+
+* List of figures: used mainly for reports containing numerous figures. It includes the figure
+  number, caption and page number, ordered as they appear in the text
+
+* List of tables: used mainly for reports containing numerous tables. It includes the table number,
+  caption and page number, ordered as they appear in the text
+
+* List of appendices: used mainly for reports containing numerous appendices. Each separate appendix
+  index should be lettered (A, B, etc.). Its title and page number ordered as they appear at the
+  end of the report
+
+* Nomenclature: a list of symbols and definitions should appear at the beginning of the report if
+  symbols are used extensively. If there is no list, symbols should be defined in the text when
+  first used
+  
+  
