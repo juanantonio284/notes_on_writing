@@ -472,8 +472,6 @@ with compression.
  point the cycle is complete and the process repeats."
 ```
 
-
-<!-- need to finish adding week 3 lesson 6 and maybe more-->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # Week 3, Lesson 6: Report Structure
@@ -617,4 +615,151 @@ should be on its own page.
   symbols are used extensively. If there is no list, symbols should be defined in the text when
   first used
   
-  
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Report Structure: Part 2
+
+### Introduction
+
+This section gives the reader the necessary background information. The introduction can include: 
+
+1. statement of the problem
+
+2. description of the main aims, objectives, scope, and parameters of the report
+
+3. review of previous work or research in this area, and identification of their relationship
+between this research and the current project.
+
+4. an overview of the report's sections and their relationship to the research problem
+
+5. explanations of terminology if necessary
+
+6. method or methods of approach
+
+7. indications of scope and limitations of the study
+
+8. outline of material presented in rest of the report
+
+While there will be some duplication in the contents of the executive summary and the introduction,
+the purpose of the executive summary is to provide a summary of the findings of each section of the
+report; while the purpose of the introduction is to outline what the report will cover and how
+those issues address the research problem.
+
+### Body
+
+The body expands and develops the material in a logical and coherent manner, reflecting the
+structure outlined in the introduction. It contains a description of the findings, it should also
+relate the findings to any theory of relevance.
+
+The following questions are examples of some of the types of questions the body of your report
+should seek to answer.
+
+* What were the most significant findings or factors involved in topic or problem?
+* Did the findings support the theory?
+* Have you found some disagreement with the theory?
+* Did you uncover any unexpected or new issues that need to be considered?
+
+This section is usually the longest part of the report, so the material must be presented logically
+to make it easier to read. 
+
+You should make sure the headings and sub-headings you choose are informative. Research type reports
+may include sections such as `theory` or `modeling`, `methods and materials`, `results`,
+`comparisons of theory`, `previous work`, `discussion`, and `analysis`.
+
+### Conclusion
+
+* summarizes the major inferences that can be drawn from the information presented in the report
+* answers the questions raised by the original research problem, or stated purpose, of the report
+  and states the conclusions reached
+* attempts to show what it all means, the significance of the findings reported and their impact
+
+The conclusions, or conclusion, presented in the report must be related to, resulting from, and
+justifiable by the material which appears in the report.
+
+The conclusion **must not introduce any new material**, it should report on all the conclusions that
+the evidence dictates. As it is not the job of a conclusion to gloss over conclusions that are
+puzzling, unpleasant, incomplete, or do not seem to fit into your scheme. In the workplace,
+conclusions are quite often read by managers before the main text of the report, and hence, should
+summarize the main points clearly.
+
+This section also may include:
+
+* reference to original aim or aims and the objectives of the report
+* applications of the results
+* limitations and advantages of the findings, objective opinion, evaluation or judgement of the
+  evidence
+
+Conclusions may be ordered in several ways:
+
+* the main conclusion may be stated first and then any other conclusions in decreasing order of
+  importance
+
+* alternatively, it may be better to organize the conclusions in the same order as the body section
+  was organized
+
+* another strategy would be to present the positive conclusions together, and then the negative
+  conclusions
+
+The organizational strategy you use may vary, the important thing is that it should be logical. The
+conclusion must arise from the evidence discussed in the body of the report. It should not,
+therefore, subjectively tell the reader what to do. This job is performed by the recommendation
+section.
+
+### Recommendations
+
+Recommendations should:
+
+* emerge from the conclusions of the report
+* be feasible and appropriate to the problem (e.g. the cost should be realistic to the budget)
+* be ethical
+
+The recommendation section provides your opinion on the course of action to be taken. You should not
+therefore hedge your bets by recommending all possible actions. Sometimes, it may be the case that
+you recommend that no action be taken as this, in your opinion, it is the best course of action to
+take.
+
+Recommendations are written for action, so they should be as concrete and specific as possible. They
+should read as a list of things the client should do. They can be written in prose or can be
+presented as bulleted information.
+
+Break each recommendation down into as many component parts as seems logical. Let your reader know
+why you're recommending inaction by supplying the reasons for your decision drawn from the
+conclusions of the report. Include helpful and useful information in your recommendation. Such as
+how to implement the course of action suggested, or other sources of information the reader may
+want to follow up.
+
+Recommendations should usually be presented as a separate section from the conclusion. But
+sometimes, it is also appropriate to combine them as separately labeled subsections in a conclusion
+and recommendation section.
+
+### Bibliography
+
+It is essential to introduce a reference list or a bibliography of the referenced material you
+consulted during your research for the project. 
+
+* a bibliography is a list of all the reference material you consulted during your research for the
+  report
+
+* a reference list is a list of all the references cited in the text of your report, listed in
+  alphabetical order at the end of the report
+
+Each reference in the reference list needs to contain all of the bibliographic information from a
+source. You should also check with your lecturer or tutor for any faculty guidelines or referencing
+format. Or you should check the author's guide if you're presenting your report for your clients in
+the workplace
+
+### Appendix
+
+Repetitive or lengthy information which validates your conclusions or pursues a related point,
+should be placed in an appendix (i.e. information that is not essential to explain your findings
+but supports your analysis).
+
+Sometimes excerpts from this supporting information, for example, part of a data set, will be placed
+in the body of the report. But the complete set of information should be included in the appendix.
+
+Examples of information that could be included in an appendix include figures, tables, charts,
+graphs of results, statistics, questionnaires, transcripts of interviews, pictures, lengthy
+derivatives of equations, maps, drawings, letters, specification or data sheets, computer program
+information, etc. 
+
+There is no limit to what can be placed in the appendix, providing it is relevant and reference is
+made to it in the report.
