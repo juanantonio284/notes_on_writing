@@ -27,8 +27,12 @@ way that is convenient for me; no claims are made and no guarantees are given.
 * `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
   *viz.*, and *etc.*
 
-* `writing_terminology.md` explains the context and meaning of different terms in
-  writing: *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*
+* `publishing_terminology.md` explains the context and meaning of publishing terms like *editing*, 
+  *copy-editing*, *proofreading*
+
+* `writing_terminology.md` explains the context and meaning of terms in writing such as
+  *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*
+
 
 ### MIPT
 
