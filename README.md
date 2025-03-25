@@ -27,12 +27,13 @@ way that is convenient for me; no claims are made and no guarantees are given.
 * `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
   *viz.*, and *etc.*
 
-* `publishing_terminology.md` explains the context and meaning of publishing terms like *editing*, 
-  *copy-editing*, *proofreading*
+* `publishing_terminology_1.md`, and `publishing_terminology_2.md` explain the context and meaning
+  of publishing terms like *editing*, *copy-editing*, *proofreading*
 
 * `writing_terminology.md` explains the context and meaning of terms in writing such as
   *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*
 
+* `translation_tips.md` contains tips i would give my younger self for doing translation work
 
 ### MIPT
 
