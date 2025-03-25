@@ -1,6 +1,6 @@
-# Copyediting and Proofreading
+# Publishing Terminology 1
 
-## What is copy-editing?
+# Copy-editing
 
 <!-- https://www.ciep.uk/about/faqs/what-is-the-difference-between-copyediting-and-proofreading -->
 <!-- what is copy? -->
@@ -53,7 +53,7 @@ negotiation and briefing.
 
 <!-- START ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 <!-- BUTCHER'S COPY-EDITING The Cambridge Handbook for Editors, Copy-editors and Proofreaders -->
-## Tasks of the copy-editor
+### Tasks of the copy-editor
 
 1. *Detailed editing for sense* is concerned with whether each section expresses the author's meaning
 clearly, without gaps and contradictions. It involves looking at each sentence, the author's choice
@@ -75,7 +75,7 @@ uncommon.)
 
 <!-- START ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 <!-- SFEP some older page https://www.sfep.org.uk/about/faqs/what-is-copy-editing/ -->
-## Elements of concern
+### Elements of concern
 
 Working through the material, the copy-editor corrects errors in spelling, punctuation, grammar,
 style and usage, but also very long sentences and overuse of italic, bold, capitals, exclamation
@@ -137,14 +137,14 @@ of editing*.
 <!-- END ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## What is proofreading?
+## Proofreading
 
 After material has been copy-edited, the publisher sends it to a designer or typesetter. Their work
 is then displayed or printed, and that is the **proof**—proof that it is ready for publication.
 
 **Proofreading** is the quality check and tidy-up. Proofreading is often 'blind'–the proof is read
-  on its own merits, without seeing the edited version. (In general, the copy-editing stage takes
-  place before the proof stage, and the proof-reading takes place after.)
+on its own merits, without seeing the edited version. (In general, the copy-editing stage takes
+place before the proof stage, and the proof-reading takes place after.)
 
 A **proofreader** looks for consistency in usage and presentation, and accuracy in text, images and
 layout, but cannot be responsible for the author's or copy-editor's work. The proofreader's terms
@@ -179,7 +179,6 @@ author's final thoughts.**
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-
 ## Other roles/terminology
 
 ### Editor
