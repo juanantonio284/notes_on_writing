@@ -3,36 +3,37 @@
 ## Purpose, Strategy, and Style
 <!-- page 9 chapter 2 originally named "Strategy and Style" -->
 
-* *Purpose*, the end you're aiming at, determines strategy and style
-    - it involves not only what you write about but how you affect readers
+* *Purpose*, the end you're aiming at, determines strategy and style. It involves not only what you
+   write about but how you affect readers
 
 * *Strategy* involves choice—selecting particular aspects of a topic to develop, deciding how to
    organize them, choosing this word rather than that, constructing various types of sentences,
    building paragraphs
 
-* *Style* is the result of strategy, the language that makes the strategy work
-    - style is immediate and obvious: it exists in the writing itself; it is the sum of the actual
-      words, sentences, paragraphs
+* *Style* is the result of strategy, the language that makes the strategy work. It is immediate and
+   obvious: it exists in the writing itself; it is the sum of the actual words, sentences,
+   paragraphs
 
 **Style**
 <!-- page 11 -->
 
 In its broadest sense "style" is the total of all the choices a writer makes concerning words and
-their arrangements. 
+their arrangements. In this sense, style may be good or bad—good if the choices are appropriate to
+the writer's purpose, bad if they are not. 
 
-In this sense style may be good or bad—good if the choices are appropriate to the writer's purpose,
-bad if they are not. More narrowly, "style" has a positive, approving sense, as when we say that
-someone has "style" or praise a writer for his or her "style." More narrowly yet, the word may also
-designate a particular way of writing, unique to a person or characteristic of a group or
-profession: "Hemingway's style," "an academic style."
+More narrowly, "style" has a positive, approving sense, as when we say that someone has "style" or
+praise a writer for his or her "style". 
 
-Here we use style to mean something between those extremes. It will be a positive term, and while
-we speak of errors in style, we don't speak of "bad styles." On the other hand, we
-understand "style" to include many ways of writing, each appropriate for some purposes, less so for
-others. There is no one style, some ideal manner of writing at which all of us should aim. Style is
-flexible, capable of almost endless variation. But **one thing style is not: it is not a
-superficial fanciness brushed over the basic ideas**. Rather than the gilding, style is the deep
-essence of writing.
+More narrowly yet, the word may also designate a particular way of writing, unique to a person or
+characteristic of a group or profession: "Hemingway's style", "an academic style".
+
+Here we use style to mean something between those extremes. It will be a positive term, and while we
+speak of errors in style, we don't speak of "bad styles". On the other hand, we understand "style"
+to include many ways of writing, each appropriate for some purposes, less so for others. There is
+no one style, some ideal manner of writing at which all of us should aim. Style is flexible,
+capable of almost endless variation. But **one thing style is not: it is not a superficial
+fanciness brushed over the basic ideas**. Rather than the gilding, style is the deep essence of
+writing.
 
 [See "marriage" example at bottom of page 9 to illustrate all of these at work.]
 
@@ -47,11 +48,12 @@ mechanics.
 
 ### Grammar
 
-* Grammar means the rules which structure our language. The sentence "She dresses beautifully" is grammatical. These variations are not: `Her dresses beautifully.`, `Dresses beautifully she.`
+The sentence "`She dresses beautifully`" is grammatical. These variations are not: `Her dresses
+beautifully.`, `Dresses beautifully she.`
 
-Grammatical rules are *not* the pronouncements of teachers, editors, or other authorities. They are
-simply the way people speak and write, and if enough people begin to speak and write differently,
-the rules change.
+Grammar means the rules which structure our language, but grammatical rules are *not* the
+pronouncements of teachers, editors, or other authorities. They are simply the way people speak and
+write, and if enough people begin to speak and write differently, the rules change.
 
 ### Usage 
 
@@ -65,21 +67,25 @@ ending, that ain**'t** and a double negative like "ain't got no" or "haven't got
 avoided.
 
 Grammar and usage are often confused. Many people
-would argue that the sentences above are "ungrammatical."
+would argue that the sentences above are "ungrammatical".
 Our distinction, however, is more useful: 
 
 * Grammatical rules are implicit in the speech of all who use the language
 
-* Usage rules, on the other hand, stem from and change with social pressure. 
+* Usage rules, on the other hand, stem from and change with social pressure
   
-  - Ain't, for example, was once acceptable. The adverbial use of an adjective like beautiful was
+  - *Ain't*, for example, was once acceptable. The adverbial use of an adjective like beautiful was
     common in seventeenth-century prose. Chaucer and Shakespeare use double negatives for emphasis.
     The fact that usage rules are less basic than grammatical ones, however, and even that they may
     seem arbitrary, does not lessen their force. Most of them contribute to clarity and economy of
-    expression.
+    expression
 
-Moreover, usage applies to all levels of purpose and strategy, to informal, colloquial styles as well as to formal ones. For example, grammatically incomplete sentences (or fragments), frowned upon in formal usage, are occasionally permissible and even valuable in informal composition. 
-The word 'so' is regarded in formal English as a subordinating conjunction which ought not to introduce a sentence. But in a colloquial style, it may work better than a more literary connective like 'consequently' or 'therefore'.
+Moreover, usage applies to all levels of purpose and strategy, to informal, colloquial styles as
+well as to formal ones. For example, grammatically incomplete sentences (or fragments), frowned
+upon in formal usage, are occasionally permissible and even valuable in informal composition. The
+word 'so' is regarded in formal English as a subordinating conjunction which ought not to introduce
+a sentence. But in a colloquial style, it may work better than a more literary connective
+like 'consequently' or 'therefore'.
 
 ### Mechanics
 
@@ -90,7 +96,7 @@ mechanics.
 These sentences violate other rules of mechanics: `she dresses beautifully`, `She dresses
 beautifuly`. Conventions of writing require that a sentence begin with a capital letter and end
 with full-stop punctuation (period, question mark, or exclamation point). Conventions of spelling
-require that beautifully have two `l`.
+require that *beautifully* have two `l`.
 
 The rules gathered under the heading of mechanics attempt to make writing consistent and clear. They
 may seem arbitrary, but they have evolved from centuries of experience. Generally they represent,
@@ -99,6 +105,7 @@ if not the only way of solving a problem, an economic and efficient way.
 Along with mechanics we include punctuation, a very complicated subject and by no means purely
 mechanical. While some punctuation is cut-and-dried, much of it falls into the province of usage or
 style. 
+
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Grammar, Usage, and Style
