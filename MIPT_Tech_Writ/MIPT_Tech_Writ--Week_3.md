@@ -5,11 +5,10 @@ Some corrections have been made—which is to say that many things have not been
 
 This module covers:
 
-* how to use visuals to communicate a large amount of information quickly and efficiently
-* general guidelines for using graphical tools that you can use to design visuals with the output
-  process of the report in mind
-* how to define a term using various techniques of extended definitions
-* guidelines for effective planning of technical report writing
+* Usage of visuals to communicate a large amount of information quickly and efficiently
+* General guidelines for using graphical tools within the process of writing a report
+* Defining a term using various techniques of extended definitions
+* Guidelines for effective planning of technical report writing
 
 Learning Objectives:
 
@@ -23,9 +22,10 @@ Learning Objectives:
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 3, Lesson 4: Visuals and Technicalities
+# W3, L4: Visuals and Technicalities
+<!-- Week 3, Lesson 4 -->
 
-## Visuals
+## 1. Visuals
 
 Visuals communicate a large amount of information quickly and efficiently.
 
@@ -36,10 +36,10 @@ Visuals communicate a large amount of information quickly and efficiently.
   terminology
 
 * Avoid visuals that include too much or too little complexity for the level of discussion in the
-  paper, these are general guidelines for using visuals
+  paper (this is a general guideline for using visuals)
 
-* Include visuals in a technical paper only when you have a reason to do so (if you do not know why
-  you're putting a visual into your paper, you probably do not need it)
+* Include visuals in a technical paper only when you have a clear reason to do so (if you do not
+  know why you're putting a visual into your paper, you probably do not need it)
 
 * Reference a visual in the text discussion **prior** to its placement in the report (if the visual
   precedes its reference the reader will wonder why is it there, be sure to number and title all
@@ -47,9 +47,9 @@ Visuals communicate a large amount of information quickly and efficiently.
 
 * Ensure all visuals directly clarify, or otherwise enhance, the text discussion. You need to
   integrate them into your report, not just stick them somewhere. That, ultimately, means
-  that **the labels and the captions used in the visual should match the text descriptions**. For
-  example, if you're describing the negative terminal of a diode, do not call "the negative
-  terminal" in the text and "the cathode" in the visual
+  that **the labels and the captions used in the visual should match the text descriptions**. 
+    - For example, if you're describing the negative terminal of a diode, do not call "the negative
+      terminal" in the text and "the cathode" in the visual
 
 * Document your visuals when they contain copyrighted information or represent borrowed ideas
   because visuals often get separated from the report. Do not rely solely on notational or
@@ -60,11 +60,11 @@ Visuals communicate a large amount of information quickly and efficiently.
 
 **Reproducibility**: design your visuals with the output process of your report in mind
  
-* If your report will be printed or duplicated in a single color link, or toner, consider the fact
-  when you are developing graphs or diagrams. Be especially wary of different colors that may look
-  great on your video display, but could print with exactly the same shades of grey or even blend
-  into the color of the paper on which the report is printed. A safe approach is to use pattern
-  fields instead of color when the reports will be printed or duplicated in a single color
+* When you are developing graphs or diagrams, consider the how the report will be printed
+  (greyscale, color, etc.) Be especially wary of different colors that may look great on your video
+  display, but could print with exactly the same shades of grey or even blend into the color of the
+  paper on which the report is printed. A safe approach is to use pattern fields instead of color
+  when the reports will be printed or duplicated in a single color
 
 **Simplicity**: remember that the purpose of visuals is to supplement and clarify the information
   you are presenting
@@ -96,21 +96,22 @@ Visuals communicate a large amount of information quickly and efficiently.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## Technical definition
+## 2. Technical definition
 
 In technical writing, a **definition** is the process by which one assigns a precise meaning to a
-term. To define a term, it must be placed into classification and then differentiated from other
-terms in that same classification.
+term. To define a term, it must be placed into a **classification** and then **differentiated**
+from other terms in that same classification.
 
-**The format for technical definition** is straightforward and works like this: 
+### Definition
+
+**The format for a simple technical definition** is straightforward: 
 `Term = Classification + Differentiation`.
 
 For example, if a writer were to define *the stall condition that an airplane experiences when it
 loses lift*, he or she could start with the term (`stall`), followed by a classification
-(`flight condition`), and then differentiate it from all other flight conditions.
-
-The definition might be something like this: `A stall is a flight condition in which the lift
-produced becomes less than the weight of the airplane and the airplane stops flying.`
+(`flight condition`), and then differentiate it from all other flight conditions. The definition
+might be something like this: `A stall is a flight condition in which the lift produced becomes
+less than the weight of the airplane and the airplane stops flying.`
 
 ————————————
 <!-- ≈≈≈≈≈≈ 12 character line (EM Rule —) ≈≈≈≈ -->
@@ -124,7 +125,7 @@ of *stall* is obvious. It is clear that *stall*, in this case, has more to do wi
 than with, say, a defensive maneuver employed by a baseball team to slow down the pace of the
 game.
 
-**When a context is needed, the format for the definition is this**:  
+**When a context is needed, the format for a technical definition is**:  
 `Classification = Differentiation = Qualifier + Term`.
 
 For example, below we have three definitions of the same term in different contexts:
@@ -141,7 +142,7 @@ For example, below we have three definitions of the same term in different conte
 In the first example: '`CAR (In driving)`' is the qualifier; '`stall`' is the term; '`is an
 operating condition in which a sudden and unexpected loss of power occurs`' is the classification.
 
-### The class
+### Classification
 
 Often, the most difficult part of writing a technical definition lies in determining the proper
 classification for the term. The class should be a general category in which the term fits, but it
@@ -155,7 +156,9 @@ not really help specify the meaning of the term. By changing 'device' to 'circui
 however, the meaning can be narrowed considerably for the reader, even before the classification is
 *differentiated*.
 
-**Differentiation** involves narrowing the meaning of the term to just one possibility within the 
+### Differentiation
+
+Differentiation involves narrowing the meaning of the term to just one possibility within the
 class.
 
 Clearly, it would be easier to narrow the class of 'circuit components' to a particular resistor,
@@ -181,7 +184,7 @@ extensions to your definition to clarify the meaning.
 There are many types of *extensions* of an original definition; below are the most common.
 (The original definition is included in brackets followed by the extension.)
 
-1. **Further definition** is used to further define terms from an original definition.
+**Further definition** is used to further define terms from an original definition.
 
 ```
 
@@ -191,7 +194,7 @@ a negative charge.
 
 ```
 
-2. **Comparison and contrast** is used to show differences or similarities.
+**Comparison and contrast** is used to show differences or similarities.
 
 ```
 
@@ -201,7 +204,7 @@ collects dust.
 
 ```
 
-3. **Classification** is used to organize information into categories.
+**Classification** is used to organize information into categories.
 
 ```
 
@@ -211,8 +214,8 @@ are used in precipitating municipal water softeners.
 
 ```
 
-4. **Cause and effect** is used to demonstrate why something happens (or used when results need to
-be traced). 
+**Cause and effect** is used to demonstrate why something happens (or used when results need to be
+  traced). 
 
 ```
 
@@ -222,7 +225,7 @@ magnesium ions in water.
 
 ```
 
-5. **Process** is used to list the steps of a procedure.
+**Process** is used to list the steps of a procedure.
 
 ```
 
@@ -233,7 +236,7 @@ hard water while releasing sodium ions into the resulting soft water.
 
 ```
 
-6. **Exemplification** is used to give real or analogous examples.
+**Exemplification** is used to give real or analogous examples.
 
 ```
 
@@ -242,7 +245,7 @@ and magnesium ions.] Examples of the zeolite group include analcimes, chabazites
 
 ```
 
-7. **Etymology** is used to show the linguistic genesis of the term.
+**Etymology** is used to show the linguistic genesis of the term.
 
 ```
 
@@ -294,12 +297,13 @@ Since your goal is effective communication, your decision is obvious.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 3, Lesson 5: Terminology
+# W3, L5: Terminology
 
 ## Mechanism Description
 
-Being able to describe mechanisms precisely and accurately and at a level and in a way that the
-reader needs and can understand is perhaps the most essential skill of technical writing.
+*Mechanism descriptions* detail the physical attributes of a mechanism. Being able to describe
+mechanisms precisely and accurately and at a level and in a way that the reader needs and can
+understand is perhaps the most essential skill of technical writing.
 
 Mechanism description documents are built around precise descriptions of size, shape, color, finish,
 texture, and material. And they can be written for a wide range of audience competencies. Very
@@ -308,119 +312,122 @@ description.
 
 ### Model for a general description of a mechanism
 
-1. Define using a technical definition.
+**1. Define using a technical definition**
 
-2. Add extensions to discuss any theory or principle necessary for the reader to understand the
+**2. Add extensions**
+
+Add extensions to discuss any theory or principle necessary for the reader to understand the
 description.
 
-Be careful here: think about what you are doing, for whom you are doing it, and why you are doing
-it. Do not lose sight of the reader's knowledge and skill level, or forget the purpose of the
-report. The goal is not to show how smart you are but rather to communicate the information. So
-when you're discussing theory and mechanism description, a good rule is to do what is necessary but
-only what is necessary. Always make sure you add only what the reader needs for the purpose at
-hand. If the reader does not need any theory or operating principles, do not provide any.
+*Be careful*: think about what you are doing, for whom you are doing it, and why you are doing it.
 
-3. Describe the overall function or purpose.
+Do not lose sight of the reader's knowledge and skill level, or forget the purpose of the report.
+The goal is not to show how smart you are but rather to communicate the information. So when you're
+discussing theory and mechanism description, a good rule is to do what is necessary but only what
+is necessary. Always make sure you add only what the reader needs for the purpose at hand. If the
+reader does not need any theory or operating principles, do not provide any.
 
-4. Describe the overall appearance (for example shape, color, material, finish, texture, mass,
-weight, size).
+**3. Describe the overall function or purpose**
 
-5. List the parts in the order in which you to intend to describe them.
+**4. Describe the overall appearance**
+
+For example: shape, color, material, finish, texture, mass, weight, size
+
+**5. List the parts in the order in which you to intend to describe them**
 
 This listing is an organizational blueprint for the remainder of the mechanism description. In other
 words, the decision regarding the order in which to list the mechanisms parts is not trivial, it
 effectively determines the structure for the rest of the mechanism description.
 
-There are two methods to order the parts, *functionally* and *spatially*.
+There are two methods to order the parts, *functionally* and *spatially*; both approaches are fine,
+as long as they are logical and make sense to the reader.
 
-* Using a functional approach, you can order the parts in terms of how the parts function with one
-  another. Functionally, for example you could starts with the leads, which connect their circuits,
-  the common element: "`The resistor consists of the following parts: two wire leads, the carbon
-  element, the casting, and the color bands.`"[^note_1]
+* Functional organization: the parts are listed in an order related to how the mechanism works
+  (how the parts function with one another)
+  
+    - For example: "`The resistor consists of the following parts: two wire leads, the carbon
+      element, the casting, and the color bands.`"[^note_1]
+      
+      - Here, the order of the parts starts with the leads, which connect their circuits, the common
+        element
 
-* Using a spatial organization, you can move from left to right, or top to bottom, or inside out,
-  inside in. With an inside-out spatial approach, the example above might read this way: "`The
-  resistor consists of the following parts: the carbon element, the wire leads, the casting, and
-  the color bands.`"
+* Spatial organization: you can move from left to right, top to bottom, inside out, or outside in
 
-Both approaches are fine, as long as they're logical and made sense to the reader.
+    - With an inside-out spatial approach, the example above might read this way: "`The resistor
+      consists of the following parts: the carbon element, the wire leads, the casting, and the
+      color bands.`"
 
 [^note_1]: 
 Recall the example in the previous lecture: "`the 33-kilohm, 1-watt carbon resistor is a device
 that impedes the flow of electric current, which is protected by the casting and the round which
 the carbon bands are painted to indicate resistance and tolerance values.`"
 
-6. Provide a detailed description of **each part**.
+**6. Provide a detailed description of *each part***
 
-  * (i) Define the first part with a technical definition, adding extensions as needed to deal with
-    theory or operating principles
-  * (ii) Describe the part's overall function or purpose
-  * (iii) Describe the part's shape, color, material, finish, texture, and size. As well as any
-    other physical attributes appropriate for the mechanism and its function using precise measures
-    and descriptors
+1. Define the first part with a technical definition, adding extensions as needed to deal with
+theory or operating principles
 
-7. The final section of the mechanism description briefly summarizes the mechanism's function and
-provides a sense of finality to the document.
+2. Describe the part's overall function or purpose
 
-Include a sentence that by tone and content indicates to the reader that the mechanism description
-is complete: e.g. "`Together these parts form one of the most commonly used circuit components and
-electric systems today.`"
+3. Describe the part's shape, color, material, finish, texture, and size. As well as any other
+physical attributes appropriate for the mechanism and its function using precise measures and
+descriptors
 
-This final sentence tells the reader not to look for anything else, because the document is ending.
-It is a courtesy to the reader.
+**7. Summarize the mechanism's function**
+
+The final section of the mechanism description briefly summarizes the mechanism's function and
+provides a sense of finality to the document. Include a sentence that by tone and content indicates
+to the reader that the mechanism description is complete. This final sentence tells the reader not
+to look for anything else, because the document is ending. It is a courtesy to the reader.
+
+* Example: "`Together these parts form one of the most commonly used circuit components and electric
+  systems today.`"
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-## Process descriptions
-
+## Process Description
 <!-- was the original title "Mechanism Operation"? -->
-
-*Mechanism Descriptions* detail the physical attributes of a mechanism.
 
 *Process Descriptions* are similar to *Mechanism Descriptions* in organizational structure but they
 differ in content; they describe either the steps in the operation of a mechanism, or the steps of
 a conceptual process.
 
-Here is a model for a general description of a process:
+### Model for a general description of a process
 
-1. Introduce the mechanism with a logical definition.
-2. Add extensions to provide any needed theory or principles.
+1. Introduce the mechanism with a logical *definition*.
+2. Add *extensions* to provide any needed theory or principles.
 3. Describe the purpose, function, and operation of this mechanism.
 4. List the major steps of the mechanism's operation in the order that they will be discussed. 
-5. The final section of the process description briefly summarizes the process and provides a sense
-of finality to the document.
+5. Briefly summarize the process and provide a sense of finality to the document.
 
-### Example
-
-**Description of the process of the operation of an air conditioning system.**
+#### Example: Description of the process of the operation of an air conditioning system
 
 The audience for this description is a *general* technical reader who does not have specific
 expertise in air conditioning fluid mechanisms or thermodynamics.
 
-**1.** Introduce the mechanism with a logical definition.
+**1. Introduce the mechanism with a logical *definition***
 
-**2.** Add extensions to provide any needed theory or principles.
-
-```
-"An air conditioner is a mechanical device used to refrigerate a controlled environment. The air
- conditioner accomplishes this refrigeration by transferring heat within the environment to an area
- outside the environment."
-```
-
-**3.** Describe the purpose, function, and operation of this mechanism.
+**2. Add *extensions* to provide any needed theory or principles**
 
 ```
-
-"The air conditioner transfers heat by using a fluid refrigerant. This refrigerant is pumped through
- the controlled environment and the outside area. At the same time, the refrigerant is cycled at
- strategic points between liquid an vaporous states. This change in the state provides the means
- for transferring thermal energy."
+An air conditioner is a mechanical device used to refrigerate a controlled environment. The air
+conditioner accomplishes this refrigeration by transferring heat within the environment to an area
+outside the environment.
 ```
 
-  You may want to list the primary operational parts of the mechanism especially if they relay
-  directly to the process steps. 
+**3. Describe the purpose, function, and operation of this mechanism**
 
-**4.** List the major steps of the mechanism's operation in the order that they will be discussed. 
+```
+The air conditioner transfers heat by using a fluid refrigerant. This refrigerant is pumped through
+the controlled environment and the outside area. At the same time, the refrigerant is cycled at
+strategic points between liquid an vaporous states. This change in the state provides the means for
+transferring thermal energy.
+```
+
+(You may want to list the primary operational parts of the mechanism especially if they relay
+directly to the process steps.)
+
+**4. List the major steps of the mechanism's operation in the order that they will be discussed**
 
 Choosing this order may not be easy. Ideally, the steps will follow a logical timeline from the
 start to the finish of the process. However, in some cases such as transactional, iterative, or
@@ -428,10 +435,10 @@ branching processes, that may not be possible. In such cases, you will have to d
 steps in the way that is that clearest to adhere and the purpose at hand. 
 
 ```
-"The air conditioner's operation is centered on four major components: the compressor, condenser
- coil, expansion valve, and evaporator coil. The operation of the air conditioner relates directly
- to these parts and includes the following steps: compression, condensation, expansion, and
- evaporation."
+The air conditioner's operation is centered on four major components: the compressor, condenser
+coil, expansion valve, and evaporator coil. The operation of the air conditioner relates directly
+to these parts and includes the following steps: compression, condensation, expansion, and
+evaporation.
 ```
 
 Treat such steps as a separate subsection. Define each step of the process. Then extend those
@@ -441,40 +448,38 @@ steps.
 
 ————————————
 
-*Subexample*: Discuss compression in reasonable depth for the audience and purpose at hand. First,
+*Subexample*: Discuss *compression* in reasonable depth for the audience and purpose at hand. First,
 define compression and then deal with the equipment and concepts involved. Describe what happens
 during the compression. And then show their relationship with the next step condensation. 
 
 ```
-"Compression is a fluid-dynamics process in which a given volume of refrigerant vapor is forced to
- occupy a smaller volume of space. Compression occurs when the compressor forces hot refrigerant
- vapor under pressure into the compression chamber. The chamber is composed of a cylinder and valve
- arrangement. The pistol draws refrigerant into the cylinder through an intake valve, and the
- intake valve closes and the pistol pushes up into the cylinder, compressing the refrigerant vapor.
- The vapor then exits through an exhaust valve and enters the condenser coil, where the
- condensation step occurs."
+Compression is a fluid-dynamics process in which a given volume of refrigerant vapor is forced to
+occupy a smaller volume of space. Compression occurs when the compressor forces hot refrigerant
+vapor under pressure into the compression chamber. The chamber is composed of a cylinder and valve
+arrangement. The pistol draws refrigerant into the cylinder through an intake valve, and the intake
+valve closes and the pistol pushes up into the cylinder, compressing the refrigerant vapor. The
+vapor then exits through an exhaust valve and enters the condenser coil, where the condensation
+step occurs.
 ```
-————————————
 
 Then, you need to describe condensation, expansion, and evaporation in much the same way as we dealt
 with compression.
 
-**5.** The final section of the process description briefly summarizes the process and provides a
-  sense of finality to the document.
+**5. Briefly summarize the process and provide a sense of finality to the document**
 
 ```
-"The operation of an air conditioner involves four steps. First, the compressor pumps refrigerant
- under pressure into the condenser coil. Here it is liquefied, giving up heat that is removed by a
- fan circulating air over the condenser coil. The liquid refrigerant moves through a close loop,
- through an expansion valve, and into the lower-pressure evaporator coil. Here the refrigerant
- changes into a vapor, absorbing heat from air passing over the evaporator coil. This air then
- cools the controlled environment, While the refrigerant is drawn back into the compressor. At this
- point the cycle is complete and the process repeats."
+The operation of an air conditioner involves four steps. First, the compressor pumps refrigerant
+under pressure into the condenser coil. Here it is liquefied, giving up heat that is removed by a
+fan circulating air over the condenser coil. The liquid refrigerant moves through a close loop,
+through an expansion valve, and into the lower-pressure evaporator coil. Here the refrigerant
+changes into a vapor, absorbing heat from air passing over the evaporator coil. This air then cools
+the controlled environment, While the refrigerant is drawn back into the compressor. At this point
+the cycle is complete and the process repeats.
 ```
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 3, Lesson 6: Report Structure
+# W3, L6: Report Structure
 
 ## Planning stage
 
