@@ -25,7 +25,8 @@ Learning Objectives:
 # W3, L4: Visuals and Technicalities
 <!-- Week 3, Lesson 4 -->
 
-## 1. Visuals
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Unit 1. Visuals
 
 Visuals communicate a large amount of information quickly and efficiently.
 
@@ -96,7 +97,7 @@ Visuals communicate a large amount of information quickly and efficiently.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## 2. Technical definition
+## Unit 2. Technical definition
 
 In technical writing, a **definition** is the process by which one assigns a precise meaning to a
 term. To define a term, it must be placed into a **classification** and then **differentiated**
@@ -299,7 +300,8 @@ Since your goal is effective communication, your decision is obvious.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W3, L5: Terminology
 
-## Mechanism Description
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Unit 1. Mechanism Description
 
 *Mechanism descriptions* detail the physical attributes of a mechanism. Being able to describe
 mechanisms precisely and accurately and at a level and in a way that the reader needs and can
@@ -357,11 +359,6 @@ as long as they are logical and make sense to the reader.
       consists of the following parts: the carbon element, the wire leads, the casting, and the
       color bands.`"
 
-[^note_1]: 
-Recall the example in the previous lecture: "`the 33-kilohm, 1-watt carbon resistor is a device
-that impedes the flow of electric current, which is protected by the casting and the round which
-the carbon bands are painted to indicate resistance and tolerance values.`"
-
 **6. Provide a detailed description of *each part***
 
 1. Define the first part with a technical definition, adding extensions as needed to deal with
@@ -383,9 +380,8 @@ to look for anything else, because the document is ending. It is a courtesy to t
 * Example: "`Together these parts form one of the most commonly used circuit components and electric
   systems today.`"
 
-
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-## Process Description
+## Unit 2. Process Description
 <!-- was the original title "Mechanism Operation"? -->
 
 *Process Descriptions* are similar to *Mechanism Descriptions* in organizational structure but they
@@ -481,7 +477,9 @@ the cycle is complete and the process repeats.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W3, L6: Report Structure
 
-## Planning stage
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Unit 1. Planning stage
 
 The planning stage of technical report writing is the most time consuming. Here is a suggested set
 of guidelines for effectively planning your report:
@@ -546,7 +544,7 @@ ways to provide a logical order of information:
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-## Report Structure: Part 1
+## Unit 2. Report Structure: Part 1
 
 An important consideration when preparing a technical report is the audience and the purpose of the report.
 
@@ -621,7 +619,7 @@ should be on its own page.
   first used
   
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-## Report Structure: Part 2
+## Unit 3. Report Structure: Part 2
 
 ### Introduction
 
@@ -768,3 +766,8 @@ information, etc.
 
 There is no limit to what can be placed in the appendix, providing it is relevant and reference is
 made to it in the report.
+
+
+
+
+[^note_1]: Recall the example in the previous lecture: "`the 33-kilohm, 1-watt carbon resistor is a device that impedes the flow of electric current, which is protected by the casting and the round which the carbon bands are painted to indicate resistance and tolerance values.`"
