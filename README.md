@@ -24,6 +24,8 @@ way that is convenient for me; no claims are made and no guarantees are given.
   certainly tried to build the summary around the terms that, over time, I've found essential to
   know.
 
+* `markdown_syntax_guide.md`
+
 * `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
   *viz.*, and *etc.*
 
