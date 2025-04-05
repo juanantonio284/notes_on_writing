@@ -51,3 +51,7 @@ are made from the video transcripts.
     - `MIPT_Tech_Writ--Week_2.md` ("From Start to Finish") introduces the basics of technical writing
     - `MIPT_Tech_Writ--Week_3.md` ("Organizing the Information") contains general guidelines on
       using visuals, defining terms, effective planning of technical report writing
+    - `MIPT_Tech_Writ--Week_4.md` ("Researching Your Subject") covers issues related to various
+      types of academic and workplace research, with a focus on acquiring the best available
+      information. Topics: feasibility reports, recommendation reports, instructions, laboratory
+      research.

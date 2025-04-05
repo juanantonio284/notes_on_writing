@@ -1,0 +1,693 @@
+# MIPT - Technical Writing - Week 4 - Module III:  "Researching Your Subject"
+
+[**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
+Some corrections have been made—which is to say that many things have not been corrected.]
+
+This module covers issues related to various types of academic and workplace research, with a focus
+on acquiring the best available information.
+
+Learning Objectives
+
+* Develop an enhanced understanding of such types of technical documentation as feasibility reports,
+  recommendation reports, instructions, and laboratory research
+
+* Distinguish between academic and workplace research
+
+* Compare and contrast secondary and primary research to meet data-gathering requirements
+
+* Outline a laboratory report
+
+* Classify various types of technical reports (e.g. feasibility, recommendation, evaluation reports,
+  instructions)
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+# W4, L7: Research Reports
+<!-- Week 3, Lesson 7 -->
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Unit 1. Academic vs Workplace Research
+
+Although academic research and workplace research sometimes overlap, they usually differ in goals
+and methods.
+
+**Academic Research**
+
+* has the goal of finding information that will help answer a scholarly question
+    - e.g. What would be the effect of the trade balance between the United States and China if
+      China lowered the value of its currency by 10%?
+
+* has questions which tend to be more abstract than applied---they get at the underlying principles
+  of a phenomenon
+
+* usually requires extensive *secondary* research, reading scholarly literature, and academic
+  journals and books. (If you do primary research, as scientists do in labs, you do so after
+  extensive secondary research.)
+
+**Workplace Research**
+
+* has the goal of finding information that will help answer a practical question
+    - e.g. Should we replace our sales staff's notebook computers with tablets?
+
+* has questions which frequently focus on improving a situation at a particular organization
+
+* usually requires extensive *primary* research because the questions require that you learn about
+  your own organization's processes and how the people in your organization would response to your
+  ideas
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 2. Conducting Secondary Research
+
+When you conduct secondary research you are trying to learn what experts have to say about the
+topic. Your goal is to acquire the best available information, the most accurate, the most
+unbiased, the most comprehensive, and most current. Today, most technical information is described
+not only in print but also through digital media accessible on the Internet.
+
+### Four Major Media
+
+You will probably use information published in four major media:
+
+**1. Print**
+
+Books, journals, reports, and other documents will continue to be produced in print because printed documents are portable, and you can write on them. For documents that do not need to be updated periodically, print remains a useful and popular medium. 
+
+**2. Online databases**
+
+Most libraries, even many public libraries subscribe to services that provide access to large
+databases of journal articles, conference proceedings, newspapers, and other documents. Examples of
+these databases are LexisNexis, ProQuest, INFOTRAC, Gale Virtual Reference, and ERIC.
+
+**3. Websites**
+
+The good news is that there are billions of pages of information on the web; the bad news is that
+there are billions pages of information on the web. Still, if you search effectively and
+efficiently you can find reference materials, such as dictionaries, encyclopedias that do not exist
+in print, online versions of magazines and journals with extra features not present in print
+versions, conversion calculators, current survey data, animations, audio and video podcasts, and
+many other kinds of information.
+
+**4. Social media**
+
+"Social media" is a broad term combining several kinds of media, all of which include user-generated
+content. A discussion board is an online discussion that readers contribute to by posting messages.
+All of the posts on a thread are presented together, usually in reverse chronological order. There
+is a tremendous amount of information in the different media. The trick is to learn how to find
+what you want.
+
+### Six Basic Research Tools
+
+There are, at least, six basic research tools:
+
+**1. Online catalog**
+
+An online catalog is a database of books, microform materials, films, CDs, photograph records and
+other materials. In most cases, an online catalog lists and describes the holdings of one
+particular library or a group of libraries. To search for an item consult the instructions, which
+explain how to limit your search by characteristics, such as types of media, date of publication
+and language. The instructions also explain how to use punctuation and words such as, and/or and
+note to focus your search effectively.
+
+**2. Reference works**
+
+Reference works include general dictionaries and encyclopedias, bibliographic dictionaries,
+almanacs, atlases and dozens of other research tools. This print and online works are especially
+useful when you are beginning your research project because they provide an overview of the subject
+and often list the major works in the field.
+
+**3. Periodical indexes**
+
+Periodicals are excellent sources of information because they offer recent, authoritative
+discussions of specific subjects. The biggest challenge in using periodicals is identifying and
+locating the dozens of articles relevant to any particular subject that are published each month.
+Although only half a dozen major journals might concentrate on your field, a useful article could
+appear in one of hundreds of other publications. A periodical index, which is a list of articles
+classified according to title, subject, and author, can help you determine which journals you want
+to locate. There are periodical indexes in all fields.
+
+You can also use a director research engine. Many directory categories include a subcategory called
+journals or periodicals listing online and printed sources. Once you have created a bibliography of
+printed articles you want to study, you have to study them. Check your libraries online catalog,
+which includes all the journals your library receives. If the library does not have an article you
+want, you can use this technique for searching it. Document delivery service, which is a free
+database of 8 million articles and 12,000 periodicals.
+
+**4. Newspaper indexes**
+
+Many major newspapers around the world are indexed by subject. The two most important index
+newspapers are the following. The New York Times, perhaps the most reputable newspaper for national
+and international news. And The Christian Science Monitor, in other highly regarded general
+newspaper. Many newspapers available on the web can be searched electronically, although sometimes
+there is charge for the archive article. So you need to pay for using the articles or downloading
+the articles. Keep in mind that the print version and the electronic version of the newspaper can
+vary greatly. If you wished to quote from an article in a newspaper, the print version is the
+preferred option. Now that you have down your secondary research, the challenge is to find
+information that is accurate, unbiased, comprehensive, appropriately, technical, current, and
+clear.
+
+**5. User generated content from the Internet**
+
+This content rarely undergoes the formal review procedure, the formal review procedure used for
+books and professional journals. A general principle for using any information you find on the
+Internet is to be extremely careful because content is unlikely to have been reviewed before being
+published on a social media site. Use one or more trusted sources to confirm the information you
+locate.
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 3. Primary Research
+
+You will often need to conduct primary research because you need new information. 
+
+### Major categories of primary research
+
+1. observations and demonstrations
+2. inspections
+3. experiments
+4. field research
+5. interviews
+6. inquiries
+7. questionnaires
+
+#### 1. Observation and demonstration
+
+Two common forms of primary research. When you observe, you simply watch some activity to understand some specific aspects of this activity.
+
+For instance, if you were trying to determine whether the location of the break room was interfering with work on the factory floor, you could observe the situation preferably at different times of the day and in different days of the week. If you saw workers distracted by people moving in and out of the room, or by sounds made in the room, you would record your observations by taking notes, taking photos, or shooting videos of events. An observation might lead to other forms of primary research. You might, for example, follow up by interviewing some employees who could help you understand what you observed.
+
+When you witness a demonstration, you are watching someone carrying out a process.
+
+For instance, if your company was considering buying a mail sorting machine, you could arrange to visit the manufacturers facility where technicians would show how the machine works. If your company was considering a portable machine such as a laptop computer, manufacturers or dealers could demo their product of their facility.
+
+When you plan to observe visitation or witness a demo, prepare beforehand.
+
+Write down the questions you need to be answered or the factors you want to investigate.
+
+Prepare interview questions in case you have a chance to speak with someone.
+
+Think about how you are going to incorporate the information you acquire into the document you will write.
+
+#### 2. Inspections
+
+Inspections are like observations, but you participate more actively.
+
+For example, a civil engineer can determine what causes a crack in a foundation by inspection by the site. Walking around, looking at the crack, photographing it and its surrounding scene, examining the soil, for example. Sometimes, inspection techniques are more complicated. A civil engineer inspecting foundation cracking might want to test his hatches by bringing soil samples back to the lab for analysis.
+
+#### 3. Experiments
+
+Learning to conduct the many kinds of experiments used in the particular field take months or even years. In many cases, conducting an experiment involves four phases.
+
+(i) Establishing a hypothesis
+
+(ii) testing the hypothesis
+
+(iii) analyzing the data
+
+(iv) reporting the data.
+
+#### 4. Field Research
+
+Whereas an experiment yields quantitative data, they typically can be measured precisely, most field research is qualitative. That is, it yields data that typically cannot be measured precisely. Often, in field research, you seek to understand the quality of an experiment. Some kinds of studies have both quantitative and qualitative elements.
+
+#### 5. Interviews
+
+Interviews are extremely useful when you need informational subjects that are too new to have been discussed in the professional literature or are too narrow for widespread publication. In choosing a person to interview, answer three questions:
+
+(i) What questions do you want to answer?
+(ii) Who could provide this information?
+(iii) And is the person willing to be interviewed?
+
+#### 6. Inquiry
+
+A useful alternative to a personal interview is to send an inquiry. This inquiry can take the form of a letter, email or a message sent through an organization's website. Although digital inquiries are more convenient for both the sender and the recipient, a physical letter is more formal and therefore might be more appropriate if the topic is important or relates to safety.
+
+#### 7. Questionnaires
+
+enable you to solicit information from a large group of people. You can send questionnaires through the email, or email them, present them as forms on a website, or use survey software such as SurveyMonkey. Unfortunately, questionnaires rarely yield completely satisfactory results for three reasons.
+
+(i) Some of the questions will misfire.
+(ii) Respondents will misinterpret some of your questions, or supply useless answers.
+(iii) You won't obtain as many responses as you want. The response rate will almost never exceed 50 per cent. It most cases, it will be closer to 10% to 20%.
+
+You cannot be sure that the respondents are representative. People who feel strongly about an issue are much more likely to respond to questionnaires then those who do not. For this reason, you need to be careful in drawing conclusions based on a small number of responses you asked in your questionnaire.
+
+**Tips**
+
+* Ask effective questions
+* use unbiased language and be specific
+* include an introductory explanation with the questionnaire. This explanation should clearly indicate who you are, why you are writing, what you plan to do with the information from the questionnaire, and when you will need it.
+* Before you send out any questionnaire, show it and its accompanying explanation to a few people who can help you identify any problems.
+* After you have revised the material, test them on people whose backgrounds are similar to those of your intended respondents.
+* To decide where and how to present the data that you acquire from the questionnaire, think about your audience and purpose
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+### Research Reports
+<!-- still inside Primary Research section -->
+
+In technical writing, research reports are focused objective inquiries into technical subjects.
+
+Start with this principle: Important information is presented and analyzed in the body of your document, whereas less important information is presented in an appendix.
+(Most often, different versions of the same information appear in both places.)
+
+<!-- %--------------------------------------- -->
+
+Primary research refers to the actual work done in the laboratory or in the field.
+
+in other words, this means the various experiments and surveys done by an individual. In this type of report, you present your data and draw questions about it, but also explain the methodology and describe the equipment and facilities used and give some background on the problem.
+
+A research report is used in scientific writing to present the results of an experimental study. The core of the search report is the materials, methods, and results of the study. In technical writing, these reports are specifically geared to the purpose at hand. The readers who will use them, the clients who will read them, and whatever limitations have been placed on the scope of the project.
+
+Technical research reports frequently focus on you evolving, sometimes purely hypothetical technologies. In which case, they can be called state of the art reports. In some cases, research reports may focus on past technology. In which case, they are called historical reports.
+
+<!-- %--------------------------------------- -->
+
+One distinguishing characteristic of research reports is the extensive research and documentation required. The research may consist of library and laboratory research, interviews, questionnaires, various types of culprit technical reports, and trade journal articles.
+
+Also, research report writers increasingly use their wealth of information on the Internet, unlike laboratory boards. However, research reports often do not involve doing the actual research being reported. They frequently present the findings of research that has already been done.
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+### Parts of a report
+
+The organization of a research report is straight forward. However, what goes in the discussion section depends on the topic and the specific requirements for the research.
+
+If the purpose is to report on how you got to where you are in developing a certain technology, the discussion will be primarily historical.
+
+But if the purpose is to describe new evolving technologies, the discussion may be geared more to future implications.
+
+#### 1. Introduction
+
+the first section of the research report is the introduction. It may provide some background, but not more than a paragraph or two in a one or two page introduction. Start with the purpose statement to explain why you are writing the report.
+
+* Problem: state the problem that the report addresses. In the research report, note that the problem is really more of a general background statement that expands on the topic and gives a brief context for what the report will investigate.
+
+* Scope: in any research paper, you cannot possibly research anything or everything about your topic. Human knowledge is not that simple or easy and there is too much of it. So you will have to limit your paper by including only certain aspects of your topic. To complete the introduction, provide a scope statement that addresses this limitation. This section tells the readers what you are including in the paper and why, and it articulates the rationale for the limitations you are imposing.
+
+#### 2. Background
+
+in the background section, discuss the theoretical and historical aspects of the topic as appropriate.
+
+* The background should start with a brief discussion of theory because the theory may not be common knowledge for the audience. Which is why the theory discussion is essential to understanding the rest of the paper. The discussion section is crucially important, this is the main section of the report. And it may include a brief discussion of a device and its functional applications.
+
+#### 3. Conclusion
+
+This section of the report normally summarizes the report and may provide a recommendation. Any recommendation must be supported and justified by information in the discussion section.
+
+#### 4. References and appendix
+
+include a list of the references used in the report. Always list all the references that were already cited in the report. As a courtesy to the reader, you can also list sources that you consulted, but did not specifically use because these sources may have influenced your thinking, or may provide additional information for further exploration of the topic.
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+# W4, L8: Laboratory and Evaluation Reports
+
+## Unit 1. Focus on Process
+
+In this video lecture, I will provide an overview of the research process.
+
+First, you need to analyze the audience. Who are your most important readers? What are their personal characteristics, their attitudes toward your subject, and their motivations for reading? If you are writing to an expert audience that might be skeptical about your message, you need to do a lot of research to get that the evidence for a convincing argument.
+
+Then you need to analyze your purpose. Why are you writing? Understanding your purpose helps you understand the types of information the readers will expect. Think in terms of what you want your readers to know or believe or do after they finish reading your document.
+
+Then you need to analyze the subject. What do you already know about your subject? What do you still need to find out? Using techniques such as pre-writing and brainstorming you can determine these aspects of the subject you need to investigate.
+
+<!-- %--------------------------------------- -->
+
+Then you need to visualize the deliverable. What application will you need to deliver a laboratory research? A technical background report? A manual? A website? What kind of oral presentation will you need to deliver? Work out a schedule and a budget for your project. When is the deliverable due? Do you have budget for a, for phone calls, database services, or travel to libraries or other sites?
+
+Determine what information will need to be part of that deliverable.
+
+Draft an outline of the contents focusing on the kinds of information that readers will expect to see in each part.
+
+Determine what information you still need to acquire. Make a list of the pieces of information you don't yet have.
+
+Create questions you need to answer in your deliverable. Writing the questions in, at least, forces you to think carefully about your topic. One question suggests another and so you have a length release that you need to answer.
+
+Conduct secondary research. Study journal articles and web based sources such as online databases, websites, reference works, and newspaper indexes.
+
+On the primary research, you can answer some of your questions by consulting company records, by interviewing experts, by distributing questionnaires, and by interviewing other people in the organization or industry.
+
+Other questions call for using social media to gather information from your customers, suppliers, and other stakeholders. Evaluate your info, your information. Once you have your information you need to evaluate its quality. Is it accurate, comprehensive, unbiased, and current? Do more research. If the information you have acquired does not sufficient answer to your questions, do more research. And if you have thought of additional questions that need to be answered, again, do more research. When do you stop doing your research?
+
+You will stop only when you think you have enough high quality information to create the deliverable.
+
+**In-Video Quiz**
+
+Arrange the stages of a research process in its most logical order. Put numbers 1-12 to indicate the sequence of the stages. See the example.
+
+```
+3. Analyze your audience
+11. Analyze your purpose
+4. Analyze your subject
+12. Visualize the deliverable
+1. Work out a schedule and a budget for the project
+10. Draft an outline of the contents
+5. Make a list of the pieces of information you don’t yet have
+9. Create questions you need to answer in your deliverable
+7. Conduct secondary research
+6. Conduct primary research
+8. Evaluate your information
+2. Do more research
+
+```
+
+Answer: 3, 11, 4, 12, 1, 10, 5, 9, 7, 6, 8, 2
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Unit 2. Laboratory Report
+
+The laboratory report presents information that relates to the controlled testing of a hypothesis, theory, or device using test equipment and a specified series of steps employed to perform the test (or the procedure).
+
+The emphasis in the laboratory report is on documenting the design and conduct of the test, how the variables were controlled and what the resulting data showed. In this purest form, a laboratory report is a research-oriented document, meaning that it starts with a hypothesis or theory that needs to be applied and tested under highly controlled conditions.
+
+For example:
+suppose you are an astronauts engineer hypothesizing that your new wind design could be used to generate high lift at hypersonic speeds with increased flight stability. To test that hypothesis in a laboratory you would need an apparatus, in this case a hypersonic wind tunnel and the model of your wind design. You would also need a procedure for using that wind tunnel to test your wind design model. You could then use the procedure to collect data from the wind tunnel test and interpret the data to see whether your new wind design generated higher lead with increased stability under hypersonic conditions. Finally, you could assess whether their original hypothesis was supported and if so probably recommend that more research be done.
+
+### Example of a laboratory report
+
+**1. Introduction**
+
+* Purpose: start the introduction by briefly and succintly describing the purpose of the report.
+Next, provide the reader with enough with enough information on the problem so that he or she can understand what the report is about and put the information that follows in the proper context. Round out the introduction with a statement of the scope regarding what is being tested and any significant limitations of these tests.
+
+* Scope: Specify limitations of your report. That is what it will cover and what it will not cover. For example, your report may be limited to technical performance of a device or may not include analysis of costs or marketability.
+
+**2. Background**
+
+In the background section you should provide the information necessary for the reader to understand and appreciate the test report and the findings that will follow. This section should review any relevant theory and past research that the reader needs to know. Review significant prior research that has been done on this topic to establish a baseline for your research.
+
+**3. Test and Evaluation**
+
+In this section, describe the physical apparatus used in the test and the processes or procedures for doing the testing. The apparatus includes the device being tested and the equipment used to do the testing, while the procedure would include the steps in the test.
+
+**4. Findings**
+
+in this section, present the data that the tests yielded and provide an interpretation of this data. Finally, provide your overall conclusions related to the original purpose of your study. And many other specific recommendations, if possible that you believe warranted by the results. Provide assessment and recommendations.
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 3. Feasibility, Recommendation, and Evaluation Reports
+
+### Feasibility Report
+
+This type of report studies a problem or opportunity and then makes a recommendation.
+
+* A feasibility report tells whether a project is feasible, that is whether it is practical and technologically possible.
+
+* A recommendation report compares two or more alternatives and recommends one, or, if necessary, none.
+
+* An evaluation or assessment report studies something in terms of its worth or value.
+
+<!-- %--------------------------------------- -->
+
+Feasibility reports and recommendation reports are objective documents that identify and evaluate solutions to problems. In technical writing this reports address subjects that have well defined parameters, including a problem or multiple problems, that can be precisely described and a solution, or multiple solutions, that can be objectively and empirically tested.
+
+Feasibility and recommendation reports are supposed to be unbiased evaluations. Although their conclusions and recommendations are frequently used to promote ideas, and sell goods and services,  only someone who is totally impartial should write these reports.The author should have no stake in the outcome, and should not care whether any or all of the solutions are adopted.
+
+Feasibility reports and recommendation reports are similar, and the terms are often used synonymously. Both reports define a problem and objectively evaluate solutions based on the set of criteria.
+
+### Difference between feasibility reports and recommendation reports
+
+Both feasibility and recommendation reports then basically do the same thing, they objectively
+evaluate the feasibility of solutions but
+
+* feasibility reports determine the feasibility or viability of solving your problem in a particular
+  way
+
+* feasibility reports consider a single solution to a problem, and determine whether or not, or to
+  what extent the proposed solution is feasible
+
+* recommendation reports look at several approaches for solving your problem, and recommend the most
+  feasible approach.
+
+### Checklist when writing either a recommendation or a feasibility report
+
+**1. Define the problem that needs to be solved**
+
+The difficulty here is that we are often solution oriented, in many cases we skip the problem and go
+directly to the solution. Suppose a friend came to you and said, I have a problem I need to buy a
+computer, but I do not know which one to purchase. The main problem your friend has is that he or
+she does not have a problem. I need to buy a computer states a solution, not a problem. To come up
+with candidate solutions, you would have to know what your friend needs a computer to do.
+Feasibility and recommendation reports work the same way, you cannot evaluate a solution to a
+problem that is not clearly defined.
+
+**2. Identify one or more candidate solutions**
+
+This process can be tough, sometimes many more solutions exist than you will have the time or
+capability to evaluate. If you need a computer to surf the internet, how many choices do you have?
+This is almost like asking how many stars are there in the Milky Way galaxy? Coming out with just a
+few viable solutions can be challenging. Normally, we can apply additional requirements to the
+existing problem that will allow you to narrow the list. Maybe he will buy only from an approval,
+local vendor. Or you will shop only within a five minute radius of your home. Or you will consider
+using only a certain catalog that gives you an idea of where and how or what to buy.
+
+**3. Develop a set of criteria by which to objectively evaluate the candidate solution or solutions**
+
+the key here is objective. Find meaningful measures that relate to the problem you have defined, and
+identify valid methods for applying them. For example, when looking for a computer to surf the
+internet, you might use criteria such as cost, processor speed, monitor size and quality,
+readability and warranty, bundled software and included peripherals. These can be objectively
+described and measured. The attractiveness of the case would not be a good criteria, because
+computer case attractiveness cannot easily be objectively described and measured.
+
+**4. Collect and interpret data for each criterion as it relates to each candidate solution**\
+
+One thing that might be decided is how to weigh the importance of each criterion. Sometimes the
+criteria can be weighed equally, but in many studies some criteria are more important, and need to
+count more in the final decision. For example, what if you wanted a computer to surf the internet
+using a satellite link, from the back of an all-terrain vehicle, deep in the mountains? In this
+case, reliability and maintainability might be far more important than say, processor speed.
+However, if you plan to use the computer to do serious number crunching in the office, processor
+speed would be more important.
+
+**5. Draw conclusions and make recommendations regarding the feasibility of the candidate solutions based on your interpretations**
+
+The primary requirements here are objectivity and clear thinking. Look in the interpretations you have made for each criterion and consider the relative weighing of the criteria. Also, always base your conclusions on this information. Never on other information or considerations that are not fully treated in the report. Both feasibility and recommendation reports are organized and written in the same, straight forward, logical manner.
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+# W4, L9: Technical Reports and Writing Issues
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 1. Instructions
+
+These are probably the most familiar of all the types of reports. Students often write backup procedures for the jobs they do at their work. Others write short user manuals for an appliance, equipment, or program. If there's too much to write about, they write about some smaller segment.
+
+For example, instead of instructions when using all of WordPerfect, just a guide on writing macros in WordPerfect.
+
+Being able to think through and write clear instructions is a valuable skill.  At school: a lab report or engineering project. At work: a technical manual or instruction for a device.
+
+### Important steps when writing instructions
+
+**1. You need to know exactly how to do the task**
+You might be very familiar with the steps of the process before you can write instructions. That
+means you know  how to do this, you are not guessing or reading someone else's ideas. You have done
+this yourself.
+
+**2. Plan how to write the steps in order**
+Instructions are written in small increments, manageable tasks that are clear, easy to follow to
+completion. You must know what is done first, second, third and so on.
+
+**3. Write instructions beginning with a verb**
+Here, write, the reader must do something each time. Write each step as a small piece, that means
+each step should be small, a baby step in the whole process. It should be easy to read at once, and
+then turn and do it right away. It shouldn't contain multiple things to do at the same time. Include
+warnings as pre-steps, if it's critical that something be done or not be done before something else,
+write it as a step to do before the next step. For example, check or close the drain plug must be a
+step before add oil to the tank.
+
+**4. Write the steps in logical order**
+Do not depend on the reader going down the page and reading all the tips and lines before beginning
+to do the process. Or the reader go into read all the fine points in small print before starting,
+include each point in its own step that begins with a verb.
+
+**5. Review and edit your instructions carefully (make sure your writing is complete and correct)**
+Express steps in the positive, it's more preferable to say do something rather don't do something.
+For example, instead of staying don't forget the salt, write add salt when the eggs boil.
+
+**6. Avoid expressing opinions, preferences, or choices**
+Instructions are not about what might happen, what someone could choose or what you personally
+prefer. Instructions are factual statements that give an action to perform. Opinions can be
+explained in another section of the document.
+
+Minor choices can be stated with an "or" statement.
+
+For example, you can write: add chili, tabasco sauce, or pepper flakes.
+
+**7. Know how to begin the process**
+This might include gathering needed materials or supplies, or laying out a work area. You must
+explain this first.
+
+**8. Know what the end result looks like**
+You have seen the result, a baked cake or a radiator installed, a bicycle put together, the web page changing color, and so on. You must make sure the reader will end up with the same result.
+
+### Tips for preparing instructions
+
+**1. Instructions are not about personal beliefs or opinions**
+No one will follow your instructions if your rationale is "I like this", or "just try it and see", or "good luck".
+
+**2. Instructions are factual, they are not encouragement**
+
+**3. Do not start sentences with present participles (verbs ending in -ing).
+Starting sentences with the present participle usually makes the sentence awkward and the meaning less clear.**
+
+**4. Maintain logical sequences in presentation**
+
+**5. Allow time for the actor to respond by making sure each step is manageable and write-in "breaks"**
+
+For example, you could write "step back and look at the whole table, is it flat? If not, then something happens."
+
+**6. Avoid the word "always" in an imperative statement**
+
+**7. Enumerate each step to avoid ambiguity and ensure the correct order of presentation**
+
+**8. Use the imperative form for technical, scientific, engineering or other mechanical process**
+
+**9. Try to have an image for each step**
+This could be a photo, drawing or sketch. Make sure it's large enough to see exactly what's
+happening without fingers or tools being in the way.
+
+**10. Begin a step with an action verb**
+
+"being" something is not something you can do. Neither is "get someone else to", it must be
+something you do yourself.
+
+**11. Avoid verbose language**
+
+**12. For each step, add a sentence or phrase so the actor can judge if he or she has performed the step correctly**
+For example, "look for the screw on the bottom side of the shelf", or "notice the icon has now turned red".
+
+**13. Include only one or two sentences in each step, each step must be done in a single motion or a thought process**
+
+**14. Instructions are not prohibitions, they tell you how to do something you want to do, not what is prohibited**
+
+**15. Write any dangers clearly at the top, especially for chemicals, machinery, biological hazards or environmental hazards. Instructions can be considered legal documents, people follow them, and trust they will not be harmed or killed**
+
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 2. Checklist for the technical report
+
+You might use the following questions to ensure that the technical report is structured properly according to specifications:
+
+* Did you include all the required components in the required order? For example, transmittal letter, title page, figure list and so on?
+
+* Did you address your report to a real or realistic audience that has a genuine need for your report?
+
+* Did you identify in the introduction what background the audience needs to read and understand your report?
+
+* Does your report contains specific factual detail focused on the purpose of the report and the needs of the audience and aimed at their level of understanding?
+
+* Does your report accomplish its purpose?
+
+* Is the purpose clearly stated in the introduction?
+
+* Does your report use information sources and did you document them properly?
+
+* Does your report use graphics and tables?
+
+* Does every new section starts on a new page? Does the title page of your report include a descriptive abstract?
+
+* Did you include an informative abstract in your report as is positioned properly in relation to the other report components? Specifically, does your informative abstract summarize the key facts and conclusions of your report, rather than act as just another introduction or descriptive abstract?
+
+* Does the introduction of your report include the elements necessary in good introductions, such as audience, overview and purpose?
+
+* Did you avoid the problem of having too much background in the introduction or having an introduction that is all background?
+
+### Eight important skills for a good technical writer
+
+1. Facility with technology
+2. Ability to write clearly
+3. Talent in showing ideas graphically
+4. Patience in problem-solving and troubleshooting
+5. Ability to interact with subject matter experts
+6. Flexibility
+7. Multi-tasking
+8. Ability to get along
+
+————————————
+<!-- ≈≈≈≈≈≈ 12 character line (EM Rule —) ≈≈≈≈ -->
+
+1. Facility with technology - you must have the potential to grasp technology. You may have a bend towards one of the sciences and can understand the inner workings of cells or atoms, or you may be web savvy and know how to interpret code. Or maybe you are just curious about how things work. You can learn technologies you don't understand if you have the motivation.
+
+2. Ability to write clearly - the essential skill of any technical communicator is to disambiguate. The core job is to study complicated things and explain them clearly. You can't just pass off an explanation without understanding it completely. Writing about something as opposed to talking about it requires you to understand it thoroughly.
+
+3. Talent in showing ideas graphically - show ideas graphically as much as possible. People understand better when you can communicate visually. Images help make your writing clear.
+
+4. Patience in problem-solving and troubleshooting - unless you have patience, you'll never make it. Much of IT work consists of problem-solving. It's amazing how a seemingly impossible problem can be solved with a little patience and persistence.
+
+5. Ability to interact with subject matter experts - interacting with subject matter experts is one of the most overlooked skills in technical writing. You must be able to identify and interview people who possess knowledge important to your document. You can't be shy about going after certain people to extract information and you can't be too proud to ask dumb technical questions. Much of this interaction can come about if you're lucky enough to simply sit near subject matter experts.
+
+6. Flexibility - technical writers have to deal with continual last minute changes and inefficient information or insufficient information.
+
+7. Multi-tasking - it's not uncommon to be working on many projects simultaneously, all at different stages in their development, each with its own deadline. Aside from keeping the projects themselves straight, technical writers need to keep track of where they are in each one and meet their individual deadlines.
+
+8. Ability to get along - the technical writer often depends on others to provide critical information during intensely busy periods. It's important to be able to work in cross-cultural teams consisting from more than one organizational unit or function. Good technical writers are expected to work with everyone at the level necessary for successful communication and collaboration. Technical writers work with other writers, often working on different documentation, deliverables, or for the same product family. Sometimes two or even more writers work on the single document. An unexpected aspect of being a technical writer is that it puts them in a position of steering the boat and initiating changes in product appearance and product function.
+
+**In-Video Quiz**
+
+Select which of the statements are true about technical reports. Technical reports:
+
+1. include all the required components in the required order. ✓ Correct
+2. contain specific, factual information focused on the purpose of the report. ✓Correct
+3. document information sources properly. ✓ Correct
+4. are addressed to technically-minded audience. X Un-selected is correct
+5. use graphics and tables. ✓ Correct
+6. are well structured ✓ Correct
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+## Unit 3. Style of Writing
+
+Apart from being grammatically correct, technical writing must be geared to communicating precise
+information in a straightforward and unambiguous way. 
+
+Primarily, the aim of technical writing is to inform rather than to entertain. Informing the
+audience is the primary aim of the technical writer. Emotive language is avoided. The scientific
+writer should try to transmit information as objectively as possible.
+
+### Be concise
+
+You need to use words and expressions economically. If you can use one word instead of two or thee then choose the one word. For example instead of get around use the word avoid. And you should avoid too many long sentences with four or more clauses where parts are confusing to read. An example of a long sentence is this:
+
+"After consulting three manufacturers: Dribble Co., Sooky Ltd. and Bungle pty, we have found that there are two types of vibration suppression devices for portable CD players and both are simple in design but have inherent drawbacks."
+
+A more concise sentence would be: 
+
+"Three manufacturers were consulted: Dribble Co., Sooky Ltd., and Bungle pty. We found two types of vibration suppression devices for portable CD players. Both are simple in design but have inherent drawbacks."
+
+### Be clear
+
+* Specify what you are writing about.
+
+* Be careful about how you use words like eat, this, thing, way, some, and so on. 
+
+    This is an example of unclear expression:
+
+    "The way we did the experiment was not so succesful. Some of what we needed wasn't there."
+
+    And this is an example of how it can look if you write in the clear way:
+
+    "We were unable to complete the experiment. The glass tubing and tripods required for the experiment were not located in laboratory G025"
+
+* Do not use contractions of verbs and pronouns, as these are spoken forms (doesn't, can't, it's, they're).
+
+### Be correct
+
+* Check the spelling, punctuation and grammar of your sentences, and make sure they're correct. If you use a computer spell checker, be careful. Make sure that you know which word to select. Many easily corrected errors in your written work will affect your presentation, and your marks at university, for example. 
+
+* Sometimes we can see errors more easily if you do not proof read your writing until a day or two after finishing writing. This is called a drawer treatment.
+
+* Avoid jargon. Jargon is the technical terminology of any specialized field. Jargon is commonly used when communicating with others in your field. Communication problems can begin when jargon is used in communications aimed at a more general audience. Jargon also indicates some technical words. These have multiple meanings in general and technical contexts. A specialist dictionary is required for learning technical and sub-technical vocabulary. Aim to 
+
+* Write for your intended audience. If your report is for your supervisor or a colleague, then the use of jargon may be both appropriate and expected. If however you're writing a report for a general audience or an expert from another field, jargon should be avoided.
+
+* Simple, clear descriptions should be used.
+
+* Abbreviations and acronyms. In scientific and technical writing, abbreviations and acronyms are commonly used. Abbreviations are pronounced as letters, for example, UNSW, where as acronyms are pronounced as word. For example LASER. The first time you use an abbreviation or acronym, you must spell out the full term followed by the abbreviation or acronym in brackets.
+
+Subsequent use of the term is then made by its abbreviation or acronym. The use of an abbreviation is largely dictated by the number of times you are going to be using the term. If the term is only to be used three or four times, it may be better to use the full term each time. 
+
+* Avoid "I" in technical writing, avoid personal pronouns. When "I" is used it can make your writing sound casual or spoken in style rather than formal and objective. Not using "I" can make your writing more believable. The reader may interpret your use if it to mean that you are not aware of formal writing conventions. By following conventions you show that you are aware of the practices in your field. The reader also might interpret the use of "I" to mean that you are not aware or clear about what other experts in the field have done or think. Instead you are making your own choice. Where possible use active voice.
+
+* Using active voice in your writing creates a direct and concise message, which also makes your writing easier to read. While we encourage you to use the active voice, this does not mean that you cannot use passive voice, as it can be convenient and necessary. Most writing will have a mixture of active and passive clauses depending on what word is chosen for the subject of a sentence. Look at a course, related text that you consider what written to notice how and when writers use active or passive voice and consult journals and technical reports written by other experts in your field to make sure that you know how to use passive or active voice.See the "Checklist for self-assessment when writing instructions" pdf file.
