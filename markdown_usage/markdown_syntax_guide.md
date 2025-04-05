@@ -1,11 +1,9 @@
 # Markdown Syntax Guide
 
-This is heavily based on the cheat-sheet found [here][md_guide_cs].
+This is heavily based on the cheat-sheet found [here][md_guide_cs]. (See separate file for
+information on the syntax used to include links in a document.)
 
 [md_guide_cs]: https://www.markdownguide.org/cheat-sheet
-
-
-Not all Markdown applications support these elements.
 
 ## Second level header
 

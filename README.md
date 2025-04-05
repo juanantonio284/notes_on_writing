@@ -10,7 +10,12 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ## Contents
 
-### Miscellaneous
+### markdown_usage
+
+* `markdown_syntax_guide.md`
+* `links.md`
+
+### miscellaneous
 
 * `analysis_public_speaking_thesis.md` is an analysis of Emily Johnston's *Three Minute Thesis
   University of South Australia Grand Final* winning presentation
@@ -23,8 +28,6 @@ way that is convenient for me; no claims are made and no guarantees are given.
   I've tried to keep the summary as short as possible, or that it's a "practical" guide, but I've
   certainly tried to build the summary around the terms that, over time, I've found essential to
   know.
-
-* `markdown_syntax_guide.md`
 
 * `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
   *viz.*, and *etc.*
