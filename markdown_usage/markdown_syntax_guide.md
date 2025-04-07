@@ -22,7 +22,7 @@ This sentence---beginning at the T and ending at the period---has 100 characters
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-## Other things
+## Part 2: Other Things
 
 ### Italic, bold, and both 
 
@@ -63,50 +63,6 @@ term
 Science
 : the systematic study of the structure and behavior of the physical and natural world through
   observation, experimentation, and the testing of theories against the evidence obtained.
-
-<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-### Block quotations
-
-#### Basic method `>`
-
-> “A designer trained to think with both penetration and scope will find solutions, not alone for problems arising in daily routine, or for development of better ways of production, but also for all problems of living and working together. There is design in family life, in labor relations, in city planning, in living together as civilized human beings.” — Laszlo Moholy-Nagy
-
-#### Multiple Paragraphs and nested quotes
-
-To create a block quotation with multiple paragraphs, put a `>` in the empty line between
-paragraphs. To nest a quote, put a `>>` before the part you want to nest. 
-
-> I—even [while] serving on the Court—have opinions about the results of decisions. But Justices
-  aren't deciding cases—no judge is deciding a case— in order to impose a policy result; they're
-  trying to make their best effort to determine what the law requires, what the constitution
-  requires, what statutes require. 
->
-> I would say that it's perfectly fair game to say that you dislike the results of a case; it's also
-  perfectly fair game to say that the Court got it wrong—but I think if you're going to make the
-  latter claim that the Court got it wrong, you have to engage with the Court's reasoning first.
-  And I think you should read the opinion and say:
-> 
->> *"Does this read like something that was purely results driven and designed to impose the policy
-     preferences of the majority? Or does this read like it actually is an honest effort, a
-     persuasive effort"*—even if one you ultimately don't agree with—*"to determine what the
-     constitution and precedent requires, as applied to a particular problem at hand?"*
->
-> ... The Court—and I'm saying "The Court" but what I'm saying is actually equally applicable to all
-      Federal Courts—is accountable in its reasoning. I think, actually, this is the measure, I
-      think this is the standard, by which the American people should judge the Court: 
->
->> *"Is the Court laying out its reasoning? Is its reasoning that of a political or legislative
-     body, or is its reasoning judicial? Is its reasoning, a reasoning from all the traditional
-     tools that inform our body of precedent?*" (You know, prior cases, statutes, The Constitution
-     itself ...)
->
-> The way that justices write opinions in measured tomes, I think is important ... [I think it's
-  also important how the justices] relate to one another. The Court, truly, is very collegial; even
-  when we disagree with one another about the results of the case, how a case should be decided,
-  the reasoning of the case. I've been honoured to be part of the institution and I have been
-  really grateful for the tremendous collegiality and respect that the members of the Court show
-  for one another and I think Americans would all be better off if we all showed that level of
-  respect even for those with whom we disagree. — Amy Coney Barrett
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Checklist
@@ -151,62 +107,99 @@ To nest line items in an ordered list, indent the items four spaces or one tab.
     1. Indented item 1 (entered as `1.`, rendered as `i`)
     2. Indented item 2 (entered as `2.`, rendered as `ii`)
 
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
+### Footnotes
+
+Here's a simple footnote[^note_1]. Here is another note [^another]. Here's a longer one[^test]. This
+is done with regular markdown code. You can point to the same note in different places [^note_1]. 
+
+[^note_1]: This is the first footnote.
+
+[^another]: This note is named `[^another]`, yet, it appears numbered. The numbering is given in relation to where the note is in the text.
+
+[^test]: 
+This note has multiple paragraphs and code. 
+
+    This is paragraph 1: Indent paragraphs (one tab or four spaces) to include them in the footnote; put a blank line between paragraphs.
+
+    This is paragraph 2, it has code: `{ my code }`
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-### Image
+### Images
 
-The image below is found at https://www.markdownguide.org/assets/images/tux.png
+The image below is found online. It can be seen in the rendered html file when opened in a browser
+(internet connection needed) but cannot be seen in the original text file. (Sublime Text with
+the *Markdown Images* package allows rendering images in your local directories but does not seem
+to work with links.)
 
-![tux](https://www.markdownguide.org/assets/images/tux.png)
+Note that not every build system will show the images as you expect them to ...
+
+#### Full Size
+
+![peace_chem_online](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg)
+
+#### Half Size
+
+![half_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=50%}
+
+#### Quarter Size
+
+![quarter_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=25%}
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Code
 
 To denote a word or phrase as code, enclose it in "tick marks". 
-This is the grave accent symbol `` ` ``, Unicode `U+0060`, (the key below the `esc` key on most 
-keyboards).
+This is the grave accent symbol `` ` ``; the key below the `esc` key on most keyboards (`U+0060`).
 
-Example: at the command prompt type `ls`. 
+* Example: at the command prompt type `ls`. 
 
 If the word or phrase you want to denote as code includes one or more tick marks, you can escape it
 by enclosing the word or phrase in double tick marks. 
 
-Example: this is the grave accent symbol `` ` ``
+* Example: this is the grave accent symbol `` ` ``
 
-To create a code block, aka a listing, put it within a tick "fence". Some build systems also support
-syntax highlighting:
+To create a *code block*, aka a *listing*, put it within a tick "fence" (some build systems also
+support syntax highlighting). 
 
-```html
-<html>
-    <head>
-    </head>
-</html>
-```
+* Example: html code
+
+    ```html
+    <html>
+        <head>
+        </head>
+    </html>
+    ```
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Tables
 
 #### Simple table
 
-The characteristics of the table below are:
-
-* a vertical line `|` is used to separate the words. (It's on your keyboard and has Unicode
-  `U+007C`)
-
-* alignment of the text does not matter
-
-* the top row (with the column names) is separated from the column content by the `| ---- |`
-  construction. That is a vertical line `|` followed by a space ` `, many hyphens `-`, another
-  space ` ` and another vertical line `|`. It does not matter how many hyphens you put in
-
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
-#### Table with alignment, and formatting
+Characteristics of the table above:
 
-The characteristics of the table below are:
+* a vertical line `|` (`U+007C`) is used to separate the words. (This should be on a standard
+  keyboard above the `Enter` key.)
+
+* alignment of the text does not matter
+
+* the top row (with the column names) is separated from the column content by the `| ---- |`
+  construction. That is a vertical line `|` followed by a space ` `, many hyphens `-`, another
+  space ` ` and another vertical line `|`. (It does not matter how many hyphens you put in)
+
+#### Table with alignment and formatting
+
+| text aligned left | text centered | text aligned right |
+|:------------------|:-------------:|-------------------:|
+| **bold text**     |  normal text  |      *italic text* |
+| **bold text**     |  normal text  |      *italic text* |
+
+Characteristics of the table above:
 
 * the same as the characteristics of the "simple table" above
 
@@ -214,58 +207,85 @@ The characteristics of the table below are:
 
 * a colon `:` in the `header/content separator` defines how the text is aligned
 
-    - You probably don't need one to align to the left (that is the default) but I like it as it
-      makes you notice that the other columns have different alignment
+    - You probably don't need one to align text to the left (that is the default) but I like using
+      it as it makes you notice that the other columns have different alignment
 
-* it is nicely formatted in the text file (it is square and looks more table-like)
+* it is easier to read in the text file (it is square and looks more table-like)
 
-    * how it looks in the text doesn't change how it's rendered but it might be nice (there are
-      online markdown table generators that can do this and much more)
-
-| text aligned left | text centered | text aligned right |
-|:------------------|:-------------:|-------------------:|
-| **bold text**     |  normal text  |      *italic text* |
-| **bold text**     |  normal text  |      *italic text* |
+    * how it looks in the text doesn't actually change how it's rendered
 
 
-<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-### Footnotes
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+## Part 3: Block Quotations
 
-Here's a simple footnote,[^1] and here's a longer one [^bignote] (a nice feature is that you can
-give any name you want to the note). You can point to the same note in different places [^1]. 
+### Basic method (using only the `>` symbol)
 
-<!-- The big footnote is indented which makes it render funny (a fence block with nothing in it is created) -->
+> "A designer trained to think with both penetration and scope will find solutions, not alone for
+   problems arising in daily routine, or for development of better ways of production, but also for
+   all problems of living and working together. There is design in family life, in labor relations,
+   in city planning, in living together as civilized human beings." — Laszlo Moholy-Nagy
 
-[^1]: This is the first footnote.
+### Multiple Paragraphs and nested quotes
 
-[^bignote]: Here's one with multiple paragraphs and code inside of it.
-    Indent paragraphs to include them in the footnote.
-    `{ my code }`
-    Add as many paragraphs as you like.
-    
+To create a block quotation with multiple paragraphs, put a `>` in the empty line between
+paragraphs. To nest a quote, put a `>>` before the part you want to nest. 
+
+> I—even [while] serving on the Court—have opinions about the results of decisions. But Justices
+  aren't deciding cases—no judge is deciding a case— in order to impose a policy result; they're
+  trying to make their best effort to determine what the law requires, what the constitution
+  requires, what statutes require. 
+>
+> I would say that it's perfectly fair game to say that you dislike the results of a case; it's also
+  perfectly fair game to say that the Court got it wrong—but I think if you're going to make the
+  latter claim that the Court got it wrong, you have to engage with the Court's reasoning first.
+  And I think you should read the opinion and say:
+> 
+>> *"Does this read like something that was purely results driven and designed to impose the policy
+     preferences of the majority? Or does this read like it actually is an honest effort, a
+     persuasive effort"*—even if one you ultimately don't agree with—*"to determine what the
+     constitution and precedent requires, as applied to a particular problem at hand?"*
+>
+> ... The Court—and I'm saying "The Court" but what I'm saying is actually equally applicable to all
+      Federal Courts—is accountable in its reasoning. I think, actually, this is the measure, I
+      think this is the standard, by which the American people should judge the Court: 
+>
+>> *"Is the Court laying out its reasoning? Is its reasoning that of a political or legislative
+     body, or is its reasoning judicial? Is its reasoning, a reasoning from all the traditional
+     tools that inform our body of precedent?*" (You know, prior cases, statutes, The Constitution
+     itself ...)
+>
+> The way that justices write opinions in measured tomes, I think is important ... [I think it's
+  also important how the justices] relate to one another. The Court, truly, is very collegial; even
+  when we disagree with one another about the results of the case, how a case should be decided,
+  the reasoning of the case. I've been honoured to be part of the institution and I have been
+  really grateful for the tremendous collegiality and respect that the members of the Court show
+  for one another and I think Americans would all be better off if we all showed that level of
+  respect even for those with whom we disagree. — Amy Coney Barrett
+
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## Lines
+## Part 4 Lines
 
-Below is a 50 character line made with the EM Rule `—` character
+Below is a 50-character line made with the EM Rule `—` character (`U+2014`) 
 
 ——————————————————————————————————————————————————
 
-Below is a 25 character line made with the EM Rule `—` character
+Below is a 25-character line made with the EM Rule `—` character (`U+2014`) 
 
 —————————————————————————
 
-Below is a 12 character line made with the EM Rule `—` character
+Below is a 12-character line made with the EM Rule `—` character (`U+2014`)
 
 ————————————
 
-Below is a horizontal rule made with three hyphens `-`
+Below is a "horizontal rule" made with three hyphens `-`
 
 ---
 
-Below is a horizontal rule made with 100 hyphens `-`
+Below is a "horizontal rule" made with 100 hyphens `-`
 
 ----------------------------------------------------------------------------------------------------
 
-This is the last line of the file; below you should see a line separating footnotes from the regular
+This is the last text line of the file; it is regular text. Below you should see a horizontal rule
+that was automatically created in the render process to separate the footnotes from the regular
 text.

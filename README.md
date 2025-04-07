@@ -12,8 +12,12 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ### markdown_usage
 
-* `markdown_syntax_guide.md`
-* `links_syntax_guide.md`
+These guides might provide some insight into the "little tricks" of the syntax, in regard to how a
+document renders to HTML.
+
+* `markdown_syntax_guide.md`: a general markdown syntax guide
+* `markdown_syntax_links.md`: a markdown syntax guide for links (how to add links to a markdown
+  document)
 
 ### miscellaneous
 
