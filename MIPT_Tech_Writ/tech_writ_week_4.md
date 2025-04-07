@@ -134,24 +134,19 @@ database of 8 million articles and 12,000 periodicals.
 
 **4. Newspaper indexes**
 
-Many major newspapers around the world are indexed by subject. The two most important index
-newspapers are the following. The New York Times, perhaps the most reputable newspaper for national
-and international news. And The Christian Science Monitor, in other highly regarded general
-newspaper. Many newspapers available on the web can be searched electronically, although sometimes
-there is charge for the archive article. So you need to pay for using the articles or downloading
-the articles. Keep in mind that the print version and the electronic version of the newspaper can
-vary greatly. If you wished to quote from an article in a newspaper, the print version is the
-preferred option. Now that you have down your secondary research, the challenge is to find
-information that is accurate, unbiased, comprehensive, appropriately, technical, current, and
-clear.
+Many major newspapers around the world are indexed by subject. The two most important indexed
+newspapers are *The New York Times*, perhaps the most reputable newspaper for national and
+international news, and *The Christian Science Monitor*, another highly regarded general newspaper.
+Many newspapers available on the web can be searched electronically ... keep in mind that the print
+version and the electronic version of the newspaper can vary greatly. If you wish to quote from an
+article in a newspaper, the print version is the preferred option. 
 
-**5. User generated content from the Internet**
+**5. User generated content from the internet**
 
-This content rarely undergoes the formal review procedure, the formal review procedure used for
-books and professional journals. A general principle for using any information you find on the
-Internet is to be extremely careful because content is unlikely to have been reviewed before being
-published on a social media site. Use one or more trusted sources to confirm the information you
-locate.
+This content rarely undergoes the formal review procedure used for books and professional journals.
+A general principle for using any information you find on the internet is to be extremely careful
+because content is unlikely to have been reviewed before being published on a social media site.
+Use one or more trusted sources to confirm the information you locate.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -161,208 +156,284 @@ You will often need to conduct primary research because you need new information
 
 ### Major categories of primary research
 
-1. observations and demonstrations
-2. inspections
-3. experiments
-4. field research
-5. interviews
-6. inquiries
-7. questionnaires
+1. Observations and Demonstrations
+2. Inspections
+3. Experiments
+4. Field research
+5. Interviews
+6. Inquiries
+7. Questionnaires
 
-#### 1. Observation and demonstration
+#### 1. Observations and Demonstrations
 
-Two common forms of primary research. When you observe, you simply watch some activity to understand some specific aspects of this activity.
+**Observation** refers to watching some activity to understand some specific aspects of this
+activity. For instance, if you were trying to determine whether the location of the break room was
+interfering with work on the factory floor, you could observe the situation preferably at different
+times of the day and in different days of the week. If you saw workers distracted by people moving
+in and out of the room, or by sounds made in the room, you would record your observations by taking
+notes, taking photos, or shooting videos of events. An observation might lead to other forms of
+primary research. You might, for example, follow up by interviewing some employees who could help
+you understand what you observed.
 
-For instance, if you were trying to determine whether the location of the break room was interfering with work on the factory floor, you could observe the situation preferably at different times of the day and in different days of the week. If you saw workers distracted by people moving in and out of the room, or by sounds made in the room, you would record your observations by taking notes, taking photos, or shooting videos of events. An observation might lead to other forms of primary research. You might, for example, follow up by interviewing some employees who could help you understand what you observed.
+**Demonstration** refers to watching someone carrying out a process. For instance, if your company
+was considering buying a mail sorting machine, you could arrange to visit the manufacturers facility
+where technicians would show how the machine works. If your company was considering a portable
+machine such as a laptop computer, manufacturers or dealers could demo their product of their
+facility.
 
-When you witness a demonstration, you are watching someone carrying out a process.
+When you plan to observe an activity or witness a demonstration, prepare beforehand:
 
-For instance, if your company was considering buying a mail sorting machine, you could arrange to visit the manufacturers facility where technicians would show how the machine works. If your company was considering a portable machine such as a laptop computer, manufacturers or dealers could demo their product of their facility.
-
-When you plan to observe visitation or witness a demo, prepare beforehand.
-
-Write down the questions you need to be answered or the factors you want to investigate.
-
-Prepare interview questions in case you have a chance to speak with someone.
-
-Think about how you are going to incorporate the information you acquire into the document you will write.
+* Write down the questions you need to be answered or the factors you want to investigate
+* Prepare interview questions in case you have a chance to speak with someone
+* Think about how you are going to incorporate the information you acquire into the document you
+  will write
 
 #### 2. Inspections
 
-Inspections are like observations, but you participate more actively.
-
-For example, a civil engineer can determine what causes a crack in a foundation by inspection by the site. Walking around, looking at the crack, photographing it and its surrounding scene, examining the soil, for example. Sometimes, inspection techniques are more complicated. A civil engineer inspecting foundation cracking might want to test his hatches by bringing soil samples back to the lab for analysis.
+Inspections are like observations, but you participate more actively. For example, a civil engineer
+can determine what causes a crack in a foundation by inspection by the site. Walking around,
+looking at the crack, photographing it and its surrounding scene, examining the soil, for example.
+Sometimes, inspection techniques are more complicated. A civil engineer inspecting foundation
+cracking might want to test his hatches by bringing soil samples back to the lab for analysis.
 
 #### 3. Experiments
 
 Learning to conduct the many kinds of experiments used in the particular field take months or even years. In many cases, conducting an experiment involves four phases.
 
-(i) Establishing a hypothesis
-
-(ii) testing the hypothesis
-
-(iii) analyzing the data
-
-(iv) reporting the data.
+* i. Establishing a hypothesis
+* ii. testing the hypothesis
+* iii. analyzing the data
+* iv. reporting the data.
 
 #### 4. Field Research
 
-Whereas an experiment yields quantitative data, they typically can be measured precisely, most field research is qualitative. That is, it yields data that typically cannot be measured precisely. Often, in field research, you seek to understand the quality of an experiment. Some kinds of studies have both quantitative and qualitative elements.
+An experiment typically yields quantitative data and can be measured precisely. But most field
+research is qualitative; it yields data that typically cannot be measured precisely. Often, in
+field research, you seek to understand the quality of an experiment. (Some kinds of studies have
+both quantitative and qualitative elements.)
 
 #### 5. Interviews
 
-Interviews are extremely useful when you need informational subjects that are too new to have been discussed in the professional literature or are too narrow for widespread publication. In choosing a person to interview, answer three questions:
+Interviews are extremely useful when you need informational subjects that are too new to have been
+discussed in the professional literature or are too narrow for widespread publication. In choosing
+a person to interview, answer three questions:
 
-(i) What questions do you want to answer?
-(ii) Who could provide this information?
-(iii) And is the person willing to be interviewed?
+* i. What questions do you want to answer?
+* ii. Who could provide this information?
+* iii. And is the person willing to be interviewed?
 
 #### 6. Inquiry
 
-A useful alternative to a personal interview is to send an inquiry. This inquiry can take the form of a letter, email or a message sent through an organization's website. Although digital inquiries are more convenient for both the sender and the recipient, a physical letter is more formal and therefore might be more appropriate if the topic is important or relates to safety.
+A useful alternative to a personal interview is to send an inquiry. This inquiry can take the form
+of a letter, email or a message sent through an organization's website. Although digital inquiries
+are more convenient for both the sender and the recipient, a physical letter is more formal and
+therefore might be more appropriate if the topic is important or relates to safety.
 
 #### 7. Questionnaires
 
-enable you to solicit information from a large group of people. You can send questionnaires through the email, or email them, present them as forms on a website, or use survey software such as SurveyMonkey. Unfortunately, questionnaires rarely yield completely satisfactory results for three reasons.
+Questionnaires enable you to solicit information from a large group of people. You can send
+questionnaires through the email, or email them, present them as forms on a website, or use survey
+software such as SurveyMonkey. Unfortunately, questionnaires rarely yield completely satisfactory
+results for three reasons.
 
-(i) Some of the questions will misfire.
-(ii) Respondents will misinterpret some of your questions, or supply useless answers.
-(iii) You won't obtain as many responses as you want. The response rate will almost never exceed 50 per cent. It most cases, it will be closer to 10% to 20%.
+* i. Some of the questions will misfire
+* ii. Respondents will misinterpret some of your questions, or supply useless answers
+* iii. You won't obtain as many responses as you want. The response rate will almost never exceed 50
+  per cent. It most cases, it will be closer to 10% to 20%
 
-You cannot be sure that the respondents are representative. People who feel strongly about an issue are much more likely to respond to questionnaires then those who do not. For this reason, you need to be careful in drawing conclusions based on a small number of responses you asked in your questionnaire.
+You cannot be sure that the respondents are representative. People who feel strongly about an issue
+are much more likely to respond to questionnaires then those who do not---you need to be careful in
+drawing conclusions based on a small number of responses you asked in your questionnaire.
 
 **Tips**
 
 * Ask effective questions
-* use unbiased language and be specific
-* include an introductory explanation with the questionnaire. This explanation should clearly indicate who you are, why you are writing, what you plan to do with the information from the questionnaire, and when you will need it.
-* Before you send out any questionnaire, show it and its accompanying explanation to a few people who can help you identify any problems.
-* After you have revised the material, test them on people whose backgrounds are similar to those of your intended respondents.
-* To decide where and how to present the data that you acquire from the questionnaire, think about your audience and purpose
+* Use unbiased language and be specific
+* Include an introductory explanation with the questionnaire. This explanation should clearly
+  indicate who you are, why you are writing, what you plan to do with the information from the
+  questionnaire, and when you will need it
+* Before you send out any questionnaire, show it and its accompanying explanation to a few people
+  who can help you identify any problems
+* After you have revised the material, test them on people whose backgrounds are similar to those of
+  your intended respondents
+* To decide where and how to present the data that you acquire from the questionnaire, think about
+  your audience and purpose
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Research Reports
-<!-- still inside Primary Research section -->
+<!-- This is still inside the "Primary Research" section -->
 
-In technical writing, research reports are focused objective inquiries into technical subjects.
+*Research Reports* are focused, objective, inquiries into technical subjects.
 
-Start with this principle: Important information is presented and analyzed in the body of your document, whereas less important information is presented in an appendix.
-(Most often, different versions of the same information appear in both places.)
+Start with this principle: Important information is presented and analyzed in the body of your
+document, whereas less important information is presented in an appendix. (Most often, different
+versions of the same information appear in both places.)
 
-<!-- %--------------------------------------- -->
+A research report is used to present the results of an experimental study. The core of the research
+report is the materials, methods, and results of the study. In technical writing, these reports are
+specifically geared to the purpose at hand. The readers who will use them, the clients who will
+read them, and whatever limitations have been placed on the scope of the project.
 
-Primary research refers to the actual work done in the laboratory or in the field.
+Technical research reports frequently focus on evolving, sometimes purely hypothetical,
+technologies; in this case, they are called "state-of-the-art reports". In other cases, research
+reports may focus on past technology; in this case, they are called "historical reports".
 
-in other words, this means the various experiments and surveys done by an individual. In this type of report, you present your data and draw questions about it, but also explain the methodology and describe the equipment and facilities used and give some background on the problem.
+One distinguishing characteristic of research reports is the extensive research and documentation
+required. The research may consist of library and laboratory research, interviews, questionnaires,
+various types of culprit technical reports, and trade journal articles.
 
-A research report is used in scientific writing to present the results of an experimental study. The core of the search report is the materials, methods, and results of the study. In technical writing, these reports are specifically geared to the purpose at hand. The readers who will use them, the clients who will read them, and whatever limitations have been placed on the scope of the project.
-
-Technical research reports frequently focus on you evolving, sometimes purely hypothetical technologies. In which case, they can be called state of the art reports. In some cases, research reports may focus on past technology. In which case, they are called historical reports.
-
-<!-- %--------------------------------------- -->
-
-One distinguishing characteristic of research reports is the extensive research and documentation required. The research may consist of library and laboratory research, interviews, questionnaires, various types of culprit technical reports, and trade journal articles.
-
-Also, research report writers increasingly use their wealth of information on the Internet, unlike laboratory boards. However, research reports often do not involve doing the actual research being reported. They frequently present the findings of research that has already been done.
+Research report writers increasingly use information available on the Internet, unlike laboratory
+boards. However, research reports often do not involve doing the actual research being reported.
+They frequently present the findings of research that has already been done.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-### Parts of a report
+### Parts of a Research Report
 
-The organization of a research report is straight forward. However, what goes in the discussion section depends on the topic and the specific requirements for the research.
+The organization of a research report is straightforward. However, what goes in the discussion
+section depends on the topic and the specific requirements for the research.
 
-If the purpose is to report on how you got to where you are in developing a certain technology, the discussion will be primarily historical.
+* If the purpose is to report on how you got to where you are in developing a certain technology,
+  the discussion will be primarily historical
 
-But if the purpose is to describe new evolving technologies, the discussion may be geared more to future implications.
+* If the purpose is to describe new evolving technologies, the discussion may be geared more to
+  future implications
 
-#### 1. Introduction
+**1. Introduction**
 
-the first section of the research report is the introduction. It may provide some background, but not more than a paragraph or two in a one or two page introduction. Start with the purpose statement to explain why you are writing the report.
+* *Background*: the introduction may include a background section, but not more than a paragraph or
+   two in a one or two page introduction
 
-* Problem: state the problem that the report addresses. In the research report, note that the problem is really more of a general background statement that expands on the topic and gives a brief context for what the report will investigate.
+* *Purpose Statement*: explain why you are writing the report
 
-* Scope: in any research paper, you cannot possibly research anything or everything about your topic. Human knowledge is not that simple or easy and there is too much of it. So you will have to limit your paper by including only certain aspects of your topic. To complete the introduction, provide a scope statement that addresses this limitation. This section tells the readers what you are including in the paper and why, and it articulates the rationale for the limitations you are imposing.
+* *Problem*: state the problem that the report addresses. (Note that the problem is really more of a
+   general background statement that expands on the topic and gives a brief context for what the
+   report will investigate.)
 
-#### 2. Background
+* *Scope*: you cannot possibly research anything and everything about your topic, so you will have
+   to limit your paper by including only certain aspects of your topic. To complete the
+   introduction, provide a scope statement that addresses this limitation. This section tells the
+   readers what you are including in the paper and why, and it articulates the rationale for the
+   limitations you are imposing.
 
-in the background section, discuss the theoretical and historical aspects of the topic as appropriate.
+**2. Background**
 
-* The background should start with a brief discussion of theory because the theory may not be common knowledge for the audience. Which is why the theory discussion is essential to understanding the rest of the paper. The discussion section is crucially important, this is the main section of the report. And it may include a brief discussion of a device and its functional applications.
+In the background section, discuss the theoretical and historical aspects of the topic as
+appropriate. Start with a brief discussion of theory---because the theory may not be common
+knowledge for the audience. 
 
-#### 3. Conclusion
+**3. Discussion**
 
-This section of the report normally summarizes the report and may provide a recommendation. Any recommendation must be supported and justified by information in the discussion section.
+The discussion section is the main section of the report; it may include a brief discussion of a
+device and its functional applications.
 
-#### 4. References and appendix
+**4. Conclusion**
 
-include a list of the references used in the report. Always list all the references that were already cited in the report. As a courtesy to the reader, you can also list sources that you consulted, but did not specifically use because these sources may have influenced your thinking, or may provide additional information for further exploration of the topic.
+This section of the report normally summarizes the report and may provide a recommendation
+(any recommendation must be supported and justified by information in the discussion section).
+
+**5. References and Appendix**
+
+Always list all the references that were already cited in the report. As a courtesy to the reader,
+you can also list sources that you consulted, but did not specifically use because these sources
+may have influenced your thinking, or may provide additional information for further exploration of
+the topic.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W4, L8: Laboratory and Evaluation Reports
 
-## Unit 1. Focus on Process
+## Unit 1. Focus on Process (an overview of the research process)
 
-In this video lecture, I will provide an overview of the research process.
+**Analyze The Audience** Who are your most important readers? What are their personal
+  characteristics, their attitudes toward your subject, and their motivations for reading? If you
+  are writing to an expert audience that might be skeptical about your message, you need to do a
+  lot of research to get that the evidence for a convincing argument.
 
-First, you need to analyze the audience. Who are your most important readers? What are their personal characteristics, their attitudes toward your subject, and their motivations for reading? If you are writing to an expert audience that might be skeptical about your message, you need to do a lot of research to get that the evidence for a convincing argument.
+**Analyze Your Purpose** Why are you writing? Understanding your purpose helps you understand the
+  types of information the readers will expect. Think in terms of what you want your readers to
+  know or believe or do after they finish reading your document.
 
-Then you need to analyze your purpose. Why are you writing? Understanding your purpose helps you understand the types of information the readers will expect. Think in terms of what you want your readers to know or believe or do after they finish reading your document.
+**Analyze The Subject** What do you already know about your subject? What do you still need to find
+  out? Using techniques such as pre-writing and brainstorming you can determine these aspects of
+  the subject you need to investigate.
 
-Then you need to analyze the subject. What do you already know about your subject? What do you still need to find out? Using techniques such as pre-writing and brainstorming you can determine these aspects of the subject you need to investigate.
+**Visualize The Deliverable**. What application will you need to deliver a laboratory research? A
+  technical background report? A manual? A website? What kind of oral presentation will you need to
+  deliver? Work out a schedule and a budget for your project. When is the deliverable due? Do you
+  have budget for a, for phone calls, database services, or travel to libraries or other sites?
 
-<!-- %--------------------------------------- -->
+### Determining the information that needs to be part of the deliverable
 
-Then you need to visualize the deliverable. What application will you need to deliver a laboratory research? A technical background report? A manual? A website? What kind of oral presentation will you need to deliver? Work out a schedule and a budget for your project. When is the deliverable due? Do you have budget for a, for phone calls, database services, or travel to libraries or other sites?
+1. Draft an outline of the contents focusing on the kinds of information that readers will expect to
+see in each part.
 
-Determine what information will need to be part of that deliverable.
+2. Determine what information you still need to acquire. Make a list of the pieces of information
+you don't yet have.
 
-Draft an outline of the contents focusing on the kinds of information that readers will expect to see in each part.
+3. Create questions you need to answer in your deliverable. Writing the questions in, at least,
+forces you to think carefully about your topic. One question suggests another and so you have a
+length release that you need to answer.
 
-Determine what information you still need to acquire. Make a list of the pieces of information you don't yet have.
+4. Conduct secondary research. Study journal articles and web based sources such as online
+databases, websites, reference works, and newspaper indexes.
 
-Create questions you need to answer in your deliverable. Writing the questions in, at least, forces you to think carefully about your topic. One question suggests another and so you have a length release that you need to answer.
+5. Conduct primary research to answer some of your questions by consulting company records, by
+interviewing experts, by distributing questionnaires, and by interviewing other people in the
+organization or industry. (Other questions call for using social media to gather information from
+your customers, suppliers, and other stakeholders. Evaluate your info, your information.) 
 
-Conduct secondary research. Study journal articles and web based sources such as online databases, websites, reference works, and newspaper indexes.
-
-On the primary research, you can answer some of your questions by consulting company records, by interviewing experts, by distributing questionnaires, and by interviewing other people in the organization or industry.
-
-Other questions call for using social media to gather information from your customers, suppliers, and other stakeholders. Evaluate your info, your information. Once you have your information you need to evaluate its quality. Is it accurate, comprehensive, unbiased, and current? Do more research. If the information you have acquired does not sufficient answer to your questions, do more research. And if you have thought of additional questions that need to be answered, again, do more research. When do you stop doing your research?
-
-You will stop only when you think you have enough high quality information to create the deliverable.
+6. Evaluate the quality of information. Is it accurate, comprehensive, unbiased, and current? Do
+more research. If the information you have acquired does not sufficient answer to your questions,
+do more research. And if you have thought of additional questions that need to be answered, again,
+do more research. When do you stop doing your research? You will stop only when you think you have
+enough high quality information to create the deliverable.
 
 **In-Video Quiz**
 
 Arrange the stages of a research process in its most logical order. Put numbers 1-12 to indicate the sequence of the stages. See the example.
 
 ```
-3. Analyze your audience
-11. Analyze your purpose
-4. Analyze your subject
-12. Visualize the deliverable
-1. Work out a schedule and a budget for the project
-10. Draft an outline of the contents
-5. Make a list of the pieces of information you don’t yet have
-9. Create questions you need to answer in your deliverable
-7. Conduct secondary research
-6. Conduct primary research
-8. Evaluate your information
-2. Do more research
+[Content below already arranged in correct order]
 
+1. Analyze your audience
+2. Analyze your purpose
+3. Analyze your subject
+4. Visualize the deliverable
+5. Work out a schedule and a budget for the project
+6. Draft an outline of the contents
+7. Make a list of the pieces of information you don’t yet have
+8. Create questions you need to answer in your deliverable
+9. Conduct secondary research
+10. Conduct primary research
+11. Evaluate your information
+12. Do more research
 ```
-
-Answer: 3, 11, 4, 12, 1, 10, 5, 9, 7, 6, 8, 2
-
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 ## Unit 2. Laboratory Report
 
-The laboratory report presents information that relates to the controlled testing of a hypothesis, theory, or device using test equipment and a specified series of steps employed to perform the test (or the procedure).
+The laboratory report presents information that relates to the controlled testing of a hypothesis,
+theory, or device using test equipment and a specified series of steps employed to perform the
+test (or the procedure).
 
-The emphasis in the laboratory report is on documenting the design and conduct of the test, how the variables were controlled and what the resulting data showed. In this purest form, a laboratory report is a research-oriented document, meaning that it starts with a hypothesis or theory that needs to be applied and tested under highly controlled conditions.
+The emphasis in the laboratory report is on documenting the design and conduct of the test, how the
+variables were controlled and what the resulting data showed. In this purest form, a laboratory
+report is a research-oriented document, meaning that it starts with a hypothesis or theory that
+needs to be applied and tested under highly controlled conditions.
 
-For example:
-suppose you are an astronauts engineer hypothesizing that your new wind design could be used to generate high lift at hypersonic speeds with increased flight stability. To test that hypothesis in a laboratory you would need an apparatus, in this case a hypersonic wind tunnel and the model of your wind design. You would also need a procedure for using that wind tunnel to test your wind design model. You could then use the procedure to collect data from the wind tunnel test and interpret the data to see whether your new wind design generated higher lead with increased stability under hypersonic conditions. Finally, you could assess whether their original hypothesis was supported and if so probably recommend that more research be done.
+For example: suppose you are an astronaut's engineer hypothesizing that your new wind design could
+be used to generate high lift at hypersonic speeds with increased flight stability. To test that
+hypothesis in a laboratory you would need an apparatus, in this case a hypersonic wind tunnel and
+the model of your wind design. You would also need a procedure for using that wind tunnel to test
+your wind design model. You could then use the procedure to collect data from the wind tunnel test
+and interpret the data to see whether your new wind design generated higher lead with increased
+stability under hypersonic conditions. Finally, you could assess whether their original hypothesis
+was supported and if so probably recommend that more research be done.
+
+<!-- % @@@ Continue here --------------------------------------- -->
+<!-- % @@@ Continue here --------------------------------------- -->
+
 
 ### Example of a laboratory report
 
