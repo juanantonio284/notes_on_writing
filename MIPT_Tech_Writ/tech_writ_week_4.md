@@ -202,7 +202,7 @@ Learning to conduct the many kinds of experiments used in the particular field t
 
 * i. Establishing a hypothesis
 * ii. testing the hypothesis
-* iii. analyzing the data
+* iii. analysing the data
 * iv. reporting the data.
 
 #### 4. Field Research
@@ -265,7 +265,7 @@ drawing conclusions based on a small number of responses you asked in your quest
 
 *Research Reports* are focused, objective, inquiries into technical subjects.
 
-Start with this principle: Important information is presented and analyzed in the body of your
+Start with this principle: Important information is presented and analysed in the body of your
 document, whereas less important information is presented in an appendix. (Most often, different
 versions of the same information appear in both places.)
 
@@ -345,16 +345,16 @@ the topic.
 
 ## Unit 1. Focus on Process (an overview of the research process)
 
-**Analyze The Audience** Who are your most important readers? What are their personal
+**Analyse The Audience** Who are your most important readers? What are their personal
   characteristics, their attitudes toward your subject, and their motivations for reading? If you
   are writing to an expert audience that might be skeptical about your message, you need to do a
   lot of research to get that the evidence for a convincing argument.
 
-**Analyze Your Purpose** Why are you writing? Understanding your purpose helps you understand the
+**Analyse Your Purpose** Why are you writing? Understanding your purpose helps you understand the
   types of information the readers will expect. Think in terms of what you want your readers to
   know or believe or do after they finish reading your document.
 
-**Analyze The Subject** What do you already know about your subject? What do you still need to find
+**Analyse The Subject** What do you already know about your subject? What do you still need to find
   out? Using techniques such as pre-writing and brainstorming you can determine these aspects of
   the subject you need to investigate.
 
@@ -396,9 +396,9 @@ Arrange the stages of a research process in its most logical order. Put numbers 
 ```
 [Content below already arranged in correct order]
 
-1. Analyze your audience
-2. Analyze your purpose
-3. Analyze your subject
+1. Analyse your audience
+2. Analyse your purpose
+3. Analyse your subject
 4. Visualize the deliverable
 5. Work out a schedule and a budget for the project
 6. Draft an outline of the contents
@@ -414,68 +414,80 @@ Arrange the stages of a research process in its most logical order. Put numbers 
 ## Unit 2. Laboratory Report
 
 The laboratory report presents information that relates to the controlled testing of a hypothesis,
-theory, or device using test equipment and a specified series of steps employed to perform the
-test (or the procedure).
+theory, or device using test equipment and a specified series of steps.
 
 The emphasis in the laboratory report is on documenting the design and conduct of the test, how the
 variables were controlled and what the resulting data showed. In this purest form, a laboratory
-report is a research-oriented document, meaning that it starts with a hypothesis or theory that
-needs to be applied and tested under highly controlled conditions.
+report is a research-oriented document: it starts with a hypothesis or theory that needs to be
+applied and tested under highly controlled conditions.
 
-For example: suppose you are an astronaut's engineer hypothesizing that your new wind design could
+For example: suppose you are an astronaut's engineer hypothesizing that your new wing design could
 be used to generate high lift at hypersonic speeds with increased flight stability. To test that
-hypothesis in a laboratory you would need an apparatus, in this case a hypersonic wind tunnel and
-the model of your wind design. You would also need a procedure for using that wind tunnel to test
-your wind design model. You could then use the procedure to collect data from the wind tunnel test
-and interpret the data to see whether your new wind design generated higher lead with increased
+hypothesis in a laboratory you would need an apparatus (e.g. a hypersonic wind tunnel) and the
+model of your wing design. You would also need a procedure for using that wind tunnel to test your
+wing design model. You could then use the procedure to collect data from the wind tunnel test and
+interpret the data to see whether your new wing design generated higher lift with increased
 stability under hypersonic conditions. Finally, you could assess whether their original hypothesis
 was supported and if so probably recommend that more research be done.
-
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- % @@@ Continue here --------------------------------------- -->
-
 
 ### Example of a laboratory report
 
 **1. Introduction**
 
-* Purpose: start the introduction by briefly and succintly describing the purpose of the report.
-Next, provide the reader with enough with enough information on the problem so that he or she can understand what the report is about and put the information that follows in the proper context. Round out the introduction with a statement of the scope regarding what is being tested and any significant limitations of these tests.
+* Purpose: start the introduction by briefly and succinctly describing the purpose of the report.
+  Next, provide the reader with enough with enough information on the problem so that he or she can
+  understand what the report is about and put the information that follows in the proper context.
+  Round out the introduction with a statement of the scope regarding what is being tested and any
+  significant limitations of these tests.
 
-* Scope: Specify limitations of your report. That is what it will cover and what it will not cover. For example, your report may be limited to technical performance of a device or may not include analysis of costs or marketability.
+* Scope: Specify limitations of your report. That is what it will cover and what it will not cover.
+  For example, your report may be limited to technical performance of a device or may not include
+  analysis of costs or marketability.
 
 **2. Background**
 
-In the background section you should provide the information necessary for the reader to understand and appreciate the test report and the findings that will follow. This section should review any relevant theory and past research that the reader needs to know. Review significant prior research that has been done on this topic to establish a baseline for your research.
+In the background section you should provide the information necessary for the reader to understand
+and appreciate the test report and the findings that will follow. This section should review any
+relevant theory and past research that the reader needs to know. 
 
 **3. Test and Evaluation**
 
-In this section, describe the physical apparatus used in the test and the processes or procedures for doing the testing. The apparatus includes the device being tested and the equipment used to do the testing, while the procedure would include the steps in the test.
+In this section, describe the physical apparatus used in the test and the processes or procedures
+for doing the testing. The apparatus includes the device being tested and the equipment used to do
+the testing, while the procedure would include the steps in the test.
 
 **4. Findings**
 
-in this section, present the data that the tests yielded and provide an interpretation of this data. Finally, provide your overall conclusions related to the original purpose of your study. And many other specific recommendations, if possible that you believe warranted by the results. Provide assessment and recommendations.
+In this section, present the data that the tests yielded and provide an interpretation of this data.
+Finally, provide your overall conclusions related to the original purpose of your study. And, if
+possible, other specific recommendations that you believe are warranted by the results.
+
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Unit 3. Feasibility, Recommendation, and Evaluation Reports
 
 ### Feasibility Report
 
-This type of report studies a problem or opportunity and then makes a recommendation.
+Feasibility reports and recommendation reports are objective documents that identify and evaluate
+solutions to problems. These reports address subjects that have well defined parameters, a problem
+that can be precisely described and a solution that can be objectively and empirically tested.
 
-* A feasibility report tells whether a project is feasible, that is whether it is practical and technologically possible.
+Feasibility and recommendation reports are supposed to be unbiased evaluations. Although they are
+frequently used to promote ideas and sell goods and services, only someone who is totally impartial
+should write these reports. The author should have no stake in the outcome, and should not care
+whether any or all of the solutions are adopted.
 
-* A recommendation report compares two or more alternatives and recommends one, or, if necessary, none.
+Feasibility reports and recommendation reports are similar, and the terms are often used
+synonymously. Both reports define a problem and objectively evaluate solutions based on the set of
+criteria.
 
-* An evaluation or assessment report studies something in terms of its worth or value.
+* A feasibility report tells whether a project is feasible (whether it's practical and
+  technologically possible)
 
-<!-- %--------------------------------------- -->
+* A recommendation report compares two or more alternatives and recommends one (or, if necessary,
+  none)
 
-Feasibility reports and recommendation reports are objective documents that identify and evaluate solutions to problems. In technical writing this reports address subjects that have well defined parameters, including a problem or multiple problems, that can be precisely described and a solution, or multiple solutions, that can be objectively and empirically tested.
-
-Feasibility and recommendation reports are supposed to be unbiased evaluations. Although their conclusions and recommendations are frequently used to promote ideas, and sell goods and services,  only someone who is totally impartial should write these reports.The author should have no stake in the outcome, and should not care whether any or all of the solutions are adopted.
-
-Feasibility reports and recommendation reports are similar, and the terms are often used synonymously. Both reports define a problem and objectively evaluate solutions based on the set of criteria.
+* An evaluation or assessment report studies something in terms of its worth or value
 
 ### Difference between feasibility reports and recommendation reports
 
@@ -485,56 +497,56 @@ evaluate the feasibility of solutions but
 * feasibility reports determine the feasibility or viability of solving your problem in a particular
   way
 
-* feasibility reports consider a single solution to a problem, and determine whether or not, or to
-  what extent the proposed solution is feasible
+* feasibility reports consider a single solution to a problem and determine whether or not---or to
+  what extent---the proposed solution is feasible
 
-* recommendation reports look at several approaches for solving your problem, and recommend the most
-  feasible approach.
+* recommendation reports look at several approaches for solving a problem and recommend the most
+  feasible approach
 
 ### Checklist when writing either a recommendation or a feasibility report
 
 **1. Define the problem that needs to be solved**
-
-The difficulty here is that we are often solution oriented, in many cases we skip the problem and go
-directly to the solution. Suppose a friend came to you and said, I have a problem I need to buy a
-computer, but I do not know which one to purchase. The main problem your friend has is that he or
-she does not have a problem. I need to buy a computer states a solution, not a problem. To come up
-with candidate solutions, you would have to know what your friend needs a computer to do.
-Feasibility and recommendation reports work the same way, you cannot evaluate a solution to a
-problem that is not clearly defined.
+<!-- the example here was poorly written, better to erase it -->
 
 **2. Identify one or more candidate solutions**
 
 This process can be tough, sometimes many more solutions exist than you will have the time or
 capability to evaluate. If you need a computer to surf the internet, how many choices do you have?
-This is almost like asking how many stars are there in the Milky Way galaxy? Coming out with just a
-few viable solutions can be challenging. Normally, we can apply additional requirements to the
-existing problem that will allow you to narrow the list. Maybe he will buy only from an approval,
-local vendor. Or you will shop only within a five minute radius of your home. Or you will consider
-using only a certain catalog that gives you an idea of where and how or what to buy.
+Coming out with just a few viable solutions can be challenging. Normally, we can apply additional
+requirements to the existing problem that will allow you to narrow the list. Maybe he will buy only
+from an approval, local vendor. Or you will shop only within a five minute radius of your home. Or
+you will consider using only a certain catalog that gives you an idea of where and how or what to
+buy.
 
 **3. Develop a set of criteria by which to objectively evaluate the candidate solution or solutions**
 
-the key here is objective. Find meaningful measures that relate to the problem you have defined, and
-identify valid methods for applying them. For example, when looking for a computer to surf the
-internet, you might use criteria such as cost, processor speed, monitor size and quality,
+The key here is *objective*. Find meaningful measures that relate to the problem you have defined,
+and identify valid methods for applying them. For example, when looking for a computer to surf the
+internet, you might use *criteria* such as cost, processor speed, monitor size and quality,
 readability and warranty, bundled software and included peripherals. These can be objectively
-described and measured. The attractiveness of the case would not be a good criteria, because
+described and measured. The attractiveness of the case would not be a good criterion, because
 computer case attractiveness cannot easily be objectively described and measured.
 
-**4. Collect and interpret data for each criterion as it relates to each candidate solution**\
+**4. Collect and interpret data for each criterion as it relates to each candidate solution**
 
 One thing that might be decided is how to weigh the importance of each criterion. Sometimes the
-criteria can be weighed equally, but in many studies some criteria are more important, and need to
+criteria can be weighed equally, but in many studies some criteria are more important and need to
 count more in the final decision. For example, what if you wanted a computer to surf the internet
 using a satellite link, from the back of an all-terrain vehicle, deep in the mountains? In this
 case, reliability and maintainability might be far more important than say, processor speed.
 However, if you plan to use the computer to do serious number crunching in the office, processor
 speed would be more important.
 
-**5. Draw conclusions and make recommendations regarding the feasibility of the candidate solutions based on your interpretations**
+**5. Draw conclusions and make recommendations regarding the feasibility of the candidate solutions
+  based on your interpretations**
 
-The primary requirements here are objectivity and clear thinking. Look in the interpretations you have made for each criterion and consider the relative weighing of the criteria. Also, always base your conclusions on this information. Never on other information or considerations that are not fully treated in the report. Both feasibility and recommendation reports are organized and written in the same, straight forward, logical manner.
+The primary requirements here are objectivity and clear thinking. Look in the interpretations you
+have made for each criterion and consider the relative weighing of the criteria. Also, always base
+your conclusions on this information. Never on other information or considerations that are not
+fully treated in the report. 
+<!-- % @@@ Continue here --------------------------------------- -->
+<!-- % @@@ Continue here --------------------------------------- -->
+<!-- % @@@ Continue here --------------------------------------- -->
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
