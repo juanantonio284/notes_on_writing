@@ -12,8 +12,7 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ### markdown_usage
 
-These guides might provide some insight into the "little tricks" of the syntax, in regard to how a
-document renders to HTML.
+These guides might provide some insight into how the markdown syntax renders to an HTML document.
 
 * `markdown_syntax_guide.md`: a general markdown syntax guide
 * `markdown_syntax_links.md`: a markdown syntax guide for links (how to add links to a markdown
@@ -31,7 +30,7 @@ document renders to HTML.
   this is "neither a dictionary nor an encyclopedia, but something in between". I can't say that
   I've tried to keep the summary as short as possible, or that it's a "practical" guide, but I've
   certainly tried to build the summary around the terms that, over time, I've found essential to
-  know.
+  know
 
 * `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
   *viz.*, and *etc.*
@@ -39,20 +38,18 @@ document renders to HTML.
 * `publishing_terminology_1.md`, and `publishing_terminology_2.md` explain the context and meaning
   of publishing terms like *editing*, *copy-editing*, *proofreading*
 
-* `writing_terminology.md` explains the context and meaning of terms in writing such as
+* `writing_terminology.md` explains the context and meaning of general writing terminology such as
   *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*
 
 * `translation_tips.md` contains tips i would give my younger self for doing translation work
 
 ### MIPT
 
-The two folders below contain notes from MIPT courses that are not available online anymore. The
-course consisted solely of video lectures and had no written content. The notes on this repository
-are made from the video transcripts.
+The two folders below contain notes from MIPT courses that are not available online anymore.
 
-* `MIPT_Sch_Com`: a course on presenting interesting ideas to improve *scholarly communication*
-  (most notably related to the differences between rhetorical styles of native English speakers and
-  non-native English speakers). 
+* `MIPT_Sch_Com`: a course to improve *scholarly communication*(most notably related to the
+  differences between rhetorical styles of native English speakers and non-native English
+  speakers). 
 
 * `MIPT_Tech_Writ`: a course on technical writing
     - `...week_2.md` ("From Start to Finish") introduces the basics of technical writing
