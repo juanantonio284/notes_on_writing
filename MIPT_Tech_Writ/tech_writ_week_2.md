@@ -1,9 +1,9 @@
-# MIPT - Technical Writing - Week 2: "From Start to Finish"
+# MIPT - Technical Writing - Week 2- Module I: "From Start to Finish"
 
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
 
-This module covers:
+**This module covers**:
 
 * acquiring knowledge about technical writing, which deals with complex topics in precise ways
 * issues related to workplace research that you will have to conduct as a technical writer
@@ -12,7 +12,7 @@ This module covers:
 * audience, purpose, and measures of excellence in technical documents
 * what it means to be a good technical communicator
  
-Learning Objectives:
+**Learning Objectives**:
 
 * Discover what it means to be a successful technical writer and identify characteristics of
   technical documentation
