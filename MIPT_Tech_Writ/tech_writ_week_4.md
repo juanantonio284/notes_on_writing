@@ -3,20 +3,16 @@
 [**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
 Some corrections have been made—which is to say that many things have not been corrected.]
 
-This module covers issues related to various types of academic and workplace research, with a focus
-on acquiring the best available information.
+**This module covers**: issues related to various types of academic and workplace research, with a
+  focus on acquiring the best available information.
 
-Learning Objectives
+**Learning Objectives**:
 
 * Develop an enhanced understanding of such types of technical documentation as feasibility reports,
   recommendation reports, instructions, and laboratory research
-
 * Distinguish between academic and workplace research
-
 * Compare and contrast secondary and primary research to meet data-gathering requirements
-
 * Outline a laboratory report
-
 * Classify various types of technical reports (e.g. feasibility, recommendation, evaluation reports,
   instructions)
 
@@ -26,7 +22,6 @@ Learning Objectives
 # W4, L7: Research Reports
 <!-- Week 3, Lesson 7 -->
 
-<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 ## Unit 1. Academic vs Workplace Research
 
 Although academic research and workplace research sometimes overlap, they usually differ in goals
@@ -70,7 +65,9 @@ You will probably use information published in four major media:
 
 **1. Print**
 
-Books, journals, reports, and other documents will continue to be produced in print because printed documents are portable, and you can write on them. For documents that do not need to be updated periodically, print remains a useful and popular medium. 
+Books, journals, reports, and other documents will continue to be produced in print because printed
+documents are portable, and you can write on them. For documents that do not need to be updated
+periodically, print remains a useful and popular medium. 
 
 **2. Online databases**
 
@@ -198,7 +195,8 @@ cracking might want to test his hatches by bringing soil samples back to the lab
 
 #### 3. Experiments
 
-Learning to conduct the many kinds of experiments used in the particular field take months or even years. In many cases, conducting an experiment involves four phases.
+Learning to conduct the many kinds of experiments used in the particular field take months or even
+years. In many cases, conducting an experiment involves four phases.
 
 * i. Establishing a hypothesis
 * ii. testing the hypothesis
@@ -389,11 +387,11 @@ do more research. And if you have thought of additional questions that need to b
 do more research. When do you stop doing your research? You will stop only when you think you have
 enough high quality information to create the deliverable.
 
-**In-Video Quiz**
+```
+In-Video Quiz
 
 Arrange the stages of a research process in its most logical order. Put numbers 1-12 to indicate the sequence of the stages. See the example.
 
-```
 [Content below already arranged in correct order]
 
 1. Analyse your audience
@@ -544,9 +542,6 @@ The primary requirements here are objectivity and clear thinking. Look in the in
 have made for each criterion and consider the relative weighing of the criteria. Also, always base
 your conclusions on this information. Never on other information or considerations that are not
 fully treated in the report. 
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- % @@@ Continue here --------------------------------------- -->
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
@@ -556,127 +551,128 @@ fully treated in the report.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Unit 1. Instructions
 
-These are probably the most familiar of all the types of reports. Students often write backup procedures for the jobs they do at their work. Others write short user manuals for an appliance, equipment, or program. If there's too much to write about, they write about some smaller segment.
+These are probably the most familiar of all the types of reports. Students often write backup
+procedures for the jobs they do at their work. Others write short user manuals for an appliance,
+equipment, or program. Being able to think through and write clear instructions is a valuable
+skill. At school: a lab report or engineering project. At work: a technical manual or instruction
+for a device.
 
-For example, instead of instructions when using all of WordPerfect, just a guide on writing macros in WordPerfect.
+### Important points to consider when writing instructions
 
-Being able to think through and write clear instructions is a valuable skill.  At school: a lab report or engineering project. At work: a technical manual or instruction for a device.
+1. **Know exactly how to do the task**: you should be very familiar with the steps of
+the process before you can write instructions. That means you know how to do this, you are not
+guessing or reading someone else's ideas, you have done this yourself.
 
-### Important steps when writing instructions
+2. **Plan how to write the steps in order**: instructions should be written in small increments,
+manageable tasks that are clear and easy to follow to completion.
 
-**1. You need to know exactly how to do the task**
-You might be very familiar with the steps of the process before you can write instructions. That
-means you know  how to do this, you are not guessing or reading someone else's ideas. You have done
-this yourself.
+3. **Write short sentences beginning with a verb**: effective instructions can be read once and
+applied right away. Don't organize multiple things to do at the same time. Warnings should be
+written as steps: if it's critical that something be done or not be done before something else,
+write it as a step to do before the next step. For example, "close the drain plug" must be a step
+before "add oil to the tank".
 
-**2. Plan how to write the steps in order**
-Instructions are written in small increments, manageable tasks that are clear, easy to follow to
-completion. You must know what is done first, second, third and so on.
+4. **Write the steps in logical order**: Do not depend on the reader going down the page and reading
+all the tips and lines before beginning the process. 
 
-**3. Write instructions beginning with a verb**
-Here, write, the reader must do something each time. Write each step as a small piece, that means
-each step should be small, a baby step in the whole process. It should be easy to read at once, and
-then turn and do it right away. It shouldn't contain multiple things to do at the same time. Include
-warnings as pre-steps, if it's critical that something be done or not be done before something else,
-write it as a step to do before the next step. For example, check or close the drain plug must be a
-step before add oil to the tank.
+5. **Review and edit your instructions carefully (make sure your writing is complete and correct)**:
+Express steps in the positive, it's preferable to say "do something" than "don't do
+something"---e.g. instead of saying "don't forget the salt", write "add salt when the eggs boil".
 
-**4. Write the steps in logical order**
-Do not depend on the reader going down the page and reading all the tips and lines before beginning
-to do the process. Or the reader go into read all the fine points in small print before starting,
-include each point in its own step that begins with a verb.
+6. **Avoid expressing opinions, preferences, or choices**: instructions are not about what might
+happen, what someone could choose, or what you personally prefer. Instructions are imperative
+statements that give an action to perform. Minor choices can be stated with an "or"
+statement---e.g. add chili, tabasco sauce, or pepper flakes.
 
-**5. Review and edit your instructions carefully (make sure your writing is complete and correct)**
-Express steps in the positive, it's more preferable to say do something rather don't do something.
-For example, instead of staying don't forget the salt, write add salt when the eggs boil.
+7. **Explain how to begin the process**: this might include gathering needed materials or supplies,
+or laying out a work area. 
 
-**6. Avoid expressing opinions, preferences, or choices**
-Instructions are not about what might happen, what someone could choose or what you personally
-prefer. Instructions are factual statements that give an action to perform. Opinions can be
-explained in another section of the document.
-
-Minor choices can be stated with an "or" statement.
-
-For example, you can write: add chili, tabasco sauce, or pepper flakes.
-
-**7. Know how to begin the process**
-This might include gathering needed materials or supplies, or laying out a work area. You must
-explain this first.
-
-**8. Know what the end result looks like**
-You have seen the result, a baked cake or a radiator installed, a bicycle put together, the web page changing color, and so on. You must make sure the reader will end up with the same result.
+8. **Know what the end result looks like**: you have seen the result, a baked cake, a radiator
+installed, a bicycle put together, the web page changing color, and so on. Make sure the reader
+will end up with the same result.
 
 ### Tips for preparing instructions
 
-**1. Instructions are not about personal beliefs or opinions**
-No one will follow your instructions if your rationale is "I like this", or "just try it and see", or "good luck".
+1. **Instructions are not about personal beliefs or opinions**: do not approach it as "I like this",
+or "just try it and see", or "good luck"
 
-**2. Instructions are factual, they are not encouragement**
+2. **Instructions are factual, they are not encouragement**
 
-**3. Do not start sentences with present participles (verbs ending in -ing).
-Starting sentences with the present participle usually makes the sentence awkward and the meaning less clear.**
+3. **Do not start sentences with present participles (verbs ending in -ing)**: starting sentences
+with the present participle usually makes the sentence awkward and the meaning less clear.
 
-**4. Maintain logical sequences in presentation**
+4. **Maintain logical sequences in presentation**
 
-**5. Allow time for the actor to respond by making sure each step is manageable and write-in "breaks"**
+5. **Allow time for the actor to respond by making sure each step is manageable and
+write-in "breaks"**: for example, you could write "step back and look at the whole table, is it
+flat? If not, then ..."
 
-For example, you could write "step back and look at the whole table, is it flat? If not, then something happens."
+6. **Avoid the word "always" in an imperative statement**
 
-**6. Avoid the word "always" in an imperative statement**
+7. **Enumerate each step to avoid ambiguity and ensure the correct order of presentation**
 
-**7. Enumerate each step to avoid ambiguity and ensure the correct order of presentation**
+8. **Use the imperative form for technical, scientific, engineering or other mechanical process**
 
-**8. Use the imperative form for technical, scientific, engineering or other mechanical process**
-
-**9. Try to have an image for each step**
-This could be a photo, drawing or sketch. Make sure it's large enough to see exactly what's
+9. **Try to have an image for each step**: make sure it's large enough to see exactly what's
 happening without fingers or tools being in the way.
 
-**10. Begin a step with an action verb**
+10. **Begin a step with an action verb**: "being" something is not something you can do, neither
+is "get someone else to", it must be something you do yourself.
 
-"being" something is not something you can do. Neither is "get someone else to", it must be
-something you do yourself.
+11. **Avoid verbose language**
 
-**11. Avoid verbose language**
+12. **For each step, add a sentence or phrase so the actor can judge if he or she has performed the
+step correctly**: e.g. "look for the screw on the bottom side of the shelf", or "notice the icon
+has now turned red".
 
-**12. For each step, add a sentence or phrase so the actor can judge if he or she has performed the step correctly**
-For example, "look for the screw on the bottom side of the shelf", or "notice the icon has now turned red".
+13. **Include only one or two sentences in each step, each step must be done in a single motion or a
+thought process**
 
-**13. Include only one or two sentences in each step, each step must be done in a single motion or a thought process**
+14. **Instructions are not prohibitions, they tell you how to do something you want to do, not what
+is prohibited**
 
-**14. Instructions are not prohibitions, they tell you how to do something you want to do, not what is prohibited**
-
-**15. Write any dangers clearly at the top, especially for chemicals, machinery, biological hazards or environmental hazards. Instructions can be considered legal documents, people follow them, and trust they will not be harmed or killed**
+15. **Write any dangers clearly at the top, especially for chemicals, machinery, biological hazards
+or environmental hazards. Instructions can be considered legal documents, people follow them, and
+trust they will not be harmed or killed**
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Unit 2. Checklist for the technical report
 
-You might use the following questions to ensure that the technical report is structured properly according to specifications:
+You might use the following questions to ensure that a technical report is structured properly:
 
-* Did you include all the required components in the required order? For example, transmittal letter, title page, figure list and so on?
+* Did you include all the required components in the required order? For example, transmittal
+  letter, title page, figure list, etc.?
 
-* Did you address your report to a real or realistic audience that has a genuine need for your report?
+* Did you address your report to a real or realistic audience that has a genuine need for your
+  report?
 
-* Did you identify in the introduction what background the audience needs to read and understand your report?
+* Did you identify in the introduction what background the audience needs to read and understand
+  your report?
 
-* Does your report contains specific factual detail focused on the purpose of the report and the needs of the audience and aimed at their level of understanding?
+* Does your report contains specific factual detail focused on the purpose of the report and the
+  needs of the audience and aimed at their level of understanding?
 
 * Does your report accomplish its purpose?
 
 * Is the purpose clearly stated in the introduction?
 
-* Does your report use information sources and did you document them properly?
+* Does your report use information sources? Are the sources properly documented?
 
 * Does your report use graphics and tables?
 
-* Does every new section starts on a new page? Does the title page of your report include a descriptive abstract?
+* Does every new section start on a new page? Does the title page of your report include a
+  descriptive abstract?
 
-* Did you include an informative abstract in your report as is positioned properly in relation to the other report components? Specifically, does your informative abstract summarize the key facts and conclusions of your report, rather than act as just another introduction or descriptive abstract?
+* Did you include an informative abstract in your report? Specifically, does your informative
+  abstract summarize the key facts and conclusions of your report, rather than act as just another
+  introduction or descriptive abstract?
 
-* Does the introduction of your report include the elements necessary in good introductions, such as audience, overview and purpose?
+* Does the introduction of your report include the elements necessary in good introductions, such as
+  audience, overview, and purpose?
 
-* Did you avoid the problem of having too much background in the introduction or having an introduction that is all background?
+* Did you avoid the problem of having too much background in the introduction or having an
+  introduction that is all background?
 
 ### Eight important skills for a good technical writer
 
@@ -692,23 +688,49 @@ You might use the following questions to ensure that the technical report is str
 ————————————
 <!-- ≈≈≈≈≈≈ 12 character line (EM Rule —) ≈≈≈≈ -->
 
-1. Facility with technology - you must have the potential to grasp technology. You may have a bend towards one of the sciences and can understand the inner workings of cells or atoms, or you may be web savvy and know how to interpret code. Or maybe you are just curious about how things work. You can learn technologies you don't understand if you have the motivation.
+1. **Facility with technology --- you must have the potential to grasp technology**: you may have a
+bend towards one of the sciences and can understand the inner workings of cells or atoms, or you
+may be web savvy and know how to interpret code. Or maybe you are just curious about how things
+work. You can learn technologies you don't understand if you have the motivation.
 
-2. Ability to write clearly - the essential skill of any technical communicator is to disambiguate. The core job is to study complicated things and explain them clearly. You can't just pass off an explanation without understanding it completely. Writing about something as opposed to talking about it requires you to understand it thoroughly.
+2. **Ability to write clearly --- the essential skill of any technical communicator is to
+disambiguate**: the core job is to study complicated things and explain them clearly. You can't
+just pass off an explanation without understanding it completely. Writing about something as
+opposed to talking about it requires you to understand it thoroughly.
 
-3. Talent in showing ideas graphically - show ideas graphically as much as possible. People understand better when you can communicate visually. Images help make your writing clear.
+3. **Talent in showing ideas graphically --- show ideas graphically as much as possible**: people
+understand better when you can communicate visually.
 
-4. Patience in problem-solving and troubleshooting - unless you have patience, you'll never make it. Much of IT work consists of problem-solving. It's amazing how a seemingly impossible problem can be solved with a little patience and persistence.
+4. **Patience in problem-solving and troubleshooting --- unless you have patience, you'll never make
+it**: Much of IT work consists of problem-solving; it's amazing how a seemingly impossible problem
+can be solved with a little patience and persistence.
 
-5. Ability to interact with subject matter experts - interacting with subject matter experts is one of the most overlooked skills in technical writing. You must be able to identify and interview people who possess knowledge important to your document. You can't be shy about going after certain people to extract information and you can't be too proud to ask dumb technical questions. Much of this interaction can come about if you're lucky enough to simply sit near subject matter experts.
+5. **Ability to interact with subject matter experts --- interacting with subject matter experts is
+one of the most overlooked skills in technical writing**: you must be able to identify and
+interview people who possess knowledge important to your document. You can't be shy about going
+after certain people to extract information and you can't be too proud to ask dumb technical
+questions. Much of this interaction can come about if you're lucky enough to simply sit near
+subject matter experts.
 
-6. Flexibility - technical writers have to deal with continual last minute changes and inefficient information or insufficient information.
+6. **Flexibility --- technical writers have to deal with continual last minute changes and
+inefficient information or insufficient information**.
 
-7. Multi-tasking - it's not uncommon to be working on many projects simultaneously, all at different stages in their development, each with its own deadline. Aside from keeping the projects themselves straight, technical writers need to keep track of where they are in each one and meet their individual deadlines.
+7. **Multi-tasking**: it's not uncommon to be working on many projects simultaneously, all at
+different stages in their development, each with its own deadline. Aside from keeping the projects
+themselves straight, technical writers need to keep track of where they are in each one and meet
+the different deadlines.
 
-8. Ability to get along - the technical writer often depends on others to provide critical information during intensely busy periods. It's important to be able to work in cross-cultural teams consisting from more than one organizational unit or function. Good technical writers are expected to work with everyone at the level necessary for successful communication and collaboration. Technical writers work with other writers, often working on different documentation, deliverables, or for the same product family. Sometimes two or even more writers work on the single document. An unexpected aspect of being a technical writer is that it puts them in a position of steering the boat and initiating changes in product appearance and product function.
+8. **Ability to get along --- the technical writer often depends on others to provide critical
+information during intensely busy periods**: it's important to be able to work in cross-cultural
+teams consisting from more than one organizational unit or function. Good technical writers are
+expected to work with everyone at the level necessary for successful communication and
+collaboration. Technical writers work with other writers, often working on different documentation,
+deliverables, or for the same product family. Sometimes two or even more writers work on the single
+document. An unexpected aspect of being a technical writer is that it puts them in a position of
+steering the boat and initiating changes in product appearance and product function.
 
-**In-Video Quiz**
+```
+In-Video Quiz
 
 Select which of the statements are true about technical reports. Technical reports:
 
@@ -719,10 +741,13 @@ Select which of the statements are true about technical reports. Technical repor
 5. use graphics and tables. ✓ Correct
 6. are well structured ✓ Correct
 
+```
+
+
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Unit 3. Style of Writing
 
-Apart from being grammatically correct, technical writing must be geared to communicating precise
+Apart from being grammatically correct, technical writing must be geared to communicate precise
 information in a straightforward and unambiguous way. 
 
 Primarily, the aim of technical writing is to inform rather than to entertain. Informing the
@@ -731,46 +756,72 @@ writer should try to transmit information as objectively as possible.
 
 ### Be concise
 
-You need to use words and expressions economically. If you can use one word instead of two or thee then choose the one word. For example instead of get around use the word avoid. And you should avoid too many long sentences with four or more clauses where parts are confusing to read. An example of a long sentence is this:
+Use words and expressions economically. If you can use one word instead of two then choose the one
+word. For example instead of saying "get around" use the word 'avoid'. Avoid too many long
+sentences with four or more clauses where parts are confusing to read. An example of a long
+sentence is this:
 
-"After consulting three manufacturers: Dribble Co., Sooky Ltd. and Bungle pty, we have found that there are two types of vibration suppression devices for portable CD players and both are simple in design but have inherent drawbacks."
+> "After consulting three manufacturers: Dribble Co., Sooky Ltd., and Bungle pty, we have found that
+   there are two types of vibration suppression devices for portable CD players and both are simple
+   in design but have inherent drawbacks."
 
 A more concise sentence would be: 
 
-"Three manufacturers were consulted: Dribble Co., Sooky Ltd., and Bungle pty. We found two types of vibration suppression devices for portable CD players. Both are simple in design but have inherent drawbacks."
+> "Three manufacturers were consulted: Dribble Co., Sooky Ltd., and Bungle pty. We found two types
+   of vibration suppression devices for portable CD players. Both are simple in design but have
+   inherent drawbacks."
 
 ### Be clear
 
-* Specify what you are writing about.
+* Be careful about how you use words like 'it', 'this', 'thing', 'way', 'some', etc.  
+    - Unclear: "`The way we did the experiment was not so successful. Some of what we needed wasn't
+      there.`"
+    - Clear: "`We were unable to complete the experiment. The glass tubing and tripods required for
+      the experiment were not located in laboratory G025`"
 
-* Be careful about how you use words like eat, this, thing, way, some, and so on. 
-
-    This is an example of unclear expression:
-
-    "The way we did the experiment was not so succesful. Some of what we needed wasn't there."
-
-    And this is an example of how it can look if you write in the clear way:
-
-    "We were unable to complete the experiment. The glass tubing and tripods required for the experiment were not located in laboratory G025"
-
-* Do not use contractions of verbs and pronouns, as these are spoken forms (doesn't, can't, it's, they're).
+* In technical writing, avoid using contractions of verbs and pronouns (doesn't, can't, it's,
+  they're)
 
 ### Be correct
 
-* Check the spelling, punctuation and grammar of your sentences, and make sure they're correct. If you use a computer spell checker, be careful. Make sure that you know which word to select. Many easily corrected errors in your written work will affect your presentation, and your marks at university, for example. 
+* Check spelling, punctuation, and grammar. If you use a computer spell checker, be careful. Make
+  sure that you know which word to select
 
-* Sometimes we can see errors more easily if you do not proof read your writing until a day or two after finishing writing. This is called a drawer treatment.
+* Sometimes we can see errors more easily if you do not proof-read your writing until a day or two
+  after finishing writing
 
-* Avoid jargon. Jargon is the technical terminology of any specialized field. Jargon is commonly used when communicating with others in your field. Communication problems can begin when jargon is used in communications aimed at a more general audience. Jargon also indicates some technical words. These have multiple meanings in general and technical contexts. A specialist dictionary is required for learning technical and sub-technical vocabulary. Aim to 
+* Avoid jargon. Jargon is the technical terminology of any specialized field, used when
+  communicating with others in the same field. But communication problems can arise when jargon is
+  used in communications aimed at a more general audience; some words have different meanings
+  depending on whether they're used in general or technical contexts
 
-* Write for your intended audience. If your report is for your supervisor or a colleague, then the use of jargon may be both appropriate and expected. If however you're writing a report for a general audience or an expert from another field, jargon should be avoided.
+    - Write for your intended audience. If your report is for your supervisor or a colleague, then
+      the use of jargon may be both appropriate and expected; but if you're writing a report for a
+      general audience or an expert from another field, jargon should be avoided.
 
-* Simple, clear descriptions should be used.
+* Use simple and clear descriptions
 
-* Abbreviations and acronyms. In scientific and technical writing, abbreviations and acronyms are commonly used. Abbreviations are pronounced as letters, for example, UNSW, where as acronyms are pronounced as word. For example LASER. The first time you use an abbreviation or acronym, you must spell out the full term followed by the abbreviation or acronym in brackets.
+* Abbreviations and acronyms. In scientific and technical writing, abbreviations and acronyms are
+  commonly used. Abbreviations are pronounced as letters (e.g. UNSW), acronyms are pronounced as
+  words (e.g. LASER). The first time you use an abbreviation or acronym, you must spell out the
+  full term followed by the abbreviation or acronym in brackets. The use of an abbreviation is
+  largely dictated by the number of times you are going to be using the term. If the term is only
+  to be used three or four times, it may be better to use the full term each time
 
-Subsequent use of the term is then made by its abbreviation or acronym. The use of an abbreviation is largely dictated by the number of times you are going to be using the term. If the term is only to be used three or four times, it may be better to use the full term each time. 
+* Avoid "I" in technical writing, avoid personal pronouns. When "I" is used it can make your writing
+  sound casual or spoken in style rather than formal and objective. Not using "I" can make your
+  writing more believable. The reader may interpret your use if it to mean that you are not aware
+  of formal writing conventions. By following conventions you show that you are aware of the
+  practices in your field. The reader also might interpret the use of "I" to mean that you are not
+  aware or clear about what other experts in the field have done or think. Instead you are making
+  your own choice. 
 
-* Avoid "I" in technical writing, avoid personal pronouns. When "I" is used it can make your writing sound casual or spoken in style rather than formal and objective. Not using "I" can make your writing more believable. The reader may interpret your use if it to mean that you are not aware of formal writing conventions. By following conventions you show that you are aware of the practices in your field. The reader also might interpret the use of "I" to mean that you are not aware or clear about what other experts in the field have done or think. Instead you are making your own choice. Where possible use active voice.
-
-* Using active voice in your writing creates a direct and concise message, which also makes your writing easier to read. While we encourage you to use the active voice, this does not mean that you cannot use passive voice, as it can be convenient and necessary. Most writing will have a mixture of active and passive clauses depending on what word is chosen for the subject of a sentence. Look at a course, related text that you consider what written to notice how and when writers use active or passive voice and consult journals and technical reports written by other experts in your field to make sure that you know how to use passive or active voice.See the "Checklist for self-assessment when writing instructions" pdf file.
+* Use active voice whenever possible: using active voice in your writing creates a direct and
+  concise message, which also makes your writing easier to read. While we encourage you to use the
+  active voice, this does not mean that you cannot use passive voice, as it can be convenient and
+  necessary. Most writing will have a mixture of active and passive clauses depending on what word
+  is chosen for the subject of a sentence. Look at a course, related text that you consider what
+  written to notice how and when writers use active or passive voice and consult journals and
+  technical reports written by other experts in your field to make sure that you know how to use
+  passive or active voice. 
+<!-- See the "Checklist for self-assessment when writing instructions" pdf file. -->
