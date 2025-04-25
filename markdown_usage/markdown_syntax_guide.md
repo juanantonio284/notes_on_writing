@@ -140,11 +140,22 @@ Note that not every build system will show the images as you expect them to ...
 
 #### Half Size
 
+<img 
+    src="https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg"
+    width=50%
+    height=50%
+    title = half
+>
+
+
+```markdown
 ![half_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=50%}
+```
 
-#### Quarter Size
 
-![quarter_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=25%}
+<!-- #### Quarter Size -->
+
+<!-- ![quarter_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=25%} -->
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Code
