@@ -140,27 +140,33 @@ Note that not every build system will show the images as you expect them to ...
 
 #### Half Size
 
+Markdown syntax `![image_title](link to image)` does not display the image properly on GitHub.
+
+Instead, HTML syntax was used (see source code):
+
 [
-<img 
-    src="https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg"
-    width=50%
-    height=50%
-    title = half
->
-]
+<img
+ src="https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg" 
+ width=50%
+ title="This is the title of the image (written in the title field)"
+ />
+](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg)
 
-The markdown syntax below does not display properly on github
+But note that the image above contains a link to another website, and that link is set up using
+Markdown syntax surrounding the HTML syntax: `[ HTML code here ](https...)`. If you do not want
+there to be a link, do not surround the HTML with the markdown, as below:
 
-```markdown
-![half_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=50%}
+```html
+<img
+ src="https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg" 
+ width=50%
+ title="This is the title of the image (written in the title field)"
+ />
 ```
 
-Instead, html syntax was used.
-
-
-<!-- #### Quarter Size -->
-
-<!-- ![quarter_size](https://images.masterworksfineart.com/product/peace-through-chemistry-i-1970-c-96/roy-lichtenstein-lithograph-peace-through-chemistry-i-1970-for-sale.jpg){width=25%} -->
+<!-- see these pages for more hints -->
+<!-- https://gist.github.com/stevecondylios/dcadb4fc73e63f27a3bbcf17e52058bf -->
+<!-- https://github.com/rnag/GMU-Daily-Permit-Automation/blob/main/README.md -->
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Code
