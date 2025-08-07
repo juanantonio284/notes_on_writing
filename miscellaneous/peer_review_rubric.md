@@ -22,9 +22,9 @@ For example:
   example—a concept was already explained in an earlier section, or that a certain word/concept is
   a regular "dictionary" word and not a theory or piece of data that requires a citation or going
   in depth on a theory.
-* If the reviewer has taken it upon him/herself to check spelling and style (without knowing the
+* If the reviewer has taken it upon himself to check style or spelling (without knowing the
   journal's house style, or without taking into account differences in international and American
-  spelling), the author must then defend the spelling and style or change it. But this would be a
+  spelling), the author must then defend the spelling/style or change it. But this would be a
   different part of the publishing process and the purview of the copy-editor, not of an anonymous
   peer reviewer.
 
@@ -35,9 +35,9 @@ publishing is not all philosophical and scientific discussion.)
 But if reviewers are given power to criticize in anonymity and stop publication, they should be held
 to basic standards: 
   
-  1. give clear criticism
-  1. don't be disrespectful
-  1. don't cause unnecessary delays in the production process
+  1. Give clear criticism
+  1. Don't be disrespectful
+  1. Don't cause unnecessary delays in the production process
 
 Anonymity is necessary to curb politics in scientific publishing, but it shouldn't be used as a way
 to dump comments without any sense of collegiality to fellow researchers. Some of these people have
@@ -56,8 +56,8 @@ So some journals (not all ...) should consider a tool like the one proposed in t
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Basic Description of the Tool
 
-A sort of grid/checklist that—although it could be printed on paper—should be conceived as an online
-form/tool with controlled fields, dropdown menus, sorting capabilities, etc.
+A sort of grid/checklist that should be conceived as an online form/tool with controlled fields,
+dropdown menus, sorting capabilities, etc.
 
 **To critics:**
 
@@ -66,19 +66,19 @@ form/tool with controlled fields, dropdown menus, sorting capabilities, etc.
   to a desire from the production team to actually correct problems in a timely fashion. But, for
   some reason (arrogance), the peer-review process does not require PhDs to explain their
   criticisms ...
-* Yes, journals provide ethical guidelines for reviewers. Yes, journals are very "selective" as to
-  whom they allow to become a reviewer. But how many journals actually have (or enforce) standards
-  for communication?
-* This tool can help reviewers too: when authors respond to comments, reviewers have to deal with
-  those responses (in some way or another); so if the first batch of comments is clear and
-  well-organized, the responses will be clear and well-organized and the reviewer can also save
-  time and energy
+* Yes, journals are very "selective" as to whom they allow to become a reviewer; yes, journals
+  provide guidelines for reviewers. But selection of reviewers is related to knowledge of the
+  subject matter, and it seems guidelines are mostly abstract. How many journals actually have
+  (and enforce) standards and procedures for communication?
+* This tool can help reviewers too: at some point reviewers have to deal with author's responses; so
+  if the first batch of reviewer comments is clear and well-organized, the author's responses will
+  be clear and well-organized. Thus the reviewer can also save time and energy
 * A tool such as this might also increase anonymity in a positive sense (it would make it more
-  difficult to trace the writing style to a specific person, nationality, or group/institution)
+  difficult to trace the writing style to a specific nationality or person)
 * A tool such as this might facilitate gathering data: journals would only need to take a few more
-  steps to be able to collect general statistics. For example, what are the most common errors that
-  reviewers are finding in submitted manuscripts (grammar, missing citations, expected topics
-  missing from sections, etc)?
+  steps to be able to collect general statistics. It would be simple to answer questions such as
+  "what are the most common errors that reviewers are finding in submitted manuscripts
+   (grammar, missing citations, expected topics missing from sections, etc)"?
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -97,53 +97,56 @@ Two text fields that allow entering a beginning and an ending line number to mar
 has a question or comment.
 
 * Fields should only allow entering numbers (prohibit letters or symbols)
-* Presuposes that the manuscript's lines are properly numbered. (In other words, the latex template
+* Presuposes that the manuscript's lines are properly numbered. (In other words: the latex template
   provided by the journal should be well-configured so that every line that the author has control
   over is numbered. It would be disruptive if the reviewer wants to refer to something that is not
-  numbered.)
+  numbered—or if the reviewer refers to something that the author cannot change.)
   
 ### (2)
  
-Drop-down menu with options: "Question", "Comment"
+Drop-down menu with options: `Question`, `Comment`
  
 ### (3)
  
-Drop-down menu with options: "Grammar", "Spelling", "Punctuation", "Style", "Reference
-missing", "Research theory"
+Drop-down menu with options: `Grammar`, `Spelling`, `Punctuation`, `Style`, `Reference
+missing`, `Research theory`
 
-* *Grammar*, *Spelling*, *Punctuation*: should automatically set the *Priority* field to "low" 
-  (it is possible to change automatically set levels)
+* `Grammar`, `Spelling`, `Punctuation`: should automatically set the `Priority` field to `low` 
+  (it is possible to change automatic settings)
 
-* The *Style* option would be used if the reviewer believes that the author was not clear enough and
+* The `Style` option would be used if the reviewer believes that the author was not clear enough and
   the problem is not due to grammar, spelling, or punctuation. For example, if the author wrote
-  something like "as discussed in an earlier section, the conclusions will ..."; the reviewer might
-  write a comment like "Specify section, add linked reference. Clarify which conclusions are in
-  question."
-    - *Style*: should automatically set the *Priority* field to "high". The reason for "high" is
+  something like "`As discussed in an earlier section, the conclusions imply that ...`"; the
+  reviewer might write a comment like "`Specify section, add linked reference. Clarify which
+  conclusions are in question. If this was already discussed, why reiterate? Do you mean "as
+  touched upon in section X"? (Revise)`."
+    - `Style`: should automatically set the `Priority` field to `high`. The reason for `high` is
        that sometimes when things are revised and written better in terms of style/diction,
-       problems that exist with the theory are revised (or disappear) in the process
+       problems that exist with the theory are revised (and may disappear) in the process
 
-* The *Reference missing* option would automatically populate a text field with a comment like 
-  "Clarify where this concept/result comes from."
+* The `Reference missing` option would automatically populate a text field with a comment like  
+  "`Clarify where this concept/result comes from.`"
       
-* The *Research theory* option would be used if the reviewer wants to comment on the theory itself.
-  The reviewer could have a comment such as "Smith's concept from 2005 is used but, be aware, that
-  this concept was revised by Smith himself in 2008."
-    - Should automatically set the *Priority* field to "high"
+* The `Research theory` option would be used if the reviewer wants to comment on the theory itself.
+  The reviewer could say something like "`Smith's concept from 2005 is used but, be aware, that this
+    concept was revised by Smith himself in 2008.`"
+    - Should automatically set the `Priority` field to `high`
     - [The option could be called something other than "Research theory" (probably should be). There
-      could be other options added to the menu; one that comes to mind in when reviewers say that X
-      type of study should have Y type of analysis. Maybe an option called "Concepts missing"?]
+      could be other options added to the menu. There could be one that deals with the common case
+      when reviewers say that X type of study should have Y type of analysis. (They mean to say
+      that the traditional, rigorous, way of doing it is not being followed.) This option could be
+      called "`Concepts missing`"?]
 
 ### (4)
 
-Drop-down menu with options: "Low", "Medium", "High", "Critical"(?)
+Drop-down menu with options: `Low`, `Medium`, `High`, `Critical`(?)
 
 ### (5)
 
 Text field that becomes larger or shorter depending on options selected. 
 
 * Provisions should be in place so that reviewer doesn't "hack" the system by mis-selecting a
-  category on purpose to get the maximum text field that allows for rambling
+  category on purpose to get the text field that allows for maximum rambling
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
