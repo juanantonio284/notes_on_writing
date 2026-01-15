@@ -47,7 +47,7 @@ These guides might provide some insight into how the markdown syntax renders to 
 
 The two folders below contain notes from MIPT courses that are not available online anymore.
 
-* `MIPT_Sch_Com`: a course to improve *scholarly communication*(most notably related to the
+* `MIPT_Sch_Com`: a course to improve *scholarly communication* (most notably related to the
   differences between rhetorical styles of native English speakers and non-native English
   speakers). 
 
