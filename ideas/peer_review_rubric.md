@@ -24,13 +24,13 @@ For example:
   in depth on a theory.
 * If the reviewer has taken it upon himself to check style or spelling (without knowing the
   journal's house style, or without taking into account differences in international and American
-  spelling), the author must then defend the spelling/style or change it. But this would be a
-  different part of the publishing process and the purview of the copy-editor, not of an anonymous
-  peer reviewer.
+  spelling), the author must then defend the spelling/style or change it. (Even though this belongs
+  in a different part of the publishing process and is the purview of the copy-editor, not of an
+  anonymous peer reviewer.)
 
 Thus, **before even fixing any actual problems with the research, authors must spend great time and
-energy appeasing reviewers**. (Let's be honest, that is what that is: *appeasing*. Journal
-publishing is not all philosophical and scientific discussion.)
+energy appeasing reviewers**. (Let's be honest, journal publishing is not all philosophical and
+scientific discussion. There is a lot of *appeasing* and just trying to get to the next stage.)
 
 But if reviewers are given power to criticize in anonymity and stop publication, they should be held
 to basic standards: 
@@ -45,12 +45,11 @@ an attitude like "I have a PhD, I took 5 minutes to read your paper, here's a st
 consciousness of opinions (with poor punctuation, misspellings, and no clear order), you figure it
 out, I don't care if you're published or not".
 
-But let's be clear, **it's not all the reviewers' fault. Where are the journals in all of this?**
-Some journals (not all ...) decide to provide blank fields for comments and don't seem to hold
-their peer reviewers to any standard. And some journals (not all ...) assume that it's OK to let
-the work fall on authors, copy-editors, and typesetters. 
-
-So some journals (not all ...) should consider a tool like the one proposed in the next section. 
+Let's be clear, **it's not all the reviewers' fault. Where are the journals in all of this?** Some
+journals (not all ...) decide to provide blank fields for comments and don't seem to hold their
+peer reviewers to any standard. And some journals (not all ...) assume that it's OK to let the work
+fall on authors, copy-editors, and typesetters. So some journals (not all ...) should consider a
+tool like the one proposed in the next section. 
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -68,13 +67,13 @@ dropdown menus, sorting capabilities, etc.
   criticisms ...
 * Yes, journals are very "selective" as to whom they allow to become a reviewer; yes, journals
   provide guidelines for reviewers. But selection of reviewers is related to knowledge of the
-  subject matter, and it seems guidelines are mostly abstract. How many journals actually have
-  (and enforce) standards and procedures for communication?
-* This tool can help reviewers too: at some point reviewers have to deal with author's responses; so
+  subject matter, and it seems guidelines are mostly abstract. How many journals actually have and
+  enforce standards and procedures for communication from reviewer to author?
+* This tool can help reviewers too: at some point reviewers will receive the author's responses; so
   if the first batch of reviewer comments is clear and well-organized, the author's responses will
   be clear and well-organized. Thus the reviewer can also save time and energy
 * A tool such as this might also increase anonymity in a positive sense (it would make it more
-  difficult to trace the writing style to a specific nationality or person)
+  difficult to trace the writing style to a specific person, group, nationality)
 * A tool such as this might facilitate gathering data: journals would only need to take a few more
   steps to be able to collect general statistics. It would be simple to answer questions such as
   "what are the most common errors that reviewers are finding in submitted manuscripts
@@ -86,7 +85,7 @@ dropdown menus, sorting capabilities, etc.
 
 | **Lines on Manuscript** | **Type** | **Category** |    **Priority**   | **Comment** |
 |:-----------------------:|:--------:|:------------:|:-----------------:|:-----------:|
-|           (1)           |    (2)   |      (3)     |         (4)       |     (5)     |
+|          (1)            |    (2)   |      (3)     |         (4)       |    (5)      |
 |          ...            |    ...   |      ...     |         ...       |    ...      |
 |          ...            |    ...   |      ...     |         ...       |    ...      |
 |          ...            |    ...   |      ...     |         ...       |    ...      |
@@ -121,21 +120,21 @@ missing`, `Research theory`
   conclusions are in question. If this was already discussed, why reiterate? Do you mean "as
   touched upon in section X"? (Revise)`."
     - `Style`: should automatically set the `Priority` field to `high`. The reason for `high` is
-       that sometimes when things are revised and written better in terms of style/diction,
-       problems that exist with the theory are revised (and may disappear) in the process
+      that when things are revised and written better in terms of style/diction, problems with the
+      theory are often revised (and may disappear) in the process.
 
 * The `Reference missing` option would automatically populate a text field with a comment like  
-  "`Clarify where this concept/result comes from.`"
+  "`Clarify where this concept/result comes from.`" but this field could be changed by the reviewer
       
 * The `Research theory` option would be used if the reviewer wants to comment on the theory itself.
   The reviewer could say something like "`Smith's concept from 2005 is used but, be aware, that this
     concept was revised by Smith himself in 2008.`"
     - Should automatically set the `Priority` field to `high`
-    - [The option could be called something other than "Research theory" (probably should be). There
-      could be other options added to the menu. There could be one that deals with the common case
-      when reviewers say that X type of study should have Y type of analysis. (They mean to say
-      that the traditional, rigorous, way of doing it is not being followed.) This option could be
-      called "`Concepts missing`"?]
+    - [The option could be called something other than "Research theory" (it probably should be).
+      There could be other options added to the menu. There could be one that deals with the common
+      case when reviewers say that X type of study should have Y type of analysis. (They mean to
+      say that the traditional, rigorous, way of doing it is not being followed.) This option could
+      be called "`Concepts missing`"?]
 
 ### (4)
 
@@ -152,12 +151,11 @@ Text field that becomes larger or shorter depending on options selected.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Sample Usage
 
-| **Lines on Manuscript** | **Type** | **Category** | **Priority** | **Comment** |
-|:-----------------------:|:--------:|:------------:| :--------------:  |:-----------:|
-|    5                    | Comment  |   Spelling   |   low        | behavior to behaviour| 
-|    8                    | Comment  |   Spelling   |   high     | ostensibly to ostensively| 
-|    25 | Comment | Style | high | avoid phrases like "as mentioned earlier" |
-
+| **Lines on Manuscript** | **Type** | **Category** |    **Priority**   | **Comment**              |
+|:-----------------------:|:--------:|:------------:| :--------------:  |:------------------------:|
+|    5                    | Comment  |   Spelling   |        low        | behavior to behaviour    | 
+|    8                    | Comment  |   Spelling   |        high       | ostensibly to ostensively| 
+|    25                   | Comment  |    Style     | high | avoid phrases like "as mentioned earlier" |
 
 
 <!-- ## Things to consider -->
