@@ -30,43 +30,42 @@ and methods.
 **Academic Research**
 
 * has the goal of finding information that will help answer a scholarly question
-    - e.g. What would be the effect of the trade balance between the United States and China if
-      China lowered the value of its currency by 10%?
+    - e.g. *What would be the effect of the trade balance between the United States and China, if
+      China lowered the value of its currency by 10%?*
 
-* has questions which tend to be more abstract than applied---they get at the underlying principles
-  of a phenomenon
+* has questions which tend to be more abstract than applied; related to the underlying principles of
+  a phenomenon
 
-* usually requires extensive *secondary* research, reading scholarly literature, and academic
+* usually requires extensive *secondary* research: reading scholarly literature and academic
   journals and books. (If you do primary research, as scientists do in labs, you do so after
   extensive secondary research.)
 
 **Workplace Research**
 
 * has the goal of finding information that will help answer a practical question
-    - e.g. Should we replace our sales staff's notebook computers with tablets?
+    - e.g. *Should we replace our sales staff's notebook computers with tablets?*
 
 * has questions which frequently focus on improving a situation at a particular organization
 
-* usually requires extensive *primary* research because the questions require that you learn about
-  your own organization's processes and how the people in your organization would response to your
-  ideas
+* usually requires extensive *primary* research, because the questions require learning about a
+  specific organization's processes and how its members would respond to new ideas
+
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Unit 2. Conducting Secondary Research
 
 When you conduct secondary research you are trying to learn what experts have to say about the
 topic. Your goal is to acquire the best available information, the most accurate, the most
-unbiased, the most comprehensive, and most current. Today, most technical information is described
-not only in print but also through digital media accessible on the Internet.
-
-### Four Major Media
+unbiased, the most comprehensive, and most current.
 
 You will probably use information published in four major media:
+
+### Four Major Media
 
 **1. Print**
 
 Books, journals, reports, and other documents will continue to be produced in print because printed
-documents are portable, and you can write on them. For documents that do not need to be updated
+documents are portable and you can write on them. For documents that do not need to be updated
 periodically, print remains a useful and popular medium. 
 
 **2. Online databases**
@@ -79,7 +78,7 @@ these databases are LexisNexis, ProQuest, INFOTRAC, Gale Virtual Reference, and 
 
 The good news is that there are billions of pages of information on the web; the bad news is that
 there are billions pages of information on the web. Still, if you search effectively and
-efficiently you can find reference materials, such as dictionaries, encyclopedias that do not exist
+efficiently you can find reference materials such as dictionaries, encyclopedias that do not exist
 in print, online versions of magazines and journals with extra features not present in print
 versions, conversion calculators, current survey data, animations, audio and video podcasts, and
 many other kinds of information.
@@ -102,15 +101,15 @@ An online catalog is a database of books, microform materials, films, CDs, photo
 other materials. In most cases, an online catalog lists and describes the holdings of one
 particular library or a group of libraries. To search for an item consult the instructions, which
 explain how to limit your search by characteristics, such as types of media, date of publication
-and language. The instructions also explain how to use punctuation and words such as, and/or and
-note to focus your search effectively.
+and language. The instructions also explain how to use punctuation and words such as 'and', 'or' and
+'not' to focus your search effectively.
 
 **2. Reference works**
 
 Reference works include general dictionaries and encyclopedias, bibliographic dictionaries,
-almanacs, atlases and dozens of other research tools. This print and online works are especially
-useful when you are beginning your research project because they provide an overview of the subject
-and often list the major works in the field.
+almanacs, atlases, and dozens of other research tools. These works are especially useful at the
+beginning of a research project because they provide an overview of the subject and often list the
+major works in the field.
 
 **3. Periodical indexes**
 
@@ -122,21 +121,18 @@ appear in one of hundreds of other publications. A periodical index, which is a 
 classified according to title, subject, and author, can help you determine which journals you want
 to locate. There are periodical indexes in all fields.
 
-You can also use a director research engine. Many directory categories include a subcategory called
-journals or periodicals listing online and printed sources. Once you have created a bibliography of
-printed articles you want to study, you have to study them. Check your libraries online catalog,
+You can also use a directory research engine. Many directory categories include a subcategory called
+journals or periodicals listing online and printed sources. Check your library's online catalog,
 which includes all the journals your library receives. If the library does not have an article you
-want, you can use this technique for searching it. Document delivery service, which is a free
-database of 8 million articles and 12,000 periodicals.
+want, you can use this technique for searching it. 
 
 **4. Newspaper indexes**
 
 Many major newspapers around the world are indexed by subject. The two most important indexed
 newspapers are *The New York Times*, perhaps the most reputable newspaper for national and
 international news, and *The Christian Science Monitor*, another highly regarded general newspaper.
-Many newspapers available on the web can be searched electronically ... keep in mind that the print
-version and the electronic version of the newspaper can vary greatly. If you wish to quote from an
-article in a newspaper, the print version is the preferred option. 
+Keep in mind that the print version and the electronic version of the newspaper can vary greatly.
+If you wish to quote from an article in a newspaper, the print version is the preferred option. 
 
 **5. User generated content from the internet**
 
@@ -164,19 +160,19 @@ You will often need to conduct primary research because you need new information
 #### 1. Observations and Demonstrations
 
 **Observation** refers to watching some activity to understand some specific aspects of this
-activity. For instance, if you were trying to determine whether the location of the break room was
-interfering with work on the factory floor, you could observe the situation preferably at different
-times of the day and in different days of the week. If you saw workers distracted by people moving
-in and out of the room, or by sounds made in the room, you would record your observations by taking
-notes, taking photos, or shooting videos of events. An observation might lead to other forms of
-primary research. You might, for example, follow up by interviewing some employees who could help
-you understand what you observed.
+  activity. For instance, if you were trying to determine whether the location of the break room
+  was interfering with work on the factory floor, you could observe the situation at different
+  times of the day and in different days of the week. If you saw workers distracted by people
+  moving in and out of the room, or by sounds made in the room, you would record your observations
+  by taking notes, taking photos, or shooting videos of events. An observation might lead to other
+  forms of primary research. You might, for example, follow up by interviewing some employees who
+  could help you understand what you observed.
 
 **Demonstration** refers to watching someone carrying out a process. For instance, if your company
-was considering buying a mail sorting machine, you could arrange to visit the manufacturers facility
-where technicians would show how the machine works. If your company was considering a portable
-machine such as a laptop computer, manufacturers or dealers could demo their product of their
-facility.
+  was considering buying a mail sorting machine, you could arrange to visit the manufacturers
+  facility where technicians would show how the machine works. If your company was considering a
+  portable machine such as a laptop computer, manufacturers or dealers could demo their product of
+  their facility.
 
 When you plan to observe an activity or witness a demonstration, prepare beforehand:
 
@@ -188,10 +184,10 @@ When you plan to observe an activity or witness a demonstration, prepare beforeh
 #### 2. Inspections
 
 Inspections are like observations, but you participate more actively. For example, a civil engineer
-can determine what causes a crack in a foundation by inspection by the site. Walking around,
-looking at the crack, photographing it and its surrounding scene, examining the soil, for example.
-Sometimes, inspection techniques are more complicated. A civil engineer inspecting foundation
-cracking might want to test his hatches by bringing soil samples back to the lab for analysis.
+can determine what causes a crack in a foundation by inspecting a site: walking around, looking at
+the crack, photographing it and its surrounding scene, examining the soil, etc. Sometimes,
+inspection techniques become complicated: a civil engineer inspecting foundation cracking might
+want to bring soil samples back to the lab for analysis.
 
 #### 3. Experiments
 
@@ -199,9 +195,9 @@ Learning to conduct the many kinds of experiments used in the particular field t
 years. In many cases, conducting an experiment involves four phases.
 
 * i. Establishing a hypothesis
-* ii. testing the hypothesis
-* iii. analysing the data
-* iv. reporting the data.
+* ii. Testing the hypothesis
+* iii. Analysing the data
+* iv. Reporting the data
 
 #### 4. Field Research
 
@@ -223,16 +219,16 @@ a person to interview, answer three questions:
 #### 6. Inquiry
 
 A useful alternative to a personal interview is to send an inquiry. This inquiry can take the form
-of a letter, email or a message sent through an organization's website. Although digital inquiries
+of a letter, email, or a message sent through an organization's website. Although digital inquiries
 are more convenient for both the sender and the recipient, a physical letter is more formal and
 therefore might be more appropriate if the topic is important or relates to safety.
 
 #### 7. Questionnaires
 
 Questionnaires enable you to solicit information from a large group of people. You can send
-questionnaires through the email, or email them, present them as forms on a website, or use survey
-software such as SurveyMonkey. Unfortunately, questionnaires rarely yield completely satisfactory
-results for three reasons.
+questionnaires through email, present them as forms on a website, or use survey software such as
+SurveyMonkey. Unfortunately, questionnaires rarely yield completely satisfactory results for three
+reasons.
 
 * i. Some of the questions will misfire
 * ii. Respondents will misinterpret some of your questions, or supply useless answers
@@ -240,7 +236,7 @@ results for three reasons.
   per cent. It most cases, it will be closer to 10% to 20%
 
 You cannot be sure that the respondents are representative. People who feel strongly about an issue
-are much more likely to respond to questionnaires then those who do not---you need to be careful in
+are much more likely to respond to questionnaires then those who do not—you need to be careful in
 drawing conclusions based on a small number of responses you asked in your questionnaire.
 
 **Tips**
@@ -269,12 +265,12 @@ versions of the same information appear in both places.)
 
 A research report is used to present the results of an experimental study. The core of the research
 report is the materials, methods, and results of the study. In technical writing, these reports are
-specifically geared to the purpose at hand. The readers who will use them, the clients who will
+specifically geared to the purpose at hand, the readers who will use them, the clients who will
 read them, and whatever limitations have been placed on the scope of the project.
 
 Technical research reports frequently focus on evolving, sometimes purely hypothetical,
-technologies; in this case, they are called "state-of-the-art reports". In other cases, research
-reports may focus on past technology; in this case, they are called "historical reports".
+technologies; in this case, they are called "state-of-the-art" reports. In other cases, research
+reports may focus on past technology; in this case, they are called "historical" reports.
 
 One distinguishing characteristic of research reports is the extensive research and documentation
 required. The research may consist of library and laboratory research, interviews, questionnaires,
@@ -284,6 +280,7 @@ Research report writers increasingly use information available on the Internet, 
 boards. However, research reports often do not involve doing the actual research being reported.
 They frequently present the findings of research that has already been done.
 
+<!-- *** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Parts of a Research Report
 
@@ -316,7 +313,7 @@ section depends on the topic and the specific requirements for the research.
 **2. Background**
 
 In the background section, discuss the theoretical and historical aspects of the topic as
-appropriate. Start with a brief discussion of theory---because the theory may not be common
+appropriate. Start with a brief discussion of theory—because the theory may not be common
 knowledge for the audience. 
 
 **3. Discussion**
@@ -495,8 +492,8 @@ evaluate the feasibility of solutions but
 * feasibility reports determine the feasibility or viability of solving your problem in a particular
   way
 
-* feasibility reports consider a single solution to a problem and determine whether or not---or to
-  what extent---the proposed solution is feasible
+* feasibility reports consider a single solution to a problem and determine whether or not—or to
+  what extent—the proposed solution is feasible
 
 * recommendation reports look at several approaches for solving a problem and recommend the most
   feasible approach
@@ -577,12 +574,12 @@ all the tips and lines before beginning the process.
 
 5. **Review and edit your instructions carefully (make sure your writing is complete and correct)**:
 Express steps in the positive, it's preferable to say "do something" than "don't do
-something"---e.g. instead of saying "don't forget the salt", write "add salt when the eggs boil".
+something"—e.g. instead of saying "don't forget the salt", write "add salt when the eggs boil".
 
 6. **Avoid expressing opinions, preferences, or choices**: instructions are not about what might
 happen, what someone could choose, or what you personally prefer. Instructions are imperative
 statements that give an action to perform. Minor choices can be stated with an "or"
-statement---e.g. add chili, tabasco sauce, or pepper flakes.
+statement—e.g. add chili, tabasco sauce, or pepper flakes.
 
 7. **Explain how to begin the process**: this might include gathering needed materials or supplies,
 or laying out a work area. 
@@ -688,31 +685,31 @@ You might use the following questions to ensure that a technical report is struc
 ————————————
 <!-- ≈≈≈≈≈≈ 12 character line (EM Rule —) ≈≈≈≈ -->
 
-1. **Facility with technology --- you must have the potential to grasp technology**: you may have a
+1. **Facility with technology — you must have the potential to grasp technology**: you may have a
 bend towards one of the sciences and can understand the inner workings of cells or atoms, or you
 may be web savvy and know how to interpret code. Or maybe you are just curious about how things
 work. You can learn technologies you don't understand if you have the motivation.
 
-2. **Ability to write clearly --- the essential skill of any technical communicator is to
+2. **Ability to write clearly — the essential skill of any technical communicator is to
 disambiguate**: the core job is to study complicated things and explain them clearly. You can't
 just pass off an explanation without understanding it completely. Writing about something as
 opposed to talking about it requires you to understand it thoroughly.
 
-3. **Talent in showing ideas graphically --- show ideas graphically as much as possible**: people
+3. **Talent in showing ideas graphically — show ideas graphically as much as possible**: people
 understand better when you can communicate visually.
 
-4. **Patience in problem-solving and troubleshooting --- unless you have patience, you'll never make
+4. **Patience in problem-solving and troubleshooting — unless you have patience, you'll never make
 it**: Much of IT work consists of problem-solving; it's amazing how a seemingly impossible problem
 can be solved with a little patience and persistence.
 
-5. **Ability to interact with subject matter experts --- interacting with subject matter experts is
+5. **Ability to interact with subject matter experts — interacting with subject matter experts is
 one of the most overlooked skills in technical writing**: you must be able to identify and
 interview people who possess knowledge important to your document. You can't be shy about going
 after certain people to extract information and you can't be too proud to ask dumb technical
 questions. Much of this interaction can come about if you're lucky enough to simply sit near
 subject matter experts.
 
-6. **Flexibility --- technical writers have to deal with continual last minute changes and
+6. **Flexibility — technical writers have to deal with continual last minute changes and
 inefficient information or insufficient information**.
 
 7. **Multi-tasking**: it's not uncommon to be working on many projects simultaneously, all at
@@ -720,7 +717,7 @@ different stages in their development, each with its own deadline. Aside from ke
 themselves straight, technical writers need to keep track of where they are in each one and meet
 the different deadlines.
 
-8. **Ability to get along --- the technical writer often depends on others to provide critical
+8. **Ability to get along — the technical writer often depends on others to provide critical
 information during intensely busy periods**: it's important to be able to work in cross-cultural
 teams consisting from more than one organizational unit or function. Good technical writers are
 expected to work with everyone at the level necessary for successful communication and
