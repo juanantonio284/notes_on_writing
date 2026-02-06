@@ -20,28 +20,29 @@ These guides might provide some insight into how the markdown syntax renders to 
 
 ### miscellaneous
 
-* `analysis_public_speaking_thesis.md` is an analysis of Emily Johnston's *Three Minute Thesis
+* `analysis_public_speaking_thesis.md`: an analysis of Emily Johnston's *Three Minute Thesis
   University of South Australia Grand Final* winning presentation
 
-* `big_summary_penguin_punct.md` contains a summary to *The Penguin Guide to Punctuation* by R.L.
+* `big_summary_penguin_punct.md`: a summary to *The Penguin Guide to Punctuation* by R.L.
   Trask
   
-* `linguistic_terminology.md` explains the context and meaning of different terms in linguistics;
-  this is "neither a dictionary nor an encyclopedia, but something in between". I can't say that
-  I've tried to keep the summary as short as possible, or that it's a "practical" guide, but I've
-  certainly tried to build the summary around the terms that, over time, I've found essential to
-  know
+* `linguistic_terminology.md`: the context and meaning of different terms in linguistics; this
+  is "neither a dictionary nor an encyclopedia, but something in between". (I can't say that I've
+  tried to make a short summary, or that this is a "practical" guide, but I've certainly tried to
+  build the summary around the terms that, over time, I've found essential to know)
 
-* `oxford_abbreviations.md` contains a summary on the usage of the abbreviations *e.g.*, *i.e.*,
-  *viz.*, and *etc.*
+* `oxford_abbreviations.md`: usage of the abbreviations *e.g.*, *i.e.*, *viz.*, and *etc.*
 
-* `publishing_terminology_1.md`, and `publishing_terminology_2.md` explain the context and meaning
-  of publishing terms like *editing*, *copy-editing*, *proofreading*
+* `publishing_terminology_1.md`, and `publishing_terminology_2.md`: the context and meaning of
+  publishing terms like *editing*, *copy-editing*, *proofreading*
 
-* `writing_terminology.md` explains the context and meaning of general writing terminology such as
+* `writing_terminology.md`: the context and meaning of general writing terminology such as
   *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*
 
-* `translation_tips.md` contains tips i would give my younger self for doing translation work
+* `common_grammatical_errors.md`: a summary of common grammatical errors seen in technical writing,
+  categorized by seriousness
+
+* `translation_tips.md`: tips I would give my younger self for doing translation work
 
 ### MIPT
 
@@ -57,4 +58,4 @@ The two folders below contain notes from MIPT courses that are not available onl
       defining terms, effective planning of technical report writing
     - `...week_4.md` ("Researching Your Subject") covers issues related to various types of academic
       and workplace research, with a focus on acquiring the best available information. Topics:
-      feasibility reports, recommendation reports, instructions, laboratory research.
+      feasibility reports, recommendation reports, instructions, laboratory research
