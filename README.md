@@ -26,15 +26,15 @@ These guides might provide some insight into how the markdown syntax renders to 
 * `big_summary_penguin_punct.md`: a summary to *The Penguin Guide to Punctuation* by R.L.
   Trask
   
-* `linguistic_terminology.md`: the context and meaning of different terms in linguistics; this
-  is "neither a dictionary nor an encyclopedia, but something in between". (I can't say that I've
-  tried to make a short summary, or that this is a "practical" guide, but I've certainly tried to
-  build the summary around the terms that, over time, I've found essential to know)
+* `linguistic_terminology.md`: the context and meaning of different terms in linguistics, especially
+  selected to build toward a technical understanding of what a sentence is: (`head -> phrase ->
+  clause -> sentence`). This document is, to borrow the phrase, "neither a dictionary nor an
+  encyclopedia, but something in between". (I can't say that I've tried to make a short summary—or that this is a "practical" guide—but I've certainly tried to build the summary around the terms that, over time, I've found essential to know.)
 
 * `oxford_abbreviations.md`: usage of the abbreviations *e.g.*, *i.e.*, *viz.*, and *etc.*
 
 * `publishing_terminology_1.md`, and `publishing_terminology_2.md`: the context and meaning of
-  publishing terms like *editing*, *copy-editing*, *proofreading*
+  publishing terms such as *editing*, *copy-editing*, *proofreading*
 
 * `writing_terminology.md`: the context and meaning of general writing terminology such as
   *purpose*, *strategy*, *style*, *grammar*, *usage*, *mechanics*

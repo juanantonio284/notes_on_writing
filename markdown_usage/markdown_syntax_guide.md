@@ -253,7 +253,7 @@ To create a block quotation with multiple paragraphs, put a `>` in the empty lin
 paragraphs. To nest a quote, put a `>>` before the part you want to nest. 
 
 > I—even [while] serving on the Court—have opinions about the results of decisions. But Justices
-  aren't deciding cases—no judge is deciding a case— in order to impose a policy result; they're
+  aren't deciding cases—no judge is deciding a case—in order to impose a policy result; they're
   trying to make their best effort to determine what the law requires, what the constitution
   requires, what statutes require. 
 >

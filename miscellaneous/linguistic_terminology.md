@@ -44,7 +44,6 @@ notion of all**.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Phrase
-
 <!-- Page 218 -->
 
 A phrase is a grammatical unit which is smaller than a clause. Every phrase is built up from
@@ -77,7 +76,6 @@ discovered that she was pregnant`, the unit *she was pregnant* is a complete cla
 is not a phrase in the narrower sense of the term, but it is a phrase in this extended sense. 
 
 ## Noun Phrase
-
 <!-- page 189 -->
 
 A noun phrase is complete syntactic unit, a phrase, built around a noun which can act as a subject
@@ -132,7 +130,6 @@ all, except for the 'dummy' subject `it`, as in `It's raining`. This verb arguab
 zero. (A given English verb usually requires between one and three arguments.)
 
 ## Subject
-
 <!-- page 282 -->
 
 The subject is the primary argument of a sentence. Traditionally, the subject is the nominated actor
@@ -151,7 +148,6 @@ raining`).
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Clause
-
 <!-- page 37 -->
 
 A clause is the largest grammatical unit smaller than a sentence; it consists of a subject and a
