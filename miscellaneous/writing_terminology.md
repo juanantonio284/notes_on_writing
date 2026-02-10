@@ -1,4 +1,4 @@
-# Some Writing Terminology   
+# Writing Terminology 1
 
 ## Purpose, Strategy, and Style
 <!-- page 9 chapter 2 originally named "Strategy and Style" -->
@@ -19,32 +19,42 @@
 
 In its broadest sense "style" is the total of all the choices a writer makes concerning words and
 their arrangements. In this sense, style may be good or bad—good if the choices are appropriate to
-the writer's purpose, bad if they are not. 
+the writer's purpose, bad if they are not. More narrowly, "style" has a positive, approving sense,
+as when we say that someone has "style" or praise a writer for his or her "style". More narrowly
+yet, the word may also designate a particular way of writing, unique to a person or characteristic
+of a group or profession: "Hemingway's style", "an academic style".
 
-More narrowly, "style" has a positive, approving sense, as when we say that someone has "style" or
-praise a writer for his or her "style". 
+[In this book] we use *style* to mean something between those extremes. It will be a positive term,
+and while we speak of errors in style, we don't speak of "bad styles". On the other hand, we
+understand "style" to include many ways of writing, each appropriate for some purposes, less so for
+others. There is no one style, some ideal manner of writing at which all of us should aim. Style is
+flexible, capable of almost endless variation. But **one thing style is not: it is not a
+superficial fanciness brushed over the basic ideas**. Rather than the gilding, style is the deep
+essence of writing.
 
-More narrowly yet, the word may also designate a particular way of writing, unique to a person or
-characteristic of a group or profession: "Hemingway's style", "an academic style".
-
-Here we use style to mean something between those extremes. It will be a positive term, and while we
-speak of errors in style, we don't speak of "bad styles". On the other hand, we understand "style"
-to include many ways of writing, each appropriate for some purposes, less so for others. There is
-no one style, some ideal manner of writing at which all of us should aim. Style is flexible,
-capable of almost endless variation. But **one thing style is not: it is not a superficial
-fanciness brushed over the basic ideas**. Rather than the gilding, style is the deep essence of
-writing.
-
-[See "marriage" example at bottom of page 9 to illustrate all of these at work.]
+[See the *marriage* example at the bottom of page 9 (Chapter 2) to illustrate the difference between
+Purpose, Strategy, and Style.]
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## Grammar, Usage, and Mechanics
+## Grammar, Usage, Mechanics, and Style
 <!-- page 14, chapter 3 -->
 
 Purpose, strategy, and style are decided by you. But the decision must be made within limits set by
-rules over which you have little control. The rules fall into three groups: grammar, usage, and
-mechanics.
+rules over which you have little control. 
+
+The rules fall into three groups: grammar, usage, and mechanics. (*Style* is what you elect to do to
+work out your strategies and realize your purposes)
+
+<!-- originally from a subsection on page 15 -->
+Broadly: 
+
+* *grammar* is what you must do as a user of English
+* *usage* is what you should do as a writer of more or less formal (or informal) English
+* *mechanics* refers to rules gathered in attempt to make writing consistent and clear. They may
+   seem arbitrary, but they have evolved from centuries of experience. Generally they represent, if
+   not the only way of solving a problem, an economic and efficient way. Along with mechanics we
+   include *punctuation*, a very complicated subject and by no means purely mechanical
 
 ### Grammar
 
@@ -65,10 +75,10 @@ Sentences like these are often heard in speech, but both break rules governing h
 write. Formal usage dictates that when beautiful functions as an adverb it takes an **-ly**
 ending, that ain**'t** and a double negative like "ain't got no" or "haven't got no" should be
 avoided.
+<!-- the bold in **'t** actually works when rendered even if syntax in text file is not coloured -->
 
-Grammar and usage are often confused. Many people
-would argue that the sentences above are "ungrammatical".
-Our distinction, however, is more useful: 
+Grammar and usage are often confused. Many people would argue that the sentences above
+are "ungrammatical". Our distinction, however, is more useful: 
 
 * Grammatical rules are implicit in the speech of all who use the language
 
@@ -106,19 +116,7 @@ Along with mechanics we include punctuation, a very complicated subject and by n
 mechanical. While some punctuation is cut-and-dried, much of it falls into the province of usage or
 style. 
 
-
-<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## Grammar, Usage, and Style
-<!-- originally a subsection on page 15 -->
-
-It is not always easy to draw the line between grammar and usage or between usage and style.
-Broadly: 
-
-* *grammar* is what you must do as a user of English
-* *usage* is what you should do as a writer of more or less formal (or informal) English
-* *style* is what you elect to do to work out your strategies and realize your purposes
-
-### Examples
+### Example
 
 * "Her dresses beautifully" represents an error in grammar
 * "She dresses beautiful" a mistake in usage
@@ -133,9 +131,6 @@ Broadly:
       beautiful manner" is poorer than "She dresses beautifully." (One can even imagine a context
       in which the longer sentence would be preferable.) Even so, it violates a principle observed
       by good writers; use no more words than you must
-
-
-
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## References
