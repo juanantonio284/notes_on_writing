@@ -129,7 +129,7 @@ game.
 **When a context is needed, the format for a technical definition is**:  
 `Classification = Differentiation = Qualifier + Term`.
 
-For example, below we have three definitions of the same term in different contexts:
+For example, below we have three definitions of the term 'stall' in different contexts:
 
 * `CAR (In driving), a stall is an operating condition in which a sudden and unexpected loss of
   power occurs.`
@@ -182,80 +182,45 @@ extensions to your definition to clarify the meaning.
 
 ### Extensions
 
-There are many types of *extensions* of an original definition; below are the most common.
-(The original definition is included in brackets followed by the extension.)
+Consider a definition: "`In water softening, *zeolite* is an exchange resin that releases sodium ions
+while gaining calcium and magnesium ions`". There are many ways to extend this definition. 
 
-**Further definition** is used to further define terms from an original definition.
+Let's consider the most common types of *extensions* that will help us do this:
 
-```
+1. **Further definition**, used to further define terms from an original definition.
 
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] Zeolite is a collection of small polystyrene beads that forms a resin carrying
-a negative charge.
+    `Zeolite is a collection of small polystyrene beads that forms a resin carrying a negative
+    charge.`
 
-```
+2. **Comparison and contrast**, used to show differences or similarities.
 
-**Comparison and contrast** is used to show differences or similarities.
+    `Zeolite collects calcium and magnesium ions in the same way a feather broom collects dust.`
 
-```
+3. **Classification**, used to organize information into categories.
 
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] Zeolite collects calcium and magnesium ions in the same way a feather broom
-collects dust.
+    `Zeolite is used for ion-exchange home water softening, while lime and soda ash are used in
+    precipitating municipal water softeners. `
 
-```
+4. **Cause and effect**, used to demonstrate why something happens (or used when results need to
+be traced).
 
-**Classification** is used to organize information into categories.
+    `Zeolite carries a negative charge and attracts the positively charged calcium and magnesium
+    ions in water. `
 
-```
+5. **Process**, used to list the steps of a procedure.
 
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] Zeolite is used for ion-exchange home water softening, while lime and soda ash
-are used in precipitating municipal water softeners.
+    `First, the zeolite is charged with sodium ions from a salt brine solution in the regeneration
+    step. Once charged, the zeolite absorbs calcium and magnesium ions from passing hard water
+    while releasing sodium ions into the resulting soft water. `
 
-```
+6. **Exemplification**, used to give real or analogous examples.
 
-**Cause and effect** is used to demonstrate why something happens (or used when results need to be
-  traced). 
+    `Examples of the zeolite group include analcimes, chabazites, and gismondines. `
 
-```
+7. **Etymology**, used to show the linguistic genesis of the term.
 
-[In water softening, zeolite is exchange resin that releases sodium ions while gaining calcium and
-magnesium ions.] Zeolite carries a negative charge and attracts the positively charged calcium and
-magnesium ions in water.
-
-```
-
-**Process** is used to list the steps of a procedure.
-
-```
-
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] First, the zeolite is charged with sodium ions from a salt brine solution in
-the regeneration step. Once charged, the zeolite absorbs calcium and magnesium ions from passing
-hard water while releasing sodium ions into the resulting soft water.
-
-```
-
-**Exemplification** is used to give real or analogous examples.
-
-```
-
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] Examples of the zeolite group include analcimes, chabazites, and gismondines.
-
-```
-
-**Etymology** is used to show the linguistic genesis of the term.
-
-```
-
-[In water softening, zeolite is an exchange resin that releases sodium ions while gaining calcium
-and magnesium ions.] The term zeolite comes from the Greek words zeon, meaning to boil, and lithos,
-meaning stone. It was first coined by the Swedish mineralogist Alex Fredrick Cronstedt in the 18th
-century.
-
-```
+    `The term zeolite comes from the Greek words zeon, meaning to boil, and lithos, meaning stone.
+    It was first coined by the Swedish mineralogist Alex Fredrick Cronstedt in the 18th century. `
 
 ### Consider the audience
 
