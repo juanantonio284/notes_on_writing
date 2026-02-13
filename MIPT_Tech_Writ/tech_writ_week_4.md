@@ -1,7 +1,14 @@
 # MIPT - Technical Writing - Week 4 - Module III:  "Researching Your Subject"
 
-[**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
-Some corrections have been made—which is to say that many things have not been corrected.]
+[The content below comes from an MIPT course that is not available online anymore; it is a wonderful
+course that deserves to be preserved—credit where credit is due. 
+But these are my personal notes; and they are *far* from a copy and paste as I have arranged,
+re-arranged, explained, re-explained, commented, and changed comments to make the material easier
+to understand. 
+So, depending on how you want to look at it, the contents below are either *very different* to the
+original material or *essentially the same and don't provide anything new*. 
+Regardless: these notes are arranged and edited in a way that is convenient for *me*; no claims are
+made and no guarantees are given.]
 
 **This module covers**: issues related to various types of academic and workplace research, with a
   focus on acquiring the best available information.

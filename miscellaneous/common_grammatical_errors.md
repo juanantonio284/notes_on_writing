@@ -149,9 +149,7 @@ second.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-### 3. Subjective
-
-[Either not errors, or cosmetic issues]
+### 3. Subjective (either not errors, or cosmetic issues)
 
 #### Beginning sentences with `because`
 

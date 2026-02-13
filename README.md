@@ -50,12 +50,12 @@ The two folders below contain notes from MIPT courses that are not available onl
 
 * `MIPT_Sch_Com`: a course to improve *scholarly communication* (most notably related to the
   differences between rhetorical styles of native English speakers and non-native English
-  speakers). 
+  speakers)
 
 * `MIPT_Tech_Writ`: a course on technical writing
     - `...week_2.md` ("From Start to Finish") introduces the basics of technical writing
     - `...week_3.md` ("Organizing the Information") contains general guidelines on using visuals,
-      defining terms, effective planning of technical report writing
+      defining terms, and effective planning of technical report writing
     - `...week_4.md` ("Researching Your Subject") covers issues related to various types of academic
       and workplace research, with a focus on acquiring the best available information. Topics:
       feasibility reports, recommendation reports, instructions, laboratory research

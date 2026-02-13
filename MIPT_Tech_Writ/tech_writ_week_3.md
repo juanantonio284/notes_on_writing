@@ -1,16 +1,23 @@
 # MIPT - Technical Writing - Week 3 - Module II: "Organizing the Information"
 
-[**Note**: This is taken from video transcripts and contains punctuation errors and changed words.
-Some corrections have been made—which is to say that many things have not been corrected.]
+[The content below comes from an MIPT course that is not available online anymore; it is a wonderful
+course that deserves to be preserved—credit where credit is due. 
+But these are my personal notes; and they are *far* from a copy and paste as I have arranged,
+re-arranged, explained, re-explained, commented, and changed comments to make the material easier
+to understand. 
+So, depending on how you want to look at it, the contents below are either *very different* to the
+original material or *essentially the same and don't provide anything new*. 
+Regardless: these notes are arranged and edited in a way that is convenient for *me*; no claims are
+made and no guarantees are given.]
 
-This module covers:
+**This module covers**:
 
 * Usage of visuals to communicate a large amount of information quickly and efficiently
 * General guidelines for using graphical tools within the process of writing a report
 * Defining a term using various techniques of extended definitions
 * Guidelines for effective planning of technical report writing
 
-Learning Objectives:
+**Learning Objectives**:
 
 * Identify criteria for creating effective and efficient visuals
 * Define the meaning of a term by placing it in a certain classification and then differentiating it
