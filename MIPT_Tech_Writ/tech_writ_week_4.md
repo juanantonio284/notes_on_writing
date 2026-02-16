@@ -287,18 +287,10 @@ Research report writers increasingly use information available on the Internet, 
 boards. However, research reports often do not involve doing the actual research being reported.
 They frequently present the findings of research that has already been done.
 
-<!-- *** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ### Parts of a Research Report
 
-The organization of a research report is straightforward. However, what goes in the discussion
-section depends on the topic and the specific requirements for the research.
-
-* If the purpose is to report on how you got to where you are in developing a certain technology,
-  the discussion will be primarily historical
-
-* If the purpose is to describe new evolving technologies, the discussion may be geared more to
-  future implications
+The organization of a research report is straightforward: 
 
 **1. Introduction**
 
@@ -325,8 +317,14 @@ knowledge for the audience.
 
 **3. Discussion**
 
-The discussion section is the main section of the report; it may include a brief discussion of a
-device and its functional applications.
+The discussion section is the main section of the report. What goes in the discussion section
+depends on the topic and the specific requirements for the research.
+
+* If the purpose is to report on how you got to where you are in developing a certain technology,
+  the discussion will be primarily historical
+
+* If the purpose is to describe new evolving technologies, the discussion may be geared more to
+  future implications
 
 **4. Conclusion**
 
@@ -342,6 +340,7 @@ the topic.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- *** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W4, L8: Laboratory and Evaluation Reports
 

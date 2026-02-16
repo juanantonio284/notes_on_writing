@@ -17,34 +17,34 @@
 **Style**
 <!-- page 11 -->
 
-In its broadest sense "style" is the total of all the choices a writer makes concerning words and
-their arrangements. In this sense, style may be good or bad—good if the choices are appropriate to
-the writer's purpose, bad if they are not. More narrowly, "style" has a positive, approving sense,
-as when we say that someone has "style" or praise a writer for his or her "style". More narrowly
-yet, the word may also designate a particular way of writing, unique to a person or characteristic
-of a group or profession: "Hemingway's style", "an academic style".
+* In its broadest sense "style" is the total of all the choices a writer makes concerning words and
+  their arrangements. In this sense, style may be good or bad—good if the choices are appropriate
+  to the writer's purpose, bad if they are not
 
-[In this book] we use *style* to mean something between those extremes. It will be a positive term,
-and while we speak of errors in style, we don't speak of "bad styles". On the other hand, we
-understand "style" to include many ways of writing, each appropriate for some purposes, less so for
-others. There is no one style, some ideal manner of writing at which all of us should aim. Style is
-flexible, capable of almost endless variation. But **one thing style is not: it is not a
-superficial fanciness brushed over the basic ideas**. Rather than the gilding, style is the deep
-essence of writing.
+* More narrowly, "style" has a positive, approving sense, as when we say that someone has "style" or
+  praise a writer for his or her "style"
+
+* More narrowly yet, the word may also designate a particular way of writing, unique to a person or
+  characteristic of a group or profession: "Hemingway's style", "an academic style"
+
+Here we use *style* as a positive term, and while we speak of errors in style, we don't speak
+of "bad styles". On the other hand, we understand "style" to include many ways of writing, each
+appropriate for some purposes, less so for others. There is no one style, some ideal manner of
+writing at which all of us should aim. Style is flexible, capable of almost endless variation.
+But **one thing style is not: it is not a superficial fanciness brushed over the basic ideas**.
+Rather than the gilding, style is the deep essence of writing.
 
 [See the *marriage* example at the bottom of page 9 (Chapter 2) to illustrate the difference between
 Purpose, Strategy, and Style.]
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## Grammar, Usage, Mechanics, and Style
+## Grammar, Usage, Mechanics
 <!-- page 14, chapter 3 -->
 
-Purpose, strategy, and style are decided by you. But the decision must be made within limits set by
-rules over which you have little control. 
-
-The rules fall into three groups: grammar, usage, and mechanics. (*Style* is what you elect to do to
-work out your strategies and realize your purposes)
+*Purpose*, *strategy*, and *style* are decided by you. But the decision must be made within limits
+ set by rules over which you have little control. The rules fall into three groups: grammar, usage,
+ and mechanics.
 
 <!-- originally from a subsection on page 15 -->
 Broadly: 
