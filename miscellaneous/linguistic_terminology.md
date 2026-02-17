@@ -2,12 +2,12 @@
 
 [Source: Trask/Stockwell, *Language And Linguistics: The Key Concepts* (2nd edn)]  
 
-**Notes**
+Below: 
 
-* In the examples, each clause is marked off by brackets.  
-* Cross-references to other entries are given in **bold face** on first mention.  
-* Terms which are explained in context but which do not merit their own entry are marked
-  in ***bold italics***.
+* Each clause is marked off by brackets
+* Cross-references to other entries are given in **bold face** on first mention.
+* ***Bold italics*** are used to highlight terms as they appear and are explained within the context
+  of a paragraph (but these terms do not have a separate entry)
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -23,16 +23,12 @@ the phrase, and it usually provides the name for the kind of phrase built up aro
 
 For example:
 
-* The **noun phrase** the `little girl in the blue dress` is built up around the noun `girl` as its
+* The **noun phrase** `the little girl in the blue dress` is built up around the noun `girl` as its
   head; the whole phrase denotes some kind of girl. 
-
 * The **verb phrase** `sang quietly to herself` is built up around the verb `sang` as its head; the
   whole phrase denotes some specific kind of singing. 
-
 * The **adjective phrase** `pretty as a picture` is headed by the adjective `pretty`.
-
 * The **adverb phrase** `very slowly` is headed by the adverb `slowly`.
-
 * The **prepositional phrase** `under the bed` is headed by the preposition `under`.
 
 The concept of heads is an ancient one, but it largely disappeared from linguistics during the
@@ -99,13 +95,12 @@ A noun phrase may be identified in two different ways:
       examples, *party* and *capital* are the heads of the two NPs. The first NP denotes a
       particular party, and the second a particular capital. The other words in the NP serve only
       to provide further identification.)
-
     * The most obvious exception is a noun phrase consisting of a pronoun. In the sentence `They
       managed to capture it`, the pronouns `they` and `it` make up complete NPs all by themselves,
       one serving as the subject, the other as the object. 
       
-A noun phrase is one kind of syntactic category, there are also verb, adjective, adverb, and
-prepositional phrases.
+A *noun phrase* is one kind of syntactic category, there are also *verb*, *adjective*, *adverb*, and
+*prepositional* phrases.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -114,20 +109,25 @@ prepositional phrases.
 
 An argument is any one of the noun phrases required by a particular verb. Each verb requires some
 number of noun phrases to accompany it in a sentence, if the result is to be grammatical; these NPs
-are its arguments. (The number of NPs required by a verb is the ***valency*** of that verb.)
+are its arguments. (The number of NPs required by a verb is the ***valency*** of that verb; a given
+English verb usually requires between one and three arguments.)
 
 ### Valency
 
-The *simple intransitive* verbs 'smile' and 'arrive' are ***monovalent***, requiring only one
-argument, the subject, as in Susie smiled. (Something like `*Susie smiled Natalie` is
-ungrammatical; the asterisk marks this).  
-The *simple transitive* verb like 'kiss' or 'slap' is ***divalent***, requiring a subject and one
-object, as in `Susie kissed Natalie`. (Something like `*Susie kissed` is ungrammatical).  
-A *ditransitive verb* like 'give' or 'show' is ***trivalent***, requiring a subject and two objects, 
-as in `Susie gave Mike a present`.  
-Note the *unusual case* of the verb *rain*, which neither requires nor permits any arguments at
-all, except for the 'dummy' subject `it`, as in `It's raining`. This verb arguably has a valency of
-zero. (A given English verb usually requires between one and three arguments.)
+* The *simple intransitive* verbs 'smile' and 'arrive' are ***monovalent***, requiring only one
+  argument, the subject, as in Susie smiled
+    - Something like `*Susie smiled Natalie` is ungrammatical (the asterisk marks this)
+  
+* The *simple transitive* verb like 'kiss' or 'slap' is ***divalent***, requiring a subject and one
+  object, as in `Susie kissed Natalie`
+    - Something like `*Susie kissed` is ungrammatical
+  
+* A *ditransitive verb* like 'give' or 'show' is ***trivalent***, requiring a subject and two
+  objects, as in `Susie gave Mike a present`
+
+* Note the *unusual case* of the verb *rain*, which neither requires nor permits any arguments at
+  all, except for the 'dummy' subject `it`, as in `It's raining`. This verb arguably has a valency
+  of zero
 
 ## Subject
 <!-- page 282 -->
@@ -164,19 +164,19 @@ term *clause* to every unit containing a verb, including many units traditionall
 phrases. Examples: `[Susie's heavy smoking] is affecting her health`; `Susie wants [to buy a new
 car]`; `[Having finished her dinner]`, `Susie reached for her cigarettes`. This extended usage is
 not standard, but it is now very widespread. 
+<!-- are these three examples of something that is not standard? double check -->
 
 ### Examples 
 
 * A simple sentence consists only of a single clause: [`Susie has bought a skirt`]. 
 
 * A compound sentence consists of two or more clauses of equal rank, usually joined by a connecting
-  word like *and*, *or*, or *but*: [`Susie wants children`], but [`her career won't allow them`]. 
+  word like *and*, *or*, or *but*: `[Susie wants children], but [her career won't allow them].` 
 
 * A complex sentence consists of two or more clauses where one out-ranks the others, which are
-  subordinated to it: [`After she got her promotion`], [`Susie bought a new house`].
+  subordinated to it: `[After she got her promotion], [Susie bought a new house].`
 
 ### Types of subordinate clause
-
 <!-- examples below from Subordination section page 282 -->
 
 * A ***complement clause*** is attached to a preceding word (usually a verb or a noun)
@@ -213,7 +213,6 @@ not standard, but it is now very widespread.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Sentence 
-
 <!-- page 256 -->
 
 The sentence is the largest linguistic unit which is held together by rigid grammatical rules.
