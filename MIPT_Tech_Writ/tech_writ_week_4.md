@@ -410,26 +410,28 @@ sequence of the stages. See the example.
 12. Do more research
 ```
 
-<!-- @@@*** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 ## Unit 2. Laboratory Report
 
-The laboratory report presents information that relates to the controlled testing of a hypothesis,
-theory, or device using test equipment and a specified series of steps.
-
-The emphasis in the laboratory report is on documenting the design and conduct of the test, how the
-variables were controlled and what the resulting data showed. In this purest form, a laboratory
-report is a research-oriented document: it starts with a hypothesis or theory that needs to be
-applied and tested under highly controlled conditions.
+The laboratory report presents information related to the controlled testing of a hypothesis,
+theory, or device using test equipment and a specified series of steps. The emphasis in the
+laboratory report is on documenting the design and conduct of the test, how the variables were
+controlled and what the resulting data showed. In this purest form, a laboratory report is a
+research-oriented document: it starts with a hypothesis or theory that needs to be applied and
+tested under highly controlled conditions.
 
 For example: suppose you are an astronaut's engineer hypothesizing that your new wing design could
 be used to generate high lift at hypersonic speeds with increased flight stability. To test that
-hypothesis in a laboratory you would need an apparatus (e.g. a hypersonic wind tunnel) and the
-model of your wing design. You would also need a procedure for using that wind tunnel to test your
-wing design model. You could then use the procedure to collect data from the wind tunnel test and
-interpret the data to see whether your new wing design generated higher lift with increased
-stability under hypersonic conditions. Finally, you could assess whether their original hypothesis
-was supported and if so probably recommend that more research be done.
+hypothesis in a laboratory you would need:
+
+* an apparatus (e.g. a hypersonic wind tunnel)
+* the model of your wing design
+* a procedure for using that wind tunnel to test your wing design model
+
+You could then use the procedure to collect data from the wind tunnel test and interpret the data to
+see whether your new wing design generated higher lift with increased stability under hypersonic
+conditions. Finally, you could assess whether their original hypothesis was supported and if so
+probably recommend that more research be done.
 
 ### Example of a laboratory report
 
@@ -447,15 +449,15 @@ was supported and if so probably recommend that more research be done.
 
 **2. Background**
 
-In the background section you should provide the information necessary for the reader to understand
-and appreciate the test report and the findings that will follow. This section should review any
+The background section should provide the information necessary for a reader to understand and
+appreciate the test report and the findings that will follow. This section should review any
 relevant theory and past research that the reader needs to know. 
 
 **3. Test and Evaluation**
 
 In this section, describe the physical apparatus used in the test and the processes or procedures
-for doing the testing. The apparatus includes the device being tested and the equipment used to do
-the testing, while the procedure would include the steps in the test.
+for doing the testing. (The apparatus includes the device being tested and the equipment used to do
+the testing, while the procedure would include the steps in the test.)
 
 **4. Findings**
 
@@ -471,7 +473,7 @@ possible, other specific recommendations that you believe are warranted by the r
 
 Feasibility reports and recommendation reports are objective documents that identify and evaluate
 solutions to problems. These reports address subjects that have well defined parameters, a problem
-that can be precisely described and a solution that can be objectively and empirically tested.
+that can be precisely described, and a solution that can be objectively and empirically tested.
 
 Feasibility and recommendation reports are supposed to be unbiased evaluations. Although they are
 frequently used to promote ideas and sell goods and services, only someone who is totally impartial
@@ -484,10 +486,8 @@ criteria.
 
 * A feasibility report tells whether a project is feasible (whether it's practical and
   technologically possible)
-
 * A recommendation report compares two or more alternatives and recommends one (or, if necessary,
   none)
-
 * An evaluation or assessment report studies something in terms of its worth or value
 
 ### Difference between feasibility reports and recommendation reports
@@ -495,13 +495,13 @@ criteria.
 Both feasibility and recommendation reports then basically do the same thing, they objectively
 evaluate the feasibility of solutions but
 
-* feasibility reports determine the feasibility or viability of solving your problem in a particular
+* Feasibility reports determine the feasibility or viability of solving your problem in a particular
   way
 
-* feasibility reports consider a single solution to a problem and determine whether or not—or to
+* Feasibility reports consider a single solution to a problem and determine whether or not—or to
   what extent—the proposed solution is feasible
 
-* recommendation reports look at several approaches for solving a problem and recommend the most
+* Recommendation reports look at several approaches for solving a problem and recommend the most
   feasible approach
 
 ### Checklist when writing either a recommendation or a feasibility report
@@ -514,17 +514,16 @@ evaluate the feasibility of solutions but
 This process can be tough, sometimes many more solutions exist than you will have the time or
 capability to evaluate. If you need a computer to surf the internet, how many choices do you have?
 Coming out with just a few viable solutions can be challenging. Normally, we can apply additional
-requirements to the existing problem that will allow you to narrow the list. Maybe he will buy only
-from an approval, local vendor. Or you will shop only within a five minute radius of your home. Or
-you will consider using only a certain catalog that gives you an idea of where and how or what to
-buy.
+requirements to the existing problem that will allow you to narrow the list. Maybe the business
+will only buy from an approved, local vendor; or will shop only within a five minute radius; or
+consider using only a certain catalog.
 
 **3. Develop a set of criteria by which to objectively evaluate the candidate solution or solutions**
 
 The key here is *objective*. Find meaningful measures that relate to the problem you have defined,
 and identify valid methods for applying them. For example, when looking for a computer to surf the
 internet, you might use *criteria* such as cost, processor speed, monitor size and quality,
-readability and warranty, bundled software and included peripherals. These can be objectively
+readability and warranty, bundled software, and included peripherals—these can be objectively
 described and measured. The attractiveness of the case would not be a good criterion, because
 computer case attractiveness cannot easily be objectively described and measured.
 
@@ -548,6 +547,7 @@ fully treated in the report.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
+<!-- @@@*** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W4, L9: Technical Reports and Writing Issues
 
