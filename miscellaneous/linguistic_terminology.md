@@ -4,7 +4,6 @@
 
 Below: 
 
-* Each clause is marked off by brackets
 * Cross-references to other entries are given in **bold face** on first mention.
 * ***Bold italics*** are used to highlight terms as they appear and are explained within the context
   of a paragraph (but these terms do not have a separate entry)
@@ -43,12 +42,8 @@ notion of all**.
 <!-- Page 218 -->
 
 ```
-OED Definition
-
 Phrase: a small group of words standing together as a conceptual unit, typically forming a component
-of a clause.
-
-From Greek phrazein ‘declare, tell’.
+of a clause. From Greek phrazein ‘declare, tell’. [OED Definition]
 ```
 
 A phrase is a grammatical unit which is smaller than a clause. Every phrase is built up from
@@ -119,35 +114,32 @@ The most obvious exception is a noun phrase consisting of a pronoun.
 A *noun phrase* is one kind of syntactic category, there are also *verb*, *adjective*, *adverb*, and
 *prepositional* phrases.
 
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- % @@@ Continue here --------------------------------------- -->
-<!-- % @@@ Continue here --------------------------------------- -->
-
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Argument
 <!-- page 23 -->
 
-An argument is any one of the noun phrases required by a particular verb. Each verb requires some
-number of noun phrases to accompany it in a sentence, if the result is to be grammatical; these NPs
-are its arguments. (The number of NPs required by a verb is the ***valency*** of that verb; a given
-English verb usually requires between one and three arguments.)
+Each verb requires some number of noun phrases to accompany it in a sentence, if the result is to be
+grammatical; these NPs are its arguments. 
 
 ### Valency
 
+The number of NPs required by a verb is the ***valency*** of that verb; a given English verb usually
+requires between one and three arguments.
+
 * The *simple intransitive* verbs 'smile' and 'arrive' are ***monovalent***, requiring only one
-  argument, the subject, as in Susie smiled
-    - Something like `*Susie smiled Natalie` is ungrammatical (the asterisk marks this)
+  argument, the subject, as in `Susie smiled`
+    - Something like `*Susie smiled Natalie` would be ungrammatical (the asterisk marks this)
   
 * The *simple transitive* verb like 'kiss' or 'slap' is ***divalent***, requiring a subject and one
   object, as in `Susie kissed Natalie`
-    - Something like `*Susie kissed` is ungrammatical
+    - Something like `*Susie kissed` would be ungrammatical
   
 * A *ditransitive verb* like 'give' or 'show' is ***trivalent***, requiring a subject and two
   objects, as in `Susie gave Mike a present`
 
 * Note the *unusual case* of the verb *rain*, which neither requires nor permits any arguments at
-  all, except for the 'dummy' subject `it`, as in `It's raining`. This verb arguably has a valency
-  of zero
+  all, except for the 'dummy' subject `it`, as in `It's raining`. This verb arguably has
+  a ***valency of zero***
 
 ## Subject
 <!-- page 282 -->
@@ -174,8 +166,9 @@ A clause is the largest grammatical unit smaller than a sentence; it consists of
 predicate, and every sentence must consist of one or more clauses. 
 
 A clause which is the highest-ranking, or only, clause in its sentence is a ***main clause***; a
-clause which is subordinated to another is a ***subordinate clause***. Today we always regard a
-subordinate clause as forming an integral part of the clause containing it
+clause which is subordinated to another is a ***subordinate clause***. 
+
+Today we always regard a subordinate clause as forming an integral part of the clause containing it
 (its ***matrix clause***).
 
 The clause is a traditional and fundamental unit of sentence structure, though the term is not used
@@ -188,16 +181,17 @@ not standard, but it is now very widespread.
 
 ### Examples 
 
-* A simple sentence consists only of a single clause: [`Susie has bought a skirt`]. 
+* A **simple sentence** consists only of a single clause: `[Susie has bought a skirt]`. 
 
-* A compound sentence consists of two or more clauses of equal rank, usually joined by a connecting
-  word like *and*, *or*, or *but*: `[Susie wants children], but [her career won't allow them].` 
+* A **compound sentence** consists of two or more clauses of equal rank, usually joined by a
+  connecting word like *and*, *or*, or *but*: `[Susie wants children], but [her career won't allow
+  them].` 
 
-* A complex sentence consists of two or more clauses where one out-ranks the others, which are
+* A **complex sentence** consists of two or more clauses where one out-ranks the others, which are
   subordinated to it: `[After she got her promotion], [Susie bought a new house].`
 
 ### Types of subordinate clause
-<!-- examples below from Subordination section page 282 -->
+<!-- The examples below are from, both, page 37 and page 282 (Subordination) -->
 
 * A ***complement clause*** is attached to a preceding word (usually a verb or a noun)
   and 'completes' the sense of that word:
@@ -206,12 +200,11 @@ not standard, but it is now very widespread.
     - `Susie's announcement [that she was a lesbian] startled her parents.` (a noun-complement
       clause)  
     - `Susie is happy [that Natalie can move in with her].` (an adjective-complement clause)
-    - `Susie has decided [that she will look for a new job].`  
-    - `The rumour [that Susie is quitting] is not true.`
-
+    - `Susie has decided [that she will look for a new job].` (a verb-complement clause)
+    - `The rumour [that Susie is quitting] is not true.` (a noun-complement clause)
 
 * A ***relative clause*** is attached to a preceding noun, which it modifies, and always contains a
-  gap somewhere inside it: [the position of each gap is marked with the symbol *e* (for 'empty')]
+  gap somewhere inside it: [the position of each gap is marked with the symbol `*e*` (for 'empty')]
 
     - `The job [that Susie wants *e*] involves a lot of travelling.`  
     - `The skirt [that Susie bought *e*] is too short.`
@@ -271,5 +264,3 @@ assigning different structures to identical or similar strings of words for humo
 the old gag `Time flies like an arrow; fruit flies like a banana` and in the punchline of a certain
 cat-food commercial: `Cats like Felix like Felix`. (**Pragmatics** makes the useful distinction
 between the abstract sentence and the actual spoken or written **utterance**.)
-
-<!-- change ﬁ for fi, ﬂ for fl quotation characters for ', -->
