@@ -42,6 +42,15 @@ notion of all**.
 ## Phrase
 <!-- Page 218 -->
 
+```
+OED Definition
+
+Phrase: a small group of words standing together as a conceptual unit, typically forming a component
+of a clause.
+
+From Greek phrazein ‘declare, tell’.
+```
+
 A phrase is a grammatical unit which is smaller than a clause. Every phrase is built up from
 a *head*, an item (usually a single word) which itself determines what kind of phrase the whole
 thing is. A one-word phrase consists of a head with no other material at all. 
@@ -50,26 +59,31 @@ The term *phrase* is an ancient one, and it has long been used to denote a gramm
 typically consists of two or more words, but which does not contain all of the things found in a
 clause. 
 
-### Types of Phrases
+### Phrasal categories (types of phrases)
 
 * Noun phrase: `the little girl`
 * Verb phrase: `was singing in the bath`
 * Adjective phrase: `pretty as a picture`
-* Prepositional phrase (a preposition with its object): `with her girlfriend`
+* Prepositional phrase (a preposition with its object): 
+  `with her girlfriend`, `under the bed`, `of the wine`
 
-Each of these types of phrase represents a single *phrasal category*, and a phrasal category is one
-type of **syntactic category** – that is, it represents one of the basic building blocks used in
-constructing sentences.
+Each one of these phrases represents a single phrasal category. A phrasal category is one type
+of ***syntactic category*** and represents one of the basic building blocks used in constructing
+sentences.
 
+<!-- Below: it doesn't seem that the author has defined what the "positions of phrases" are and how a phrase behaves? -->
 Observe that a phrase may consist of only a single word; for example, the sentence `Susie smiled`
 consists of the noun phrase `Susie` and the verb phrase `smiled`. These units are phrases because
 they occupy the positions of phrases and behave like phrases. (Strictly speaking, therefore, we
-have here a verb phrase *smiled* which happens to consist only of the verb *smiled*.)
+have here a verb phrase *smiled* which happens to consist only of the verb *smiled*.) 
+<!-- This double layer of structure is routinely displayed in a **tree** diagram, and failure to  -->
+<!-- make it leads quickly to confusion. -->
 
-Occasionally, in modern linguistics, the term phrase is generalized to denote any syntactic unit in
-a sentence (any *constituent*), of whatever size or nature. So, for example, in the sentence `Susie
-discovered that she was pregnant`, the unit *she was pregnant* is a complete clause, and hence it
-is not a phrase in the narrower sense of the term, but it is a phrase in this extended sense. 
+Occasionally, in modern linguistics, the term *phrase* is generalized to denote *any* syntactic unit
+in a sentence (any ***constituent***), of whatever size or nature. So, for example, in the sentence
+`Susie discovered that she was pregnant`, the unit *she was pregnant* is a complete clause, and
+hence it is not a phrase in the narrower sense of the term, but it is a phrase in this extended
+sense. 
 
 ## Noun Phrase
 <!-- page 189 -->
@@ -79,10 +93,10 @@ or an object. Noun phrases are the only things that can act as subjects or objec
 sentences.
 
 Consider the sentence `A small party of Spanish adventurers managed to capture the Aztec capital.` A
-traditional view of sentence structure holds that the subject and the direct object of the sentence
-are the nouns *party* and *capital*, respectively. But this is not strictly correct. The true
-subject and object are the noun phrases (NPs) `a small party of Spanish adventurers` and `the Aztec
-capital`.
+traditional view of sentence structure holds that the **subject** and the **direct object** of the
+sentence are the nouns *party* and *capital*, respectively. But this is not strictly correct. The
+true subject and object are the noun phrases (**NP**s) `a small party of Spanish adventurers` and
+`the Aztec capital`.
 
 A noun phrase may be identified in two different ways:
 
@@ -90,18 +104,24 @@ A noun phrase may be identified in two different ways:
 
 2. It must have one of only a few possible types of internal structure.
 
-    * An English noun phrase is usually built up around a single noun, and that noun is the head of
-      the noun phrase, the item which is chiefly responsible for the nature of the NP. (In my
-      examples, *party* and *capital* are the heads of the two NPs. The first NP denotes a
-      particular party, and the second a particular capital. The other words in the NP serve only
-      to provide further identification.)
-    * The most obvious exception is a noun phrase consisting of a pronoun. In the sentence `They
-      managed to capture it`, the pronouns `they` and `it` make up complete NPs all by themselves,
-      one serving as the subject, the other as the object. 
+An English noun phrase is usually built up around a single ***noun***, and that noun is the head of
+the noun phrase, the item which is chiefly responsible for the nature of the NP. 
+
+* In my examples, *party* and *capital* are the heads of the two NPs. The first NP denotes a
+  particular party, and the second a particular capital. The other words in the NP serve only to
+  provide further identification.
+  
+The most obvious exception is a noun phrase consisting of a pronoun. 
+
+* In the sentence `They managed to capture it`, the pronouns `they` and `it` make up complete NPs
+  all by themselves, one serving as the subject, the other as the object. 
       
 A *noun phrase* is one kind of syntactic category, there are also *verb*, *adjective*, *adverb*, and
 *prepositional* phrases.
 
+<!-- % @@@ Continue here --------------------------------------- -->
+<!-- % @@@ Continue here --------------------------------------- -->
+<!-- % @@@ Continue here --------------------------------------- -->
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Argument
