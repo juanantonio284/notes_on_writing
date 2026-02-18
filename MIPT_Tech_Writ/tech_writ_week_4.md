@@ -340,47 +340,45 @@ the topic.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-<!-- *** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 # W4, L8: Laboratory and Evaluation Reports
 
 ## Unit 1. Focus on Process (an overview of the research process)
 
-**Analyse The Audience** Who are your most important readers? What are their personal
-  characteristics, their attitudes toward your subject, and their motivations for reading? If you
+**Analyse The Audience**: Who are your most important readers? What are their personal
+  characteristics, their attitudes toward your subject, and their motivations for reading? (If you
   are writing to an expert audience that might be skeptical about your message, you need to do a
-  lot of research to get that the evidence for a convincing argument.
+  lot of research to get the evidence for a convincing argument.)
 
-**Analyse Your Purpose** Why are you writing? Understanding your purpose helps you understand the
-  types of information the readers will expect. Think in terms of what you want your readers to
-  know or believe or do after they finish reading your document.
+**Analyse Your Purpose**: Why are you writing? Understanding your purpose helps you understand the
+  types of information the readers will expect. (Think in terms of what you want your readers to
+  know or believe or do after they finish reading your document.)
 
-**Analyse The Subject** What do you already know about your subject? What do you still need to find
-  out? Using techniques such as pre-writing and brainstorming you can determine these aspects of
-  the subject you need to investigate.
+**Analyse The Subject**: What do you already know about your subject? What do you still need to find
+  out? (Using techniques such as pre-writing and brainstorming you can determine these aspects of
+  the subject you need to investigate.)
 
-**Visualize The Deliverable**. What application will you need to deliver a laboratory research? A
-  technical background report? A manual? A website? What kind of oral presentation will you need to
-  deliver? Work out a schedule and a budget for your project. When is the deliverable due? Do you
-  have budget for a, for phone calls, database services, or travel to libraries or other sites?
+**Visualize The Deliverable**: Will you need to deliver a laboratory research? A technical
+  background report? A manual? A website? What kind of oral presentation will you need to deliver?
+  When is the deliverable due? Do you have budget for phone calls, database services, or travel to
+  libraries, or other sites?
 
 ### Determining the information that needs to be part of the deliverable
 
 1. Draft an outline of the contents focusing on the kinds of information that readers will expect to
 see in each part.
 
-2. Determine what information you still need to acquire. Make a list of the pieces of information
-you don't yet have.
+2. Determine what information you still need to acquire. 
 
-3. Create questions you need to answer in your deliverable. Writing the questions in, at least,
-forces you to think carefully about your topic. One question suggests another and so you have a
-length release that you need to answer.
+3. Create questions you need to answer in your deliverable. Writing the questions, at least, forces
+you to think carefully about your topic. One question suggests another and so you have a length
+release that you need to answer.
 
-4. Conduct secondary research. Study journal articles and web based sources such as online
+4. Conduct secondary research; study journal articles and web based sources such as online
 databases, websites, reference works, and newspaper indexes.
 
-5. Conduct primary research to answer some of your questions by consulting company records, by
-interviewing experts, by distributing questionnaires, and by interviewing other people in the
+5. Conduct primary research to answer some of your questions by consulting company records,
+interviewing experts, distributing questionnaires, and interviewing other people in the
 organization or industry. (Other questions call for using social media to gather information from
 your customers, suppliers, and other stakeholders. Evaluate your info, your information.) 
 
@@ -393,7 +391,8 @@ enough high quality information to create the deliverable.
 ```
 In-Video Quiz
 
-Arrange the stages of a research process in its most logical order. Put numbers 1-12 to indicate the sequence of the stages. See the example.
+Arrange the stages of a research process in its most logical order. Put numbers 1-12 to indicate the
+sequence of the stages. See the example.
 
 [Content below already arranged in correct order]
 
@@ -411,6 +410,7 @@ Arrange the stages of a research process in its most logical order. Put numbers 
 12. Do more research
 ```
 
+<!-- @@@*** continue with small corrections from this point -->
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 ## Unit 2. Laboratory Report
 
