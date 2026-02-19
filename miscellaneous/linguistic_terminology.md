@@ -114,6 +114,7 @@ The most obvious exception is a noun phrase consisting of a pronoun.
 A *noun phrase* is one kind of syntactic category, there are also *verb*, *adjective*, *adverb*, and
 *prepositional* phrases.
 
+
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Argument
 <!-- page 23 -->
@@ -167,17 +168,19 @@ predicate, and every sentence must consist of one or more clauses.
 
 A clause which is the highest-ranking, or only, clause in its sentence is a ***main clause***; a
 clause which is subordinated to another is a ***subordinate clause***. 
-
 Today we always regard a subordinate clause as forming an integral part of the clause containing it
 (its ***matrix clause***).
 
 The clause is a traditional and fundamental unit of sentence structure, though the term is not used
-by all grammarians in exactly the same way. Recently some grammarians have been extending the
-term *clause* to every unit containing a verb, including many units traditionally regarded only as
-phrases. Examples: `[Susie's heavy smoking] is affecting her health`; `Susie wants [to buy a new
-car]`; `[Having finished her dinner]`, `Susie reached for her cigarettes`. This extended usage is
-not standard, but it is now very widespread. 
-<!-- are these three examples of something that is not standard? double check -->
+by all grammarians in exactly the same way[^extension]. 
+
+[^extension]: Recently some grammarians have been extending the term *clause* to every unit
+containing a verb, including many units traditionally regarded only as phrases. 
+Examples: 
+`[Susie's heavy smoking] is affecting her health`; 
+`Susie wants [to buy a new car]`; 
+`[Having finished her dinner], Susie reached for her cigarettes`. 
+This extended usage is not standard, but it is now very widespread.
 
 ### Examples 
 
