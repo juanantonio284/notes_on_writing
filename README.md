@@ -10,6 +10,12 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ## Contents
 
+### ideas
+
+* `translation_tips.md`: tips I would give my younger self for doing translation work
+* `writing_a_book.md`: a guide on the logistic process of writing a book (or at least an attempt at
+  one)
+
 ### markdown_usage
 
 These guides might provide some insight into how the markdown syntax renders to an HTML document.
@@ -29,7 +35,9 @@ These guides might provide some insight into how the markdown syntax renders to 
 * `linguistic_terminology.md`: the context and meaning of different terms in linguistics, especially
   selected to build toward a technical understanding of what a sentence is: (`head -> phrase ->
   clause -> sentence`). This document is, to borrow the phrase, "neither a dictionary nor an
-  encyclopedia, but something in between". (I can't say that I've tried to make a short summary—or that this is a "practical" guide—but I've certainly tried to build the summary around the terms that, over time, I've found essential to know.)
+  encyclopedia, but something in between". (I can't say that I've tried to make a short summary—or
+  that this is a "practical" guide—but I've certainly tried to build this document around terms
+  that, over time, I've found essential to know.)
 
 * `oxford_abbreviations.md`: usage of the abbreviations *e.g.*, *i.e.*, *viz.*, and *etc.*
 
@@ -41,8 +49,7 @@ These guides might provide some insight into how the markdown syntax renders to 
 
 * `common_grammatical_errors.md`: a summary of common grammatical errors seen in technical writing,
   categorized by seriousness
-
-* `translation_tips.md`: tips I would give my younger self for doing translation work
+  
 
 ### MIPT
 
