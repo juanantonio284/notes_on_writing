@@ -1,6 +1,11 @@
-# Some Linguistic Terminology
+# Linguistic Terminology 1
 
-[Source: Trask/Stockwell, *Language And Linguistics: The Key Concepts* (2nd edn)]  
+This file covers grammatical units[^gu] that build up to the 
+sentence: *head*, *phrase*, *argument*, *subject*, *clause*, *sentence*
+
+[^gu]: Not sure if this is an appropriate way to categorize the terms below, or if the terms below
+can even be lumped together in the same category. But they are all connected in the sense of
+understanding how a sentence is formed, which is the point of these notes. 
 
 Below: 
 
@@ -30,11 +35,9 @@ For example:
 * The **adverb phrase** `very slowly` is headed by the adverb `slowly`.
 * The **prepositional phrase** `under the bed` is headed by the preposition `under`.
 
-The concept of heads is an ancient one, but it largely disappeared from linguistics during the
-earlier part of the twentieth century. Since the 1970s, however, heads have once again come to be
-seen as grammatically central, and many contemporary theories of grammar assign them a very
-prominent place; **one or two theories even take headedness to be the most important grammatical
-notion of all**.
+Heads have once again come to be seen as grammatically central, and many contemporary theories of
+grammar assign them a very prominent place; **one or two theories even take headedness to be the
+most important grammatical notion of all**.
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -43,16 +46,15 @@ notion of all**.
 
 ```
 Phrase: a small group of words standing together as a conceptual unit, typically forming a component
-of a clause. From Greek phrazein ‘declare, tell’. [OED Definition]
+of a clause. From Greek phrazein 'declare, tell'. [OED Definition]
+
+A phrase is a grammatical unit which is *smaller* than a clause (does not contain all of the things
+found in a clause).
 ```
 
-A phrase is a grammatical unit which is smaller than a clause. Every phrase is built up from
-a *head*, an item (usually a single word) which itself determines what kind of phrase the whole
-thing is. A one-word phrase consists of a head with no other material at all. 
-
-The term *phrase* is an ancient one, and it has long been used to denote a grammatical unit which
-typically consists of two or more words, but which does not contain all of the things found in a
-clause. 
+Every phrase is built up from a *head*, an item (usually a single word) which itself determines what
+kind of phrase the whole thing is. A one-word phrase consists of a head with no other material at
+all. 
 
 ### Phrasal categories (types of phrases)
 
@@ -88,23 +90,22 @@ or an object. Noun phrases are the only things that can act as subjects or objec
 sentences.
 
 Consider the sentence `A small party of Spanish adventurers managed to capture the Aztec capital.` A
-traditional view of sentence structure holds that the **subject** and the **direct object** of the
-sentence are the nouns *party* and *capital*, respectively. But this is not strictly correct. The
-true subject and object are the noun phrases (**NP**s) `a small party of Spanish adventurers` and
-`the Aztec capital`.
+traditional view of sentence structure would hold that the **subject** and the **direct object** of
+the sentence are the nouns *party* and *capital*, respectively; but this is not strictly correct.
+The true subject and object are the noun phrases (**NP**s) `a small party of Spanish adventurers`
+and `the Aztec capital`.
 
 A noun phrase may be identified in two different ways:
 
 1. It must occupy one of only a few possible slots in a sentence structure.
-
 2. It must have one of only a few possible types of internal structure.
 
 An English noun phrase is usually built up around a single ***noun***, and that noun is the head of
-the noun phrase, the item which is chiefly responsible for the nature of the NP. 
+the noun phrase, the item which is chiefly responsible for the nature of the noun phrase. 
 
 * In my examples, *party* and *capital* are the heads of the two NPs. The first NP denotes a
-  particular party, and the second a particular capital. The other words in the NP serve only to
-  provide further identification.
+  particular party, and the second a particular capital. (The other words in the phrases serve only
+  to provide further identification.)
   
 The most obvious exception is a noun phrase consisting of a pronoun. 
 
@@ -129,7 +130,7 @@ requires between one and three arguments.
 
 * The *simple intransitive* verbs 'smile' and 'arrive' are ***monovalent***, requiring only one
   argument, the subject, as in `Susie smiled`
-    - Something like `*Susie smiled Natalie` would be ungrammatical (the asterisk marks this)
+    - Something like `*Susie smiled Natalie` would be ungrammatical [the asterisk marks this]
   
 * The *simple transitive* verb like 'kiss' or 'slap' is ***divalent***, requiring a subject and one
   object, as in `Susie kissed Natalie`
@@ -150,13 +151,15 @@ or 'doer' of the verb, though **many grammars distinguish the grammatical subjec
 or 'real' subject**: in `The baby was kissed by the politician`, the grammatical subject is
 different from the logical subject.
 
-A subject is prototypically a noun phrase, though it is possible for other parts of speech and
-categories to act as subjects: verb phrases can be nominalized or rank-shifted to operate as
+*A subject is prototypically a noun phrase*, though it is possible for other parts of speech and
+categories to act as subjects: *verb phrases can be nominalized* or rank-shifted to operate as
 subjects—e.g. `Running up the hill is tiring`, `To finish this book is his main aim`.
 
-Typical in English are existential statements (`There are ten boys here`), statements that introduce
-modal forms (`It is true that there are no bananas`) or assertions about the weather (`It is
-raining`).
+Typical in English are:
+
+* existential statements (`There are ten boys here`)
+* statements that introduce modal forms (`It is true that there are no bananas`)
+* assertions about the weather (`It is raining`)
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
@@ -164,15 +167,9 @@ raining`).
 <!-- page 37 -->
 
 A clause is the largest grammatical unit smaller than a sentence; it consists of a subject and a
-predicate, and every sentence must consist of one or more clauses. 
-
-A clause which is the highest-ranking, or only, clause in its sentence is a ***main clause***; a
-clause which is subordinated to another is a ***subordinate clause***. 
-Today we always regard a subordinate clause as forming an integral part of the clause containing it
-(its ***matrix clause***).
-
-The clause is a traditional and fundamental unit of sentence structure, though the term is not used
-by all grammarians in exactly the same way[^extension]. 
+predicate, and every sentence must consist of one or more clauses. The clause is a traditional and
+fundamental unit of sentence structure, though the term is not used by all grammarians in exactly
+the same way[^extension]. 
 
 [^extension]: Recently some grammarians have been extending the term *clause* to every unit
 containing a verb, including many units traditionally regarded only as phrases. 
@@ -184,7 +181,7 @@ This extended usage is not standard, but it is now very widespread.
 
 ### Examples 
 
-* A **simple sentence** consists only of a single clause: `[Susie has bought a skirt]`. 
+* A **simple sentence** consists only of a single clause: `[Susie has bought a skirt].`
 
 * A **compound sentence** consists of two or more clauses of equal rank, usually joined by a
   connecting word like *and*, *or*, or *but*: `[Susie wants children], but [her career won't allow
@@ -193,7 +190,14 @@ This extended usage is not standard, but it is now very widespread.
 * A **complex sentence** consists of two or more clauses where one out-ranks the others, which are
   subordinated to it: `[After she got her promotion], [Susie bought a new house].`
 
-### Types of subordinate clause
+### Types of clauses
+
+* ***Main clause***: the clause which is the highest-ranking, or only, clause in its sentence
+* ***Subordinate clause***: a clause which is subordinated to another. Today we always regard a
+  subordinate clause as forming an integral part of the clause containing it
+  (its ***matrix clause***)
+
+#### Types of subordinate clause
 <!-- The examples below are from, both, page 37 and page 282 (Subordination) -->
 
 * A ***complement clause*** is attached to a preceding word (usually a verb or a noun)
@@ -207,7 +211,7 @@ This extended usage is not standard, but it is now very widespread.
     - `The rumour [that Susie is quitting] is not true.` (a noun-complement clause)
 
 * A ***relative clause*** is attached to a preceding noun, which it modifies, and always contains a
-  gap somewhere inside it: [the position of each gap is marked with the symbol `*e*` (for 'empty')]
+  gap somewhere inside it [the position of each gap is marked with the symbol `*e*` for 'empty']:
 
     - `The job [that Susie wants *e*] involves a lot of travelling.`  
     - `The skirt [that Susie bought *e*] is too short.`
@@ -267,3 +271,12 @@ assigning different structures to identical or similar strings of words for humo
 the old gag `Time flies like an arrow; fruit flies like a banana` and in the punchline of a certain
 cat-food commercial: `Cats like Felix like Felix`. (**Pragmatics** makes the useful distinction
 between the abstract sentence and the actual spoken or written **utterance**.)
+
+
+
+
+## References
+
+* Trask/Stockwell, *Language And Linguistics: The Key Concepts* (2nd edn)
+* Oxford's English Dictionary
+* Cambridge Dictionary
