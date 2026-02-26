@@ -7,12 +7,6 @@ sentence: *head*, *phrase*, *argument*, *subject*, *clause*, *sentence*
 can even be lumped together in the same category. But they are all connected in the sense of
 understanding how a sentence is formed, which is the point of these notes. 
 
-Below: 
-
-* Cross-references to other entries are given in **bold face** on first mention.
-* ***Bold italics*** are used to highlight terms as they appear and are explained within the context
-  of a paragraph (but these terms do not have a separate entry)
-
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Head
@@ -82,6 +76,8 @@ in a sentence (any ***constituent***), of whatever size or nature. So, for examp
 hence it is not a phrase in the narrower sense of the term, but it is a phrase in this extended
 sense. 
 
+
+<!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 ## Noun Phrase
 <!-- page 189 -->
 

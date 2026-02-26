@@ -12,6 +12,9 @@ way that is convenient for me; no claims are made and no guarantees are given.
 
 ### ideas
 
+* `peer_review_rubric.md`: an idea for a rubric so that peer reviewers can "grade" papers in a more
+  organized fashion (and not get away with dumping trash comments on the author trying to get
+  published)
 * `translation_tips.md`: tips I would give my younger self for doing translation work
 * `writing_a_book.md`: a guide on the logistic process of writing a book (or at least an attempt at
   one)
