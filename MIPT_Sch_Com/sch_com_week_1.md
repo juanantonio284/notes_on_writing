@@ -10,7 +10,7 @@ academic English appropriate to a research article.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 # Week 1, Part 1: Conventions
 
-## 1.1 - Writing in English
+## 1.1 Writing in English
 
 > "Every language is a vast pattern-system, different from others, in which are culturally ordained
    the forms and categories by which the personality not only communicates, but also analyzes
@@ -79,7 +79,7 @@ results of his comparative analysis in the following figure:
 
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
-## 1.2 - Anglo-American Rhetorical Traditions
+## 1.2 Anglo-American Rhetorical Traditions
 
 ```
 
@@ -188,7 +188,7 @@ writing.
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ -->
 # Week 1, Part 2: Clarity of Thought
 
-## 1.4 - Clarity, Precision, Accuracy
+## 1.4 Clarity, Precision, Accuracy
 
 > "State your facts as simply as possible, even boldly. No one wants flowers of eloquence or
    literary ornaments in a research title." — R.B. McKerrow.

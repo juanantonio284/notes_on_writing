@@ -32,9 +32,9 @@ made and no guarantees are given.]
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 2, Lesson 1: Technical Writing Overview
+# W2, L1: Technical Writing Overview
 
-## 2.1 - What's In A Name?
+## 2.1 What's In A Name?
 
 Technical writers write technical and software manuals, handbooks, technical guides, and provide
 online help. Anyone who writes about technology for other people is typically referred to as a
@@ -181,7 +181,7 @@ Other important characteristics of documentation:
 * context-sensitivity
 * searchability
 
-### Six major characteristics of a technical document
+### Six Major Characteristics of a Technical Document
 
 1. Addresses particular readers
 2. Helps readers solve problems
@@ -223,7 +223,7 @@ Other important characteristics of documentation:
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 ## 2.3 Measures of Excellence in Technical Documents
 
-### Eight characteristics distinguish excellent technical documents
+### Eight Characteristics Distinguish Excellent Technical Documents
 
 1. Honesty
 2. Clarity
@@ -300,7 +300,7 @@ them to use the information safely, efficiently, and effectively. Thus, a good t
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 2, Lesson 2: The Deliverables
+# W2, L2: The Deliverables
 
 ## 2.4 The Content Approach (documentation deliverable)
 
@@ -340,7 +340,7 @@ probably plan to use a great deal of your content in multiple output forms.
   that stands out and can be mixed and matched with other units. If you're accustomed to writing in
   a linear narrative style, topic oriented writing may require some effort to learn.
 
-### Decisions to make about how you present the documentation content
+### Decisions For Presenting The Documentation Content
 
 These decisions depend on:
 
@@ -396,7 +396,7 @@ You can plan to go back later and expand it to a task-based approach. To create 
 documentation, go through the application's or device's user interface, and describe each single
 component accurately and consistently.
 
-### Scenario-based information
+### Scenario-based Information
 
 This is information that is designed and written to support user's progress through scenarios to
 achieve goals. When you write scenario-based information instead of thinking of a scenario as one
@@ -504,7 +504,7 @@ research, annual engineering surveys. You should know what your audience wants.
 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
 <!-- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈***≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ --> 
-# Week 2, Lesson 3: Let The Writing Begin
+# W2, L3: Let The Writing Begin
 
 ## 2.6 Understanding Audience and Purpose
 
@@ -661,7 +661,7 @@ Technology* describes the following major issues:
 * **Linguistic** – in many cultures, the orientation of text on a page and in a book is not from
     left to right.
 
-### Eight suggestions for communicating more effectively with multicultural readers
+### Eight Suggestions For Communicating More Effectively With Multicultural Readers
 
 1. Limit your vocabulary: every word should have only one meaning. It's called for simplified
 English and in other basic English languages.
